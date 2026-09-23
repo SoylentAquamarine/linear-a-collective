@@ -56,6 +56,30 @@ publishers" could not be independently verified this cycle (source PDF
 unreadable by available tooling). Next action: read `sigla.phis.me/paper.html`
 directly.
 
+**Update (2026-09-23, second cycle — see
+`logs/2026-09-23-sq1-navarre-ai-provenance-audit.md`):** the direct read of
+`sigla.phis.me/paper.html` was attempted and blocked outright by this
+session's network egress policy (`EGRESS_BLOCKED`), as were every academic
+mirror tried (Cambridge repository, Semantic Scholar, academia.edu,
+fluxus-editions.fr, huggingface.co, an inscribercproject.com mirror) — a
+new, environment-level blocker, distinct from the "PDF unreadable" tooling
+issue logged last cycle. `github.com`/`raw.githubusercontent.com` were
+reachable. **Reading `sigla.phis.me/paper.html` directly is still the next
+action, for whichever party/session has unblocked network access.**
+Instead, this cycle completed the provenance audit of Navarre-AI/linear-a
+that Meeting #1 also called for, via direct reads of that repo's own
+`README.md`/`LICENSE`/`CREDITS.md`/`RELEASE-NOTES-2026-09-18.md` (not the
+bundled corpus data itself, per the no-bulk-download rule). Verdict: a
+disciplined, rights-aware, non-peer-reviewed single-maintainer compilation
+(1,884 records / 1,665 objects, 4,936 sign occurrences, a self-reported
+damage-flagging schema covering 358 of them) that also disclosed and
+withdrew a large body of prior claims/benchmarks after a data-import defect
+and an external audit disagreed with most of what it checked.
+**Recommendation: do not adopt its word/reading-level fields without an
+independent spot-check; its structural metadata and damage-flagging
+convention are lower-risk and can inform SQ-2's schema design regardless of
+which corpus is ultimately selected.** SQ-1 source selection remains open.
+
 ## SQ-2 — Sign-value confidence atlas
 
 **Purpose:** this is the piece of groundwork that makes Linear A a

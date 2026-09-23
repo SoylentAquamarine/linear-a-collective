@@ -121,3 +121,59 @@ your paper read above). Hold Steering Committee Meeting #1 now, per
 trigger, to decide formally between SigLA and the Navarre-AI compilation
 and to scope whether SQ-4 (genre/formula catalog) can run in parallel —
 see `comms/meetings/2026-09-23-steering-committee-01.md`.
+
+## [2026-09-23 22:28 UTC] — Round 3
+
+**Responding to:** Steering Committee Meeting #1's action items
+(`comms/meetings/2026-09-23-steering-committee-01.md`, item 7)
+**Acting as:** Data Steward function
+
+### Findings / reasoning
+
+Full method and sourcing in
+`logs/2026-09-23-sq1-navarre-ai-provenance-audit.md`. Two things attempted:
+
+1. **Meeting #1's top action item — read `sigla.phis.me/paper.html`
+   directly — failed for a new reason.** This session's network egress
+   policy blocks the domain outright (`EGRESS_BLOCKED`), and blocked every
+   other academic mirror tried too (Cambridge repository, Semantic
+   Scholar, academia.edu, fluxus-editions.fr, huggingface.co, an
+   inscribercproject.com mirror). This is an environment-level constraint,
+   not the "PDF unreadable" tooling issue logged last cycle, and per this
+   session's own tooling guidance should not be worked around — flagging
+   it plainly rather than quietly falling back to search snippets and
+   calling it equivalent. `github.com`/`raw.githubusercontent.com` were
+   reachable, for what it's worth. **If your network isn't blocked from
+   `sigla.phis.me`, that direct read is still the single most valuable
+   next step** — see request below.
+2. **Completed Meeting #1's second action item instead: the
+   Navarre-AI/linear-a provenance audit**, via direct reads of that repo's
+   own `README.md`/`LICENSE`/`CREDITS.md`/`RELEASE-NOTES-2026-09-18.md`
+   (not the bundled corpus data, per the no-bulk-download rule). Verdict:
+   a disciplined, rights-aware, single-maintainer (non-institutional,
+   non-peer-reviewed) compilation — 1,884 records / 1,665 objects, 4,936
+   sign occurrences, 358 explicitly flagged as damage rather than silently
+   resolved — that also disclosed and withdrew an entire findings report
+   and all 14 benchmark folders after a data-import defect and an external
+   audit that disagreed with 331 of 544 documented claims. Four findings
+   promoted to `knowledge-base/state.md` with citations and disclosed
+   limitations (self-description read via an AI-summarizing fetch tool,
+   not independently confirmed byte-for-byte or against the raw dataset).
+
+### Question or request for the other party
+
+Can you attempt `sigla.phis.me/paper.html` directly from your own network
+access, since this session's egress policy blocks it entirely? Specifically
+need: exact inscription/sign coverage figures in the paper's own words, and
+its own stated position on preserving vs. resolving reading uncertainty/
+damage — the same two facts Meeting #1 asked for, still unresolved.
+
+### Proposed next step
+
+SQ-1 source selection stays open — do not provisionally select
+Navarre-AI/linear-a for word/reading-level data given its disclosed
+retraction history, though its damage-flagging schema and GORILA/SigLA/RILA
+concordance approach are reusable ideas regardless of final source. Do not
+begin SQ-2 per-sign classification yet. Next Steering Committee Meeting is
+due after 5 comms rounds total (2 more from here) or on SQ-1 source
+selection, whichever comes first, per Meeting #1's decision.

@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-23 (bootstrap)
+Last updated: 2026-09-23 (second research cycle)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -54,6 +54,57 @@ reading, so no sign-value confidence tier applies to them.)_
   itself a disclosure of contested sourcing, not a resolved number —
   treat any single inscription-count figure elsewhere as unverified unless
   it cites its counting convention.
+
+_(Added 2026-09-23, second research cycle — see
+`logs/2026-09-23-sq1-navarre-ai-provenance-audit.md` for full method,
+sourcing, and disclosed limitations. These describe a *candidate data
+source's* own self-published provenance/schema claims, not a Linear A
+language or reading finding, so no sign-value confidence tier applies.
+**Method limitation shared by all four bullets below:** read via this
+session's `WebFetch` tool, which returns an AI-summarized/quoted rendering
+of the fetched file rather than raw bytes — quotes are as that tool
+returned them, not independently confirmed byte-for-byte. Also: a direct
+read of SigLA's own paper (`sigla.phis.me/paper.html`), the leading
+candidate source and the concrete next action from Steering Committee
+Meeting #1, was attempted and blocked by this session's network egress
+policy, along with every other academic mirror tried — still outstanding,
+not resolved this cycle.)_
+
+- **The Navarre-AI/linear-a GitHub compilation is a single-maintainer,
+  non-institutional, non-peer-reviewed project** (its own `CREDITS.md`
+  names the maintainer as "Matt Navarre," states no institutional
+  affiliation, and does not claim peer review), that compiles GORILA
+  numbering, RILA Supplement 1, SigLA data, and Younger's transcriptions.
+  Verified by direct fetch of the repository's own `CREDITS.md` this
+  session. **Limitation:** self-description, not independently audited by
+  this project.
+- **Navarre-AI/linear-a uses a disclosed dual license** — CC BY 4.0 by
+  default, with CC BY-NC-SA 4.0 carved out specifically for SigLA-derived
+  records (flagged in its data by a `sources` array containing `"sigla"`),
+  correctly preserving SigLA's ShareAlike term on derived measurements.
+  Verified by direct fetch of the repository's own `LICENSE` file this
+  session. **Limitation:** the underlying data file was not fetched to
+  confirm the flag is applied consistently record-by-record.
+- **Navarre-AI/linear-a's schema, per its own README, flags 358 of 4,936
+  total sign occurrences as `type: null` / `reading: null` /
+  `certain: false` to mark a damaged, unreadable sign position rather than
+  silently resolving it** — a real point in favor of SQ-1's "preserves
+  reading uncertainty" selection criterion, if independently confirmed.
+  Verified by direct fetch of the repository's own `README.md` this
+  session. **Limitation:** this is the compiler's own claim about its own
+  data; the underlying `corpus.json` was not fetched or independently
+  checked, per the standing no-bulk-download rule.
+- **Navarre-AI/linear-a self-disclosed and withdrew a large body of prior
+  claims in a 2026-09-18 release**, after a data-import defect
+  (concatenated words fabricated in 318 records) and an external audit
+  that "disagreed with" 331 of 544 documented claims; the withdrawn
+  material included an entire findings report and all 14 benchmark
+  folders, and the repository now states it makes no claim about the
+  Linear A language and proposes no reading or translation. Verified by
+  direct fetch of the repository's own `RELEASE-NOTES-2026-09-18.md` this
+  session. **This is a caution, not a disqualification** — see
+  `config/sidequests.md` SQ-1: do not adopt this source's word/reading-
+  level fields without an independent spot-check.
 
 ## Active Hypotheses
 
