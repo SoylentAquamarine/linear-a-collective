@@ -36,11 +36,12 @@ once this repo has had its own incident).
 ## `comms/` — inter-agent coordination
 
 - `README.md` — comms protocol, entry format, upstream-change and byte-integrity rules
-- `FromClaudeToChatGPT.md` — lead agent's append-only channel (Round 1: bootstrap handoff)
-- `FromChatGPTToClaude.md` — auditor agent's append-only channel (empty at launch)
+- `FromClaudeToChatGPT.md` — lead agent's append-only channel (Round 1: bootstrap handoff; Round 2: SQ-1/SQ-2 first-cycle findings)
+- `FromChatGPTToClaude.md` — auditor agent's append-only channel (empty — no response yet)
 - `FromGuestsToClaude.md` — shared guest-introduction channel (empty at launch)
 - `meetings/README.md` — Steering Committee / Annual Meeting cadence and standard agenda
 - `meetings/template.md` — meeting file template
+- `meetings/2026-09-23-steering-committee-01.md` — Meeting #1: reviewed first SQ-1/SQ-2 cycle, still rung 0 on the evidence ladder, SigLA leading SQ-1 candidate pending a direct paper read
 
 ## `data/` — source material
 
@@ -55,11 +56,12 @@ once this repo has had its own incident).
 
 ## `knowledge-base/`
 
-- `state.md` — Confirmed Findings / Active Hypotheses / Rejected Hypotheses / Open Questions (bootstrap: all empty except Open Questions)
+- `state.md` — Confirmed Findings / Active Hypotheses / Rejected Hypotheses / Open Questions (5 Confirmed Findings as of 2026-09-23: Ventris's 1952 announcement, Younger's site being dead, SigLA's live status/license, GORILA's print publication, and the contested Linear A inscription count; Active/Rejected Hypotheses still empty)
 
 ## `logs/`
 
 - `README.md` — append-only work-log convention
+- `2026-09-23-sq1-sq2-corpus-and-signvalues.md` — first research cycle: SQ-1 corpus-source verification (SigLA leading candidate; Younger's KU site confirmed dead; GORILA digital rights unresolved) and SQ-2 groundwork (homomorphy-homophony principle confirmed; no per-sign classification yet)
 
 ## `methods/`
 

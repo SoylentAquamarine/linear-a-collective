@@ -39,6 +39,23 @@ reproducible or falsifiable without this.
 **Laptop/worker-node work:** none yet — this stage is source discovery and
 licensing/provenance research, not computation.
 
+**Status (2026-09-23, first-pass source verification — see
+`logs/2026-09-23-sq1-sq2-corpus-and-signvalues.md`):** no source selected
+yet. Verified this cycle: John Younger's KU-hosted site
+(`people.ku.edu/~jyounger/LinearA/`) is confirmed dead (DNS failure);
+SigLA (`sigla.phis.me`) is confirmed live, academically attributed (Ester
+Salgarella & Simon Castellan), and rights-stated (CC BY-NC-SA 4.0) —
+currently the leading candidate, pending a direct read of its own paper
+for coverage/uncertainty-preservation details. An independent tertiary
+compilation, Navarre-AI/linear-a (GitHub), merges GORILA numbering, RILA
+Supplement 1, SigLA, and Younger's transcriptions under a rights-clear
+dual license, but is not itself a peer-reviewed source and needs a
+provenance audit before use. GORILA's own digital/rights status remains
+unresolved — a claim that "scans have recently been put online by
+publishers" could not be independently verified this cycle (source PDF
+unreadable by available tooling). Next action: read `sigla.phis.me/paper.html`
+directly.
+
 ## SQ-2 — Sign-value confidence atlas
 
 **Purpose:** this is the piece of groundwork that makes Linear A a
@@ -73,6 +90,22 @@ gets manufactured.
 
 **Laptop/worker-node work:** sign-shape comparison/clustering against
 published Linear B sign catalogs, cross-referencing.
+
+**Status (2026-09-23, groundwork only — see
+`logs/2026-09-23-sq1-sq2-corpus-and-signvalues.md`):** no per-sign
+classification exists yet; this correctly waits on SQ-1 selecting a
+source. Verified this cycle: the field's general method for assigning
+borrowed values — the "homomorphy-homophony principle" (similar sign shape
+across the two scripts implies comparable phonetic value) — is
+real and citable (Wikipedia's "Linear A" article, itself citing the
+academic literature), confirming this is the correct axis SQ-2 must
+classify sign-by-sign rather than accept uniformly. A specific figure
+found in search results ("72% identity between Linear A and Linear B
+signs") could **not** be verified — its source PDF (a Cambridge repository
+document) was not extractable by available tooling this cycle — and is
+explicitly not being treated as confirmed. Next action: once SQ-1 selects
+a source, begin a first-pass classification using SigLA's per-sign data
+(if adopted) cross-referenced against a published Linear B sign catalog.
 
 ## SQ-3 — Language-family discriminant tests
 
