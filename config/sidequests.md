@@ -80,6 +80,27 @@ independent spot-check; its structural metadata and damage-flagging
 convention are lower-risk and can inform SQ-2's schema design regardless of
 which corpus is ultimately selected.** SQ-1 source selection remains open.
 
+**Update (2026-09-25, third cycle — see
+`logs/2026-09-25-sq1-sq4-lineara-explorer-and-kuro-kiro.md`):** a direct
+read of `sigla.phis.me/paper.html` was attempted a third time and blocked
+again, and this time the block was confirmed to be broad rather than
+SigLA-specific — `en.wikipedia.org`, `arxiv.org`, `doi.org`,
+`scholar.google.com`, `jstor.org`, `tandfonline.com`, `academic.oup.com`,
+and `researchgate.net` were all also rejected by this session's egress
+proxy. **This is now a three-cycle-confirmed environmental constraint —
+future cycles running under this same proxy policy should not keep
+re-attempting it; only a party/session with different network access can
+resolve it.** Searching laterally instead surfaced a third candidate,
+`github.com/mwenge/LinearA` + `github.com/mwenge/lineara.xyz` ("LinearA
+Explorer"), citing GORILA and a named scholar George Douros as sources, with
+1,684 catalogued document entries — but it has no `LICENSE` file at all
+(rights status undetermined, weaker than SigLA or Navarre-AI on this axis),
+and its claim that GORILA scans are hosted at `cefael.efa.gr` is itself
+unverified (that domain is also egress-blocked from this session). SQ-1 is
+now a three-way open field (SigLA / Navarre-AI / mwenge-LinearA); source
+selection remains open pending a direct SigLA paper read from an unblocked
+network.
+
 ## SQ-2 — Sign-value confidence atlas
 
 **Purpose:** this is the piece of groundwork that makes Linear A a
@@ -192,6 +213,23 @@ Rongorongo's lunar-calendar-like sequence serve their own projects.
 
 **Laptop/worker-node work:** none required beyond ordinary text
 comparison; this is primarily source-verification research.
+
+**Status (2026-09-25, first catalog entry — see
+`logs/2026-09-25-sq1-sq4-lineara-explorer-and-kuro-kiro.md`):** cataloged
+the first administrative-term pair: **KU-RO** ("total") and **KI-RO**
+("deficit"/"owed"), conventionally read this way in existing published
+Linear A scholarship (cited across multiple independent sources, including
+ones otherwise proposing rival language-family identifications) based on
+their position at the end of numeral/commodity lists in accounting texts —
+a functional/positional identification, not a phonetic or language-family
+claim; see `knowledge-base/state.md` Confirmed Findings for the full
+citation and disclosed limitations. A frequency spot-check against one
+unverified candidate corpus file (mwenge/LinearA, see SQ-1) found 37
+KU-RO / 16 KI-RO occurrences across 1,684 documents, consistent with (not
+proof of) the literature description. Next action: extend to other
+recurring administrative/numeral-ideogram conventions, and get a
+primary-source-verified read of KU-RO/KI-RO (not just WebSearch synthesis)
+once this session's egress restrictions allow it.
 
 ## Initial priority
 

@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-23 (second research cycle)
+Last updated: 2026-09-25 (third research cycle)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -106,9 +106,54 @@ not resolved this cycle.)_
   `config/sidequests.md` SQ-1: do not adopt this source's word/reading-
   level fields without an independent spot-check.
 
+_(Added 2026-09-25, third research cycle — see
+`logs/2026-09-25-sq1-sq4-lineara-explorer-and-kuro-kiro.md` for full method,
+sourcing, and disclosed limitations.)_
+
+- **In Linear A administrative/accounting texts, the word KU-RO is
+  conventionally read in the published literature as meaning "total"
+  (analogous to Linear B's accounting term to-so, "so much"), and KI-RO as
+  "deficit"/"owed," based on their position at the end of numeral/commodity
+  lists.** This is a report of existing, pre-dating-this-project field
+  scholarship (corroborated across multiple independent sources found this
+  session, including sources otherwise arguing for rival, contested
+  language-family identifications, which cite the same base KU-RO/KI-RO
+  reading regardless), not a novel test or translation by this project.
+  **This is a functional/positional word identification, not a phonetic
+  decipherment or a language-family claim** — it does not depend on, and
+  should not be conflated with, any sign's SQ-2 phonetic-value confidence
+  tier. **Limitation:** sourced via WebSearch-synthesized snippets of
+  academia.edu/ResearchGate/World-History-Encyclopedia pages, not a full
+  primary-paper read (this session's network egress policy blocks direct
+  access to `sigla.phis.me`, `en.wikipedia.org`, `arxiv.org`, `doi.org`,
+  `scholar.google.com`, `jstor.org`, `tandfonline.com`, `academic.oup.com`,
+  `researchgate.net`, and other academic domains — see the log for the full
+  list; this is now a three-cycle-confirmed environmental constraint, not
+  a one-off failure). A frequency spot-check against one directly-fetched
+  (not independently verified) candidate corpus file found 37 occurrences
+  of `KU-RO` and 16 of `KI-RO` across 1,684 catalogued documents —
+  consistent with, but not proof of, the literature's description.
+- **A third SQ-1 corpus candidate exists beyond SigLA and Navarre-AI/
+  linear-a: `github.com/mwenge/LinearA` (extraction scripts) and
+  `github.com/mwenge/lineara.xyz` ("LinearA Explorer," the hosted app +
+  bundled data), a single-maintainer project citing GORILA (Godart &
+  Olivier) and a named scholar, George Douros, as its two principal
+  sources.** Verified directly via `raw.githubusercontent.com` and the
+  repo's own GitHub page this session. **Limitation:** no `LICENSE` file
+  exists in the `lineara.xyz` repo (checked directly; 404 on `LICENSE`,
+  `LICENSE.md`, `LICENSE.txt`), so its rights/reuse status is undetermined
+  — a real mark against it relative to SigLA and Navarre-AI. Its claim that
+  GORILA's digitized volumes are hosted at `cefael.efa.gr` could not be
+  independently checked this session (`cefael.efa.gr` is itself blocked by
+  this session's egress policy) and should be treated as an unverified
+  secondary claim, not a confirmed fact about GORILA's availability.
+
 ## Active Hypotheses
 
-_(none yet)_
+_(none yet — the KU-RO/KI-RO entry above is a Confirmed Finding about
+existing scholarship, not an Active Hypothesis, per
+`methods/falsification-standard.md`: it makes no language-family claim and
+was not developed or tested by this project.)_
 
 ## Rejected Hypotheses
 
