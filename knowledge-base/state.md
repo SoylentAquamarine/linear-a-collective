@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-25 (third research cycle)
+Last updated: 2026-09-25 (fourth research cycle)
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -147,6 +147,60 @@ sourcing, and disclosed limitations.)_
   independently checked this session (`cefael.efa.gr` is itself blocked by
   this session's egress policy) and should be treated as an unverified
   secondary claim, not a confirmed fact about GORILA's availability.
+
+_(Added 2026-09-25, fourth research cycle — see
+`logs/2026-09-25-sq1-sigla-coverage-and-source-selection.md` for full
+method, sourcing, and disclosed limitations. This is a source-evaluation
+finding, not a language-identification result.)_
+
+- **SigLA ("The Signs of Linear A: a palæographical database") comprises a
+  list of 300 standard signs drawn from 400 Linear A inscriptions copied by
+  hand, with more than 3,000 individual sign occurrences currently
+  searchable, and is explicitly described (by its own project pages, as
+  indexed) as "still under construction," aiming eventually to cover all
+  known inscriptions.** Corroborated across three independent `WebSearch`
+  queries returning overlapping but non-identical source sets (Semantic
+  Scholar, academia.edu, the Cambridge Apollo repository record, two
+  separate archaeology.wiki articles, the INSCRIBE project's own page, and
+  a fluxus-editions.fr PDF mirror), all consistent on the 300/400/3,000+
+  figures. **Limitation: this is a WebSearch-synthesized secondary
+  reading, not a direct primary read of `sigla.phis.me/paper.html` itself
+  — that direct read has now failed for four consecutive cycles due to a
+  confirmed broad egress block on this session's network (also blocking
+  en.wikipedia.org, arxiv.org, doi.org, scholar.google.com, jstor.org,
+  tandfonline.com, academic.oup.com, researchgate.net, archaeology.wiki,
+  repository.cam.ac.uk, and site.unibo.it, each independently confirmed
+  this or a prior session).** 400 inscriptions is substantially smaller
+  than this project's already-logged contested full-corpus range
+  (~1,400–1,534); treat SigLA as a partial, expanding source, not a
+  full-corpus one.
+- **SigLA's own design treats reading uncertainty as a named concern and a
+  retained, displayed feature rather than something silently resolved**
+  — the indexed synthesis describes "uncertain readings, unknown word
+  boundaries, uncertain function performed by signs in isolation, and
+  ambiguous standard terminology" as an explicit challenge the database
+  was built to address, and separately states damaged features such as
+  erasures are included for display/analysis, alongside an explicit
+  three-way distinction between a sign's standardised shape, a particular
+  occurrence, and a graphic variant. **Limitation: same WebSearch-synthesis
+  caveat as above — this confirms uncertainty/damage is a designed-for,
+  retained concept in SigLA, but does not confirm the exact field-level
+  encoding mechanism, which still needs a direct paper read or direct data
+  inspection to pin down precisely.**
+- **SQ-1 corpus-source selection: SigLA is now the project's provisionally
+  selected working source**, chosen over Navarre-AI/linear-a (broader
+  coverage and a self-reported damage-flagging schema, but non-
+  institutional, non-peer-reviewed, and disclosed a large claims/benchmark
+  retraction on 2026-09-18) and mwenge/LinearA (broader coverage, but no
+  license file at all — undetermined rights status) on the strength of its
+  institutional attribution, confirmed clean license (CC BY-NC-SA 4.0),
+  and now-corroborated coverage/uncertainty-handling profile. **This
+  selection is provisional, not final: it does not resolve whether SigLA's
+  400-inscription coverage will need supplementing from a broader source
+  once concrete gaps appear during SQ-2 classification, and it does not
+  authorize any bulk retrieval of SigLA's per-sign dataset** — see
+  `config/sidequests.md` SQ-1 for the full comparison table and reasoning,
+  and the standing no-bulk-download rule in `README.md`/`config/claude.md`.
 
 ## Active Hypotheses
 

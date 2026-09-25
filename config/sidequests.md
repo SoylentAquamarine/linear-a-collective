@@ -101,6 +101,36 @@ now a three-way open field (SigLA / Navarre-AI / mwenge-LinearA); source
 selection remains open pending a direct SigLA paper read from an unblocked
 network.
 
+**Update (2026-09-25, fourth cycle — see
+`logs/2026-09-25-sq1-sigla-coverage-and-source-selection.md`): SQ-1 is now
+provisionally resolved. SigLA is the provisionally selected working
+source.** A direct read of `sigla.phis.me/paper.html` failed a fourth time
+(egress-blocked), and three new adjacent domains tried for the first time
+(`www.archaeology.wiki`, `www.repository.cam.ac.uk`, `site.unibo.it`) were
+also blocked, further confirming the block is broad rather than
+SigLA-specific. Instead of a fifth attempt at the same blocked read, three
+independent `WebSearch` queries returned overlapping, mutually
+corroborating figures: SigLA = 300 standard signs / 400 inscriptions /
+3,000+ individual sign occurrences, explicitly "still under construction"
+(not yet full-corpus coverage), with reading uncertainty and damage
+(erasures) treated as a named design concern and a retained, displayed
+feature rather than silently resolved — though the exact field-level
+encoding scheme is still unconfirmed pending a direct paper/data read.
+
+**Comparison and full reasoning are in the log; summary: SigLA beats
+Navarre-AI/linear-a (non-institutional, disclosed a large 2026-09-18
+claims/benchmark retraction) and mwenge/LinearA (no LICENSE file at all)
+on institutional attribution and rights-clarity, at the cost of smaller
+raw coverage (400 vs. 1,684–1,884 documents).** This selection is
+provisional: it may need supplementing from a broader source once SQ-2
+classification surfaces concrete coverage gaps, and it does **not**
+authorize bulk retrieval of SigLA's per-sign dataset — any actual data
+pull stays to the same narrow citation/count-spot-check scale as the
+mwenge/LinearA precedent (Round 4), or needs explicit user authorization
+for anything larger. **SQ-2 may now begin its first-pass classification
+design against SigLA as the working source**, per this file's own
+sequencing rule below.
+
 ## SQ-2 — Sign-value confidence atlas
 
 **Purpose:** this is the piece of groundwork that makes Linear A a
@@ -151,6 +181,21 @@ document) was not extractable by available tooling this cycle — and is
 explicitly not being treated as confirmed. Next action: once SQ-1 selects
 a source, begin a first-pass classification using SigLA's per-sign data
 (if adopted) cross-referenced against a published Linear B sign catalog.
+
+**Update (2026-09-25, fourth cycle):** SQ-1 has now provisionally selected
+SigLA (see SQ-1 above) — this sidequest's blocking dependency is cleared.
+**Still correctly not started this cycle:** no per-sign classification
+exists yet, and none should begin without either (a) a narrow,
+citation-scale data check (same precedent as the mwenge/LinearA single-file
+spot-check, Round 4) or (b) explicit user authorization for a fuller
+SigLA data pull — retrieving and parsing SigLA's actual 300-sign / 3,000+
+occurrence dataset at working scale is more than a citation spot-check and
+should not be treated as already authorized by the source-selection
+decision alone. Next action for whichever cycle picks this up: get an
+explicit scope decision on SigLA data retrieval (spot-check vs. full pull
+with user authorization), then begin the first-pass borrowed-confident /
+inferred / unknown classification design using a published Linear B sign
+catalog as the comparison side.
 
 ## SQ-3 — Language-family discriminant tests
 
@@ -242,3 +287,9 @@ hypothesis against unlabeled sign confidence is exactly the failure mode
 this project exists to avoid repeating. SQ-4 can begin in parallel with
 SQ-1/SQ-2 (it is primarily source-verification research, not dependent on
 full corpus canonicalization) without competing with the primary task.
+
+**Status as of 2026-09-25 (fourth cycle):** SQ-1 has provisionally
+selected SigLA — the primary blocker is cleared. The new primary task is
+SQ-2's first-pass classification, gated only on an explicit scope decision
+for SigLA data retrieval (see SQ-2's update above). SQ-4 remains available
+as a parallel-track sidequest.
