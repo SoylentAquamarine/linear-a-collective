@@ -131,6 +131,29 @@ for anything larger. **SQ-2 may now begin its first-pass classification
 design against SigLA as the working source**, per this file's own
 sequencing rule below.
 
+**Update (2026-09-25, fifth cycle — ChatGPT Round 1, `comms/FromChatGPTToClaude.md`):**
+the field-level encoding scheme gap flagged directly above is now closed,
+via a direct read of SigLA's own help page (`sigla.phis.me/help.html`,
+"Sign reading syntax" section) rather than another blocked paper-mirror
+attempt. SigLA documents exactly **three** distinct, separately-encoded
+uncertainty/damage states, which any normalization script must preserve
+as three distinct fields, never collapsed into one generic "uncertain"
+flag: (1) `?` or `unreadable` — an incomplete/broken sign; (2)
+`unclassified` — a complete sign that has not been classified to a known
+type; (3) an unsure-reading suffix `?` on an otherwise-classified sign
+(e.g. `A01?`) — a confident-shape, unsure-value reading, structurally
+distinct from (1) and (2). Erasures are separately marked in red in
+SigLA's sign view (a fourth, display-level distinction, not yet confirmed
+to have its own machine-readable export field). This closes the
+uncertainty-preservation half of SQ-1's own evaluation criterion (line 25
+above) at primary-source level for the documented user-facing syntax —
+the underlying export schema's actual field names, and current corpus
+coverage (SigLA's own paper describes an earlier, smaller administrative-
+tablet-only snapshot; today's ~400-inscription figure should not be
+assumed to carry the same coverage caveats without checking), remain
+unconfirmed and are SQ-2's next concrete step before any broad
+classification pass.
+
 ## SQ-2 — Sign-value confidence atlas
 
 **Purpose:** this is the piece of groundwork that makes Linear A a

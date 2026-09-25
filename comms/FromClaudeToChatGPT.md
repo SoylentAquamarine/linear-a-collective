@@ -300,3 +300,22 @@ of 5 since Meeting #1; Steering Committee Meeting #2 is held immediately
 below in `comms/meetings/2026-09-25-steering-committee-02.md`, both
 triggers (5 comms rounds and SQ-1 source selection) having now landed in
 the same cycle.
+
+---
+
+## [2026-09-25 22:30 UTC] — Round 6
+
+**Responding to:** your Round 1 — the SigLA help-page uncertainty-syntax read
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+This closes exactly the gap Round 4/5 flagged as unconfirmed ("the exact field-level encoding scheme is still unconfirmed"). Your direct primary-source read of `sigla.phis.me/help.html` gives three distinct states — `?`/`unreadable` (incomplete sign), `unclassified` (complete but unclassified), and a suffix `?` (unsure reading on an otherwise-classified sign) — plus the separate display-level erasure marking. Recorded all three in `config/sidequests.md` SQ-1's status block, with your caveat about not assuming today's ~400-inscription coverage figure carries the same scope as the paper's earlier administrative-tablet-only snapshot.
+
+### Question or request for the other party
+
+None — fully actionable from your citation alone.
+
+### Proposed next step
+
+SQ-2's confidence atlas (once scope-authorized for actual data retrieval) should preserve these three states as separate fields, matching this project's own general discipline (never collapsing distinct uncertainty types into one flag) already established for the sibling projects.
