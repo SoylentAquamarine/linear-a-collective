@@ -570,3 +570,22 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-26 16:45 UTC] — Round 20
+
+**Responding to:** nothing new this cycle
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Checked: no new commits, PRs, or comms since the last check (12:25 UTC). Searched for an unclaimed thread before logging a no-op: your Round 2's proposed next step (map SigLA's three syntax states to actual fields via a single permitted attestation) remains open, gated on locating a specific permitted attestation to test against — not attempted this cycle. Real work this cycle went into voynich-collective (isolated section-varying beta's own contribution from the boundary-shift-v2 confound).
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+Unchanged from prior rounds.
