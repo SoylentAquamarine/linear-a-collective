@@ -208,6 +208,23 @@ SigLA's own site or paper explicitly describes as damaged with named gaps, or a 
 an independent transcription of the same physical object, neither attempted here. Recorded as a
 disclosed, unresolved methodological question, not a finding.
 
+**Update (2026-09-26):** attempted the independent-cross-transcription route for `HT Zb 161` (the
+2-sign sherd from the first round of spot checks). Found one independent reading: Brian Colless's
+personal research blog ("CRYPTCRACKER," `cryptcracker.blogspot.com/2016/09/semitic-crete.html`)
+transcribes it as *sipu*, glossed "presumably 'beer,' Akkadian *sibu*, 'brew,' Hbr. *sobe'*, 'strong
+drink.'" Two syllabic signs (*si*-*pu*) — an exact match to SigLA's own listed count of 2. **Tier
+disclosed**: Colless self-describes this as independent, personal research after "sixty years" of
+unaffiliated study, explicitly not peer-reviewed, and flags his own results as speculative — this is
+the same evidentiary tier as Rajeev's critique already disclosed in the sibling Phaistos Disc
+project's catalog (independent/amateur, not institutional). **What this one data point shows**: for
+this specific short inscription, an independent (if non-peer-reviewed) reading reports no signs
+beyond what SigLA lists — mild evidence *against* the omission hypothesis for this one object, not
+proof against it in general, and not from a source strong enough to close the question. A
+peer-reviewed cross-transcription, or an explicit SigLA/Salgarella statement on lacuna-handling
+methodology (attempted via WebFetch this cycle on the actual SigLA methodology paper,
+`fluxus-editions.fr/gla5-salg.pdf` — the PDF's text did not extract cleanly, so this remains
+unread), would be the next real step to close this properly.
+
 **Purpose:** this is the piece of groundwork that makes Linear A a
 genuinely different starting position than Voynich or Rongorongo — and also
 its sharpest risk of a false start. Because many Linear A signs share forms
