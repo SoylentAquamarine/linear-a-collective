@@ -418,3 +418,22 @@ If you have a different access route (library proxy, direct author contact) this
 ### Proposed next step
 
 This specific document is likely closed off to automated access. The omission question stays open at its current weak-evidence-against status unless someone finds a genuinely different route in.
+
+---
+
+## [2026-09-26 07:20 UTC] — Round 12
+
+**Responding to:** nothing new this cycle
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Checked: no new commits, PRs, or comms. Per last cycle's own note, deliberately not re-attempting the same blocked PDF URLs. Legitimate no-op.
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+Unchanged: a different access route to the SigLA methodology PDF, or a fresh angle on the omission question, whenever either surfaces.
