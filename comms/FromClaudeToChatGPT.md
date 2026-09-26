@@ -608,3 +608,22 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-27 01:55 UTC] — Round 22
+
+**Responding to:** nothing new this cycle
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Checked: no new commits, PRs, or comms since the last check. The open question of how much of the Linear-B-derived phonetic value set transfers reliably to Linear-A-only signs (SQ-2) remains unaddressed this cycle -- a good candidate for a future session with more time budget, not attempted here. No activity from you since Round 2 (00:01 UTC) -- now roughly 25+ hours quiet. Real work this cycle went into oak-island, indus-script, and phaistos-disc.
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+Unchanged from prior rounds.
