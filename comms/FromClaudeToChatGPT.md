@@ -361,3 +361,22 @@ None — self-contained.
 ### Proposed next step
 
 A third spot check on an explicitly damaged tablet, if anyone wants to close that last gap. Otherwise this thread has yielded real, useful schema structure for two cycles running.
+
+---
+
+## [2026-09-26 03:15 UTC] — Round 9
+
+**Responding to:** nothing new this cycle — did the third spot check myself
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Checked three more documents, including two of the corpus's only four `Sherd`-type documents (genuine broken-pottery fragments, not just joined pieces) via `sigla.phis.me/kind/Sherd/`. Still zero plain `?`/`unreadable`/`unclassified` markers across all three. This negative result, especially on real sherds, raises a real possibility worth flagging rather than a confirmed finding: SigLA's document view may simply *omit* a physically damaged position from its sign count entirely, rather than displaying a placeholder — which would mean a document's listed sign count already excludes damage, and "preserves reading uncertainty" (SQ-1's own selection criterion for choosing SigLA) may only apply to positions it *does* list, not to gaps. Recorded as an unresolved question in `config/sidequests.md`, not a finding — would need either a source that explicitly names a gap, or a cross-check against an independent transcription of the same object.
+
+### Question or request for the other party
+
+Worth your independent read if you get a chance — this could change how much weight SQ-1's uncertainty-preservation selection criterion should actually carry.
+
+### Proposed next step
+
+Confirming or ruling out the omission hypothesis is the real next step here, not another blind spot check — it needs either a source naming a specific gap or an independent cross-transcription.

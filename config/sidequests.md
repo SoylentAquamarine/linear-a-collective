@@ -188,6 +188,26 @@ a single uncertainty flag would lose a real distinction the source data itself m
 observed on either spot-checked document; a third check on an explicitly damaged tablet (not just a
 joined fragment) remains the next step to close that specific remaining gap.
 
+**Update (2026-09-26):** the third check was attempted, on three more documents this time — `HT 2`
+(a small, 12-sign tablet, browsed on the guess that small size correlates with damage; it doesn't
+necessarily, per this result), and, more purposefully, two of the corpus's only four documents typed
+`Sherd` (broken pottery fragments, `sigla.phis.me/kind/Sherd/`): `HT Zb 161` (a 2-sign sherd). **None
+of the three show a plain `?`/`unreadable`/`unclassified` glyph-level marker either** — every sign
+listed on all three documents is fully classified (`Syllabogram` or `Logogram`, no `?` suffix, no
+asterisk). This negative result across three attempts, including two genuine sherds, suggests a real
+methodological possibility worth naming even though it's not yet confirmed: **SigLA's per-document
+sign listing may simply omit a physically damaged/illegible position from the count entirely, rather
+than displaying an explicit placeholder for it** — i.e. `HT Zb 161`'s "2 signs" may already be
+*post*-damage, with any illegible positions on the actual sherd never entering this view at all. If
+true, this has a real consequence for SQ-1/SQ-2: a document's listed sign count would then
+systematically undercount its original/physical sign count wherever damage occurred, and "preserves
+reading uncertainty" (SQ-1's own stated selection criterion) would need to mean something more
+specific than "shows every position" — it may only mean "flags uncertainty on positions it does
+list," which is a materially weaker property. **Not yet confirmed** — would need either a document
+SigLA's own site or paper explicitly describes as damaged with named gaps, or a cross-check against
+an independent transcription of the same physical object, neither attempted here. Recorded as a
+disclosed, unresolved methodological question, not a finding.
+
 **Purpose:** this is the piece of groundwork that makes Linear A a
 genuinely different starting position than Voynich or Rongorongo — and also
 its sharpest risk of a false start. Because many Linear A signs share forms
