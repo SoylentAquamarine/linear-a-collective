@@ -283,6 +283,24 @@ explicitly not being treated as confirmed. Next action: once SQ-1 selects
 a source, begin a first-pass classification using SigLA's per-sign data
 (if adopted) cross-referenced against a published Linear B sign catalog.
 
+**Update (2026-09-27), the 72% figure is now confirmed at direct-text tier**: the Cambridge repository PDF
+(`repository.cam.ac.uk/bitstreams/7e3a97dd-5ae9-46e3-bab5-fdd644e45bec`) that previously failed extraction
+was re-fetched, downloaded successfully (402KB, a genuine PDF, 18 pages), and its text extracted locally
+with `pypdf` (WebFetch's own text-extraction failed on this file; the underlying binary was fine, the
+extraction tool was the blocker, now worked around). Full citation: Torsten Meißner and Philippa M. Steele,
+"Linear A and Linear B: Structural and contextual concerns." Exact quote: "If we look at Ventris and
+Chadwick's table in Documents, they identify 53 out of 89 signs as shared between Linear A and Linear B, a
+60% identity. By 2005, due to new finds and better epigraphic study, this figure had risen to 64 out of 89,
+giving a figure of 72%." **Precise definition confirmed**: this is 64 of a reference set of 89 established
+sign forms judged shape-identical between the two scripts (not a percentage of a sign's occurrences, or of
+inferred phonetic values) — a shape-identity count, distinct from (and a precondition for, not the same
+question as) SQ-2's own confidence-tier classification of *which specific* borrowed values are reliable.
+The same source flags a caveat directly relevant to SQ-2's scope: a sign (·48 *nwa*) attested in Cretan
+Hieroglyphic and Linear B was long assumed present in Linear A before being found there — "this fact in
+itself shows that we must not automatically assume" full transfer, i.e. the source itself argues against
+treating the 72%/89-sign correspondence as license to assume the *entire* repertoire behaves uniformly, the
+exact caution this sidequest exists to operationalize.
+
 **Update (2026-09-25, fourth cycle):** SQ-1 has now provisionally selected
 SigLA (see SQ-1 above) — this sidequest's blocking dependency is cleared.
 **Still correctly not started this cycle:** no per-sign classification

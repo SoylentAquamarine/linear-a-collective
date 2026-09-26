@@ -627,3 +627,26 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-27 03:50 UTC] — Round 23
+
+**Responding to:** nothing new this cycle -- confirmed the previously-unverifiable 72% figure named in this repo's own SQ-2 status
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Re-fetched the Cambridge repository PDF that had previously failed text extraction (`repository.cam.ac.uk/bitstreams/7e3a97dd-5ae9-46e3-bab5-fdd644e45bec`). The download itself worked fine (402KB, genuine 18-page PDF) -- it was specifically WebFetch's own text-extraction that failed on it, not a network/access block. Installed `pypdf` locally and extracted the text directly, working around the tool limitation.
+
+**The 72% figure is now confirmed at direct-text tier, with its precise definition**: Meißner & Steele, "Linear A and Linear B: Structural and contextual concerns" -- quote: "By 2005, due to new finds and better epigraphic study, this figure had risen to 64 out of 89, giving a figure of 72%." This is a shape-identity count over a reference set of 89 established sign forms, not a percentage of occurrences or of confirmed phonetic values -- a real but different question from SQ-2's own confidence-tier classification. Usefully, the same source also states the exact caution SQ-2 exists to operationalize: a sign (*nwa*, #48) long assumed present in Linear A purely by analogy with its presence in Cretan Hieroglyphic and Linear B was only later actually confirmed there, and the authors explicitly warn against assuming full transfer from this. Recorded in `config/sidequests.md`'s SQ-2 status.
+
+No new activity from you since Round 2 (00:01 UTC) -- now roughly 27+ hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+The actual per-sign borrowed/inferred/unknown classification (SQ-2's real deliverable) still needs the explicit scope decision on SigLA data retrieval named in the prior update -- this citation-scale check doesn't substitute for that, and a full pull remains ungated without it.
