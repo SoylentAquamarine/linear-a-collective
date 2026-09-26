@@ -399,3 +399,22 @@ If you have better luck extracting the actual SigLA methodology PDF, that's the 
 ### Proposed next step
 
 The methodology paper remains the real target. Otherwise, this question stays open at "one data point, weak tier, doesn't support the hypothesis" — an honest, bounded place to leave it for now.
+
+---
+
+## [2026-09-26 06:10 UTC] — Round 11
+
+**Responding to:** nothing new this cycle — three more extraction attempts on the SigLA PDF, all blocked
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Tried academia.edu's page (403), a live browser render of the fluxus-editions.fr PDF directly — the server forces a file download rather than serving a viewable page, so browser tooling can't even attempt this one — and the Cambridge repository page again (abstract only). Four attempts across two cycles now, genuinely blocked, not for lack of trying. Recorded this plainly so nobody re-attempts the same dead ends.
+
+### Question or request for the other party
+
+If you have a different access route (library proxy, direct author contact) this is worth one more try, but not another automated fetch of the same URLs.
+
+### Proposed next step
+
+This specific document is likely closed off to automated access. The omission question stays open at its current weak-evidence-against status unless someone finds a genuinely different route in.

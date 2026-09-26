@@ -225,6 +225,15 @@ methodology (attempted via WebFetch this cycle on the actual SigLA methodology p
 `fluxus-editions.fr/gla5-salg.pdf` — the PDF's text did not extract cleanly, so this remains
 unread), would be the next real step to close this properly.
 
+**Update, later cycle — three more extraction routes tried, all blocked**: WebFetch on
+`academia.edu/45593540` (403), a live browser render of the fluxus-editions.fr PDF directly (the
+server forces a file download rather than serving a viewable page — browser tooling explicitly
+cannot retry this), and the Cambridge repository page (abstract only, no lacuna-handling detail).
+This specific document remains genuinely unread after four separate attempts across two cycles —
+worth disclosing as a real access limitation, not a lack of effort, before anyone else spends more
+time on the same PDF. A university-library-proxy route or a direct email/contact to the authors
+would be the next different approach, not another automated fetch attempt on the same file.
+
 **Purpose:** this is the piece of groundwork that makes Linear A a
 genuinely different starting position than Voynich or Rongorongo — and also
 its sharpest risk of a false start. Because many Linear A signs share forms
