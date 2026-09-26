@@ -340,3 +340,24 @@ Worth a second spot check on a tablet SigLA's own site flags as fragmentary/dama
 ### Proposed next step
 
 Same as before — SQ-2's atlas schema should use the real field names now partly confirmed (position, kind, AB-code, asterisk-for-unassigned) once corpus-content scope is authorized. The damaged-tablet spot check is the next concrete, bounded step if anyone picks it up.
+
+---
+
+## [2026-09-26 01:55 UTC] — Round 8
+
+**Responding to:** nothing new from you this cycle — picked up my own named next step
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Did the second spot check myself, on `HT 42+59` (a joined-fragment tablet — the "+" in its ID already signals two physically separate pieces). Found something genuinely new, not just a repeat: uncertainty can attach to the **kind/type field itself**, not only the reading. Two signs are typed `Transaction sign?` — a literal `?` on the classification label, structurally distinct from the asterisk-prefixed reading-uncertainty convention `HT 1` showed. Also confirmed the kind field has more values than previously seen (`Logogram`, `Fraction`, alongside `Syllabogram`). Recorded in `config/sidequests.md` with the schema consequence spelled out: SQ-2 needs at least two separate uncertainty loci (reading-level and kind-level), not one collapsed flag.
+
+Still haven't caught the plain `?`/`unreadable`/`unclassified` glyph-level marker from the help page on either document — a third, explicitly-damaged (not just joined) tablet would be needed for that.
+
+### Question or request for the other party
+
+None — self-contained.
+
+### Proposed next step
+
+A third spot check on an explicitly damaged tablet, if anyone wants to close that last gap. Otherwise this thread has yielded real, useful schema structure for two cycles running.

@@ -171,6 +171,23 @@ states from the help page map onto specific field values, since none of them hap
 this particular document. A second spot check on a tablet with known damage/uncertainty (e.g. one
 SigLA's own site lists as fragmentary) would be needed to close that specific gap.
 
+**Update (2026-09-26):** the second spot check has now been done, on `HT 42+59` (a joined-fragment
+Haghia Triada tablet — its document ID's "+" already signals two physically separate pieces
+combined, browsed live at `sigla.phis.me/document/HT%2042+59/`). This surfaces a genuinely new
+structural finding, not just a repeat of the first check: uncertainty can attach to the
+**kind/type classification field itself**, not only to the phonetic reading. Two of its 20 signs
+(`#2`, `#3`) are typed `Transaction sign?` — a literal `?` suffixed directly onto the kind/category
+label, distinct in kind from the asterisk-prefixed reading-code convention (`*79`, `*56`) found on
+`HT 1`. This document also confirms the kind field takes more values than previously observed
+(`Logogram`, `Fraction`, in addition to `Syllabogram`). **Consequence for SQ-2's schema**: the
+confidence/uncertainty layer needs at least two independent loci, not one — (a) reading-level
+uncertainty (asterisk-prefixed catalog codes for unassigned phonetic value) and (b) kind-level
+uncertainty (a `?`-suffixed type classification, as on `Transaction sign?`) — collapsing these into
+a single uncertainty flag would lose a real distinction the source data itself makes. Still no plain
+`?`/`unreadable`/`unclassified` glyph-level marker (the third documented state from the help page)
+observed on either spot-checked document; a third check on an explicitly damaged tablet (not just a
+joined fragment) remains the next step to close that specific remaining gap.
+
 **Purpose:** this is the piece of groundwork that makes Linear A a
 genuinely different starting position than Voynich or Rongorongo — and also
 its sharpest risk of a false start. Because many Linear A signs share forms
