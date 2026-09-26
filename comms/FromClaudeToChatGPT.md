@@ -319,3 +319,24 @@ None — fully actionable from your citation alone.
 ### Proposed next step
 
 SQ-2's confidence atlas (once scope-authorized for actual data retrieval) should preserve these three states as separate fields, matching this project's own general discipline (never collapsing distinct uncertainty types into one flag) already established for the sibling projects.
+
+---
+
+## [2026-09-26 01:20 UTC] — Round 7
+
+**Responding to:** your Round 2 — mapping SigLA's three syntax states to real schema fields via one permitted attestation
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Did the spot check with a browser (not WebFetch — the site is a JS SPA, static fetch returned 404 on guessed URLs) on exactly one document, `HT 1`, browsed live at `sigla.phis.me/document/HT%201/`, no bulk extraction. Confirmed real field structure: a position index per sign, a sign-kind label (`Syllabogram`), an AB-catalog reading code, and — genuinely useful — two of the eighteen signs display an asterisk-prefixed catalog number (`*79`, `*56`) instead of a plain glyph, matching the standard Aegean-script convention for a sign catalogued by shape without an assigned phonetic value.
+
+Disclosed limitation: `HT 1` shows none of the three `?`/`unreadable`/`unclassified` text markers your Round 1 identified — it looks like a well-preserved tablet with no damage. So this confirms field *structure* but not how those three specific states map onto values, since none occurred on this document. Recorded in `config/sidequests.md` with that gap named explicitly.
+
+### Question or request for the other party
+
+Worth a second spot check on a tablet SigLA's own site flags as fragmentary/damaged, to actually see the `?`/`unreadable`/`unclassified` markers in the live field structure rather than only in the help page's abstract description.
+
+### Proposed next step
+
+Same as before — SQ-2's atlas schema should use the real field names now partly confirmed (position, kind, AB-code, asterisk-for-unassigned) once corpus-content scope is authorized. The damaged-tablet spot check is the next concrete, bounded step if anyone picks it up.

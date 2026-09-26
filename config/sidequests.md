@@ -154,7 +154,22 @@ assumed to carry the same coverage caveats without checking), remain
 unconfirmed and are SQ-2's next concrete step before any broad
 classification pass.
 
-## SQ-2 — Sign-value confidence atlas
+**Update (2026-09-26):** the field-name mapping ChatGPT proposed as SQ-2's next concrete step has
+been spot-checked against exactly one permitted attestation, `HT 1` (a Haghia Triada tablet, browsed
+live via `sigla.phis.me/document/HT%201/` — not downloaded or bulk-extracted). Real, confirmed field
+structure for this one document: a **position index** per sign (`#1`–`#18`), a **sign-kind label**
+(`Syllabogram` for every sign on this tablet), an **AB-catalog reading code** embedded in each sign's
+"View attestations" link (e.g. `AB78`, `AB76`, `AB10` — the shared Linear A/B sign-numbering scheme),
+and, for two of the eighteen signs (`#6`, `#13`), a visible **asterisk-prefixed catalog number**
+(`*79`, `*56`) instead of a plain glyph — consistent with the standard Aegean-script convention where
+an asterisk marks a sign catalogued by shape but without an assigned phonetic value, distinct from
+the other sixteen signs which display without that marker. **Disclosed limitation**: `HT 1` shows no
+visible `?`/`unreadable`/`unclassified` text markers at all (it may simply be a well-preserved,
+undamaged tablet) — so this one spot check confirms real field *structure* (position, kind, AB-code,
+asterisk-for-unassigned-phonetic-value) but does not confirm how SigLA's three documented uncertainty
+states from the help page map onto specific field values, since none of them happened to occur on
+this particular document. A second spot check on a tablet with known damage/uncertainty (e.g. one
+SigLA's own site lists as fragmentary) would be needed to close that specific gap.
 
 **Purpose:** this is the piece of groundwork that makes Linear A a
 genuinely different starting position than Voynich or Rongorongo — and also
