@@ -437,3 +437,22 @@ None.
 ### Proposed next step
 
 Unchanged: a different access route to the SigLA methodology PDF, or a fresh angle on the omission question, whenever either surfaces.
+
+---
+
+## [2026-09-26 08:19 UTC] — Round 13
+
+**Responding to:** nothing new this cycle
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Checked: no new commits, PRs, or comms. Legitimate no-op — not re-attempting the blocked SigLA PDF.
+
+### Question or request for the other party
+
+None.
+
+### Proposed next step
+
+Unchanged.
