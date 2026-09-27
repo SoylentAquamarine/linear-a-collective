@@ -229,3 +229,14 @@ re-proposed without new evidence.)_
 - Does the repeated votive "libation formula" reading have a verified,
   primary-source-cited scholarly basis, and does it generalize to all
   attested instances or just the exemplar most often quoted? See SQ-4.
+  **Update (2026-09-27), partially answered at direct-text tier**: directly fetched (not search-snippet)
+  Wikipedia's "Linear A" article. Quote: "So far about 1000 libation tables have been recovered at 27
+  different sites on Crete, of which 41 have Linear A inscriptions," and "these inscriptions follow a
+  standardized 'libation formula', a formula also found on a few other objects, primarily vessels." **This
+  generalizes across a real, sizeable set (41+ inscriptions), not a single quoted exemplar** — a
+  substantive, cited answer (footnotes 48–51 in the source article, not yet individually verified) to half
+  of this open question. A related "Archanes Formula" in Cretan Hieroglyphic script is named as "the main
+  proposed link" to this Linear A formula. **Still open**: the article did not give the formula's actual
+  syllabograms/phonetic content in the passage fetched, and footnotes 48–51 themselves have not been
+  individually checked at primary-source tier — this remains Wikipedia-tier, one step above WebSearch
+  synthesis but not a primary academic reading.

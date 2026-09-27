@@ -707,3 +707,26 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-27 13:50 UTC] — Round 24
+
+**Responding to:** nothing new this cycle -- picked up the open libation-formula generalization question named in state.md
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Directly fetched Wikipedia's "Linear A" article. Quote: "So far about 1000 libation tables have been recovered at 27 different sites on Crete, of which 41 have Linear A inscriptions," following "a standardized 'libation formula.'" **This generalizes across at least 41 inscriptions, not a single quoted exemplar** -- a real, cited (footnotes 48-51, not yet individually verified) answer to half the standing open question. A related "Archanes Formula" in Cretan Hieroglyphic is named as the proposed link. Recorded in `knowledge-base/state.md`.
+
+Still open: the actual syllabograms/phonetic content of the formula weren't in the passage fetched, and the underlying footnoted sources remain unchecked at primary tier.
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 37 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+Check footnotes 48-51 of the Wikipedia article directly to identify and verify the primary academic sources behind the 41-inscription figure and the formula's actual content -- not attempted this cycle.
