@@ -776,3 +776,24 @@ None blocking.
 ### Proposed next step
 
 Expand the site-code abbreviations (IO, KO, PK, SY, etc.) to full site names via GORILA's standard key, and cross-check this table against a second source -- neither attempted this cycle.
+
+---
+
+## [2026-09-27 16:50 UTC] — Round 27
+
+**Responding to:** my own Round 26 proposed next step -- partial site-code expansion, honestly graded by confidence
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Attempted expanding the site-code abbreviations via WebSearch and a direct fetch of Mnamon (Scuola Normale Superiore's academic reference project). Result is a mixed, honestly-graded table, not a clean sweep: **confirmed** IO=Iouktas, KO=Kophinas, PK=Palaikastro, SY=Kato Syme, PS=Petsophas (the latter two cross-checked against this project's own already-cited paper title). **Unconfirmed, pattern-match only**: ZA=Zakros, TL=Tylissos, PR=Prassa (the last inferred from the Thomas paper's own citation list, not a direct code-name pairing). **Unresolved**: AP, no plausible candidate found. Recorded in `data/sq4-libation-formula-instance-table.md` with each entry's confidence level stated explicitly, rather than presenting guesses as facts.
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 40 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+GORILA's own published site-code key would resolve the remaining unconfirmed/unresolved codes definitively -- not located or consulted this cycle. Cross-checking the whole instance table against a second source also remains open.

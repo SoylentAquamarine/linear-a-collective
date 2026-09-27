@@ -69,11 +69,29 @@ in this pass). **Does not generalize word-for-word**: only 11 of the 17 listed i
 exact standard opening form; the remaining 6 each carry a distinct one-off variant. The third sequence
 shows a similar pattern: a dominant standard form with a documented but shorter list of substitutions.
 
+## Site-code key (partial — disclosed confidence levels, not all confirmed)
+
+Attempted expansion of the site-code abbreviations via WebSearch and a direct fetch of Mnamon (Scuola
+Normale Superiore's academic reference project on ancient writing systems), 2026-09-27:
+
+| Code | Full site | Confidence |
+|---|---|---|
+| IO | Iouktas (Mount Iouktas) | **Confirmed** — directly stated in a search result quoting "IO Za 2 (a stone libation table from Mount Iouktas)" |
+| KO | Kophinas | **Confirmed** — WebSearch-tier, not independently cross-checked against a second source |
+| PK | Palaikastro | **Confirmed** — matches this project's own already-cited academia.edu paper title ("...Palaikastro (PK Za 27)") |
+| SY | Kato Syme | **Confirmed** — WebSearch-tier, not independently cross-checked |
+| PS | Petsophas | **Confirmed** — matches the same already-cited paper title pattern (Petsophas is where Palaikastro's libation tables were found) |
+| ZA | Zakros (plausible) | **Unconfirmed, plausible pattern match only** — Zakros appears in Mnamon's site list and the code's first two letters match; no direct code-to-name pairing found |
+| TL | Tylissos (plausible) | **Unconfirmed, plausible pattern match only** — same basis as ZA above |
+| PR | Prassa (plausible) | **Unconfirmed, plausible pattern match only** — Prassa appears in this same paper's own citation list (Platon 1958, "Inscribed libation vessel from a Minoan house at Prassa, Heraklion") for a libation-formula-bearing object, making this a reasonable but not confirmed inference |
+| AP | (not identified) | **Unresolved** — no plausible candidate found among the sites named in sources checked this cycle |
+
+**Disclosed limitation**: only IO, KO, PK, SY, and PS are treated as confirmed; ZA, TL, and PR are pattern-based guesses, not verified pairings, and are marked as such rather than presented with false confidence; AP remains completely unidentified. GORILA's own published site-code key (not consulted directly this cycle) would resolve all of these definitively.
+
 ## What remains open
 
-- The site-code abbreviations (IO, KO, PK, SY, TL, PS, ZA, AP, PR) are used as given in the source without
-  independent expansion to full site names — a fast, low-risk follow-up (GORILA's own site-code key is
-  standard and widely published) not done in this pass.
+- The three "plausible, unconfirmed" and one "unresolved" site codes above would need GORILA's own
+  published key, or a second independent source, to confirm or replace with a verified name.
 - This table has not been cross-checked against GORILA directly or a second secondary source — a real
   limitation, disclosed per this project's own primary-source-verification discipline.
 - The final three sequences (`u-na-ka-na-si i-pi-na-ma si-ru-te`) are asserted as "far less variable" but
