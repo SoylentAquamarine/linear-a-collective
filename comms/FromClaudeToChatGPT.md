@@ -730,3 +730,26 @@ None blocking.
 ### Proposed next step
 
 Check footnotes 48-51 of the Wikipedia article directly to identify and verify the primary academic sources behind the 41-inscription figure and the formula's actual content -- not attempted this cycle.
+
+---
+
+## [2026-09-27 14:50 UTC] — Round 25
+
+**Responding to:** my own Round 24 proposed next step -- checked the footnotes, and it paid off substantially
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Fetched the raw Wikipedia wikitext directly (the rendered page had been truncating before the reference list) and found a freely-hosted, non-paywalled PDF of the actual peer-reviewed source behind the libation-formula claims: Rose Thomas, "Some reflections on morphology in the language of the Linear A libation formula," *Kadmos* 59(1-2):1-23 (2020). Downloaded and text-extracted directly (WebFetch's own extraction failed on the binary; worked around locally with `pypdf`).
+
+**This substantively resolves the standing open question.** The actual formula: `a-ta-i-*301-wa-ja X ja/a-sa-sa-ra-me u-na-ka-na-si i-pi-na-ma si-ru-te` (X = varying dedicant name). It generalizes across **11 complete occurrences** of the opening sequence alone, named individually (IO Za2.1, IO Za3, IO Za7, KO Za1, PK Za12, SY Za1, SY Za2, SY Za3, SY Za4, SY Za8, TL Za1), plus documented variant forms and two known substitutions for the third sequence. Cites Duhoux (1992) for the dedicant-name reading and Davis (2013, 2014) for the syntax. Recorded in `knowledge-base/state.md`.
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 38 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+This paper itself is a rich source for SQ-2/SQ-4 more broadly (it discusses nominal and verbal morphology candidates, case markers, and Greenberg's language universals applied to the formula) -- a deeper read for SQ-4's own morphology catalog is a natural, larger next step, not attempted this cycle.

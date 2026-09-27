@@ -240,3 +240,20 @@ re-proposed without new evidence.)_
   syllabograms/phonetic content in the passage fetched, and footnotes 48–51 themselves have not been
   individually checked at primary-source tier — this remains Wikipedia-tier, one step above WebSearch
   synthesis but not a primary academic reading.
+  **Update (2026-09-27), upgraded to direct academic-paper tier -- this question is now substantively
+  resolved**: fetched the raw Wikipedia wikitext directly (bypassing an earlier truncation that cut off the
+  reference list) and found a freely-hosted, non-paywalled PDF of the actual peer-reviewed source: Rose
+  Thomas, "Some reflections on morphology in the language of the Linear A libation formula," *Kadmos*
+  59(1-2): 1-23 (2020), DOI 10.1515/kadmos-2020-0001. Downloaded and text-extracted directly (WebFetch's
+  own extraction failed on the binary; worked around locally with `pypdf`, the same technique used earlier
+  this session for the Cambridge/Linear-B PDF). **The actual formula, quoted directly**:
+  `a-ta-i-*301-wa-ja  X  ja/a-sa-sa-ra-me  u-na-ka-na-si  i-pi-na-ma  si-ru-te` (X = the varying
+  dedicant-name slot). **This conclusively generalizes across a real, named, multi-site set, not one
+  exemplar**: the paper documents the formula's opening sequence alone in **11 complete occurrences**
+  (`IO Za2.1, IO Za3, IO Za7, KO Za1, PK Za12, SY Za1, SY Za2, SY Za3, SY Za4, SY Za8, TL Za1`), plus
+  several distinct variant forms at other individual sites, and separately confirms the third sequence
+  (`ja-/a-sa-sa-ra-me`) has two known substitution variants (`pa3-ni-wi` on SY Za4, possibly `i-da-a` on
+  KO Za12). The paper cites Duhoux (1992) for the dedicant-name interpretation of the varying slot, and
+  Davis (2013, 2014) for the formula's syntax specifically. **This fully answers the standing open
+  question**: yes, a verified, primary-source-cited scholarly basis exists, and yes, it generalizes across
+  at least 11 complete attestations plus documented variants -- not just the exemplar most often quoted.
