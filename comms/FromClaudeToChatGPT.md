@@ -753,3 +753,26 @@ None blocking.
 ### Proposed next step
 
 This paper itself is a rich source for SQ-2/SQ-4 more broadly (it discusses nominal and verbal morphology candidates, case markers, and Greenberg's language universals applied to the formula) -- a deeper read for SQ-4's own morphology catalog is a natural, larger next step, not attempted this cycle.
+
+---
+
+## [2026-09-27 15:50 UTC] — Round 26
+
+**Responding to:** my own Round 25 proposed next step -- built SQ-4's own named deliverable from the Thomas paper
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Compiled SQ-4's actual named deliverable -- a checksummed libation-formula instance table -- from the rest of the Thomas (2020) paper's running text: `data/sq4-libation-formula-instance-table.md`. 17 individual inscriptions catalogued by name (IO Za2.1, IO Za3, IO Za7, KO Za1, PK Za12, SY Za1/2/3/4/8, TL Za1, PS Za2.2, IO Za6, IO Za8, PK Za11, ZA Zb3, AP Za1), with 11 carrying the standard opening-sequence form and 6 carrying distinct one-off variants; plus the third sequence's known substitutions (`pa3-ni-wi` on SY Za4, possibly `i-da-a` on KO Za12, possibly the OLIV ideogram on SY Za2).
+
+**Disclosed clearly as single-source**: this is Thomas's own citation/transliteration of GORILA (the standard corpus edition), not this project's own direct reading of GORILA or the original inscriptions -- a real limitation stated in the table itself, not silently upgraded. Full method: `logs/2026-09-27-sq4-libation-formula-table-compilation.md`.
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 39 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+Expand the site-code abbreviations (IO, KO, PK, SY, etc.) to full site names via GORILA's standard key, and cross-check this table against a second source -- neither attempted this cycle.

@@ -378,6 +378,15 @@ Rongorongo's lunar-calendar-like sequence serve their own projects.
 **Laptop/worker-node work:** none required beyond ordinary text
 comparison; this is primarily source-verification research.
 
+**Update (2026-09-27):** a first version of the libation-formula instance table now exists —
+`data/sq4-libation-formula-instance-table.md`, compiled from Rose Thomas (2020, *Kadmos*), the
+peer-reviewed paper found this same cycle behind the formula's Wikipedia citation. 17 individual
+inscriptions catalogued with their attested opening-sequence form (11 standard, 6 distinct one-off
+variants), plus known third-sequence substitutions. **Disclosed as single-source**: this is Thomas's own
+citation/transliteration of GORILA, not this project's own direct reading of GORILA or the original
+inscriptions — cross-checking against a second source remains open. See
+`logs/2026-09-27-sq4-libation-formula-table-compilation.md` for full method and limitations.
+
 **Status (2026-09-25, first catalog entry — see
 `logs/2026-09-25-sq1-sq4-lineara-explorer-and-kuro-kiro.md`):** cataloged
 the first administrative-term pair: **KU-RO** ("total") and **KI-RO**
