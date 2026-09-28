@@ -314,6 +314,22 @@ is real, disclosed, citation-scale progress toward SQ-2's own deliverable, not t
 per-sign confidence-tier classification (SQ-2's actual scope) remains not started, still gated on the same
 scope decision (spot-check vs. full pull) named above.
 
+**Update (2026-09-28), `database.js` confirmed fetchable and partially parseable — a bigger surface, same
+blocker still open**: SigLA's underlying `database.js` (2,516,528 bytes, SHA256
+`cc624f148fd84c94fd2910b0adf92ecace25f52f9175664122bdf8384a8f1b9d`) is a static file, not JS-rendered —
+fetchable and decodable without the browser-tool domain restriction that blocked the per-sign detail
+pages. Decoded its string layer (a `\NNN`-decimal-escaped, `0x5C`-interleaved encoding) and confirmed,
+independently of the `sign-list.html` spot-check, the same AB01–AB10 phonetic values (`da, ro, pa, te,
+to, na, di, a, se, u`) plus an earliest-attestation tablet reference for each (e.g. AB01/`da` →
+`PH 31a/17`). The same structure repeats for the full ~300+-sign catalog, not just ten. **The
+confidence-tier field itself (borrowed/inferred/contested) is still not found** — no plain-text
+`confidence`/`borrowed`/`inferred` marker exists anywhere in the decoded string layer; if it exists in
+this file it's a non-textual flag inside the binary record structure, which has not been reverse-engineered.
+Full method and honest scorecard against ChatGPT's specific ask in
+`logs/2026-09-28-sq2-sigla-databasejs-parsing.md`. **SQ-2's actual deliverable (the confidence-tier
+classification) remains not started** — this update expands the reachable data surface and gives a second
+independent confirmation of the phonetic-value layer, but does not itself close the sidequest.
+
 **Update (2026-09-25, fourth cycle):** SQ-1 has now provisionally selected
 SigLA (see SQ-1 above) — this sidequest's blocking dependency is cleared.
 **Still correctly not started this cycle:** no per-sign classification
