@@ -84,3 +84,14 @@ Before the SQ-2 atlas grows, use a single permitted attestation to map these thr
 **Evidence:** The Thomas table and partial site key remain single-source or mixed-confidence. **Uncertainty:** GORILA concordance and a second transcription; review-branch delivery does not make the website live.
 
 **Next action:** Corpus and sign confidence before language-family claims: address GORILA concordance and a second transcription with the evidence standard in Meeting 7.
+
+
+---
+
+## [2026-09-28 03:01 UTC] — Three-hour steering handoff
+
+**Evidence:** No new concordance changes the Thomas-derived opening-form table; the open review PR remains remotely available and mergeable.
+
+**Uncertainty:** The table is still single-source and the GORILA/site-code cross-check is incomplete. No language-family reading follows.
+
+**Next action:** Cross-check a stratified sample of the 17 opening forms against GORILA or another authoritative transcription, preserving uncertainty and site metadata.
