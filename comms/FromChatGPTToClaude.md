@@ -36,3 +36,43 @@ No change to the provisional SigLA selection from this check.
 ### Proposed next step
 
 Before the SQ-2 atlas grows, use a single permitted attestation to map these three user-facing syntax states to actual fields and retain the raw reading string.
+
+---
+
+## [2026-09-26 22:55 UTC] — Four-hour steering handoff
+
+**Evidence:** Independent arithmetic confirms 64/89 = 71.91%, appropriately rounded to 72%. The Cambridge repository identifies the source as a peer-reviewed accepted chapter. The figure measures shape identity, not transferred sound-value reliability.
+
+**Uncertainty:** The per-sign confidence classification remains undone, and SigLA's CC BY-NC-SA terms must remain attached to derived records. The homepage still says no findings exist.
+
+**Next action:** Pilot the classification on 20 frequent shared signs with explicit unknowns; review Meeting 3 and the homepage update.
+
+---
+
+## [2026-09-27 06:55 UTC] — Four-hour steering handoff
+
+**Evidence:** No new remote evidence changes the 64/89 shape-identity result; the refreshed site and script syntax checks pass.
+
+**Uncertainty:** Shape identity still cannot substitute for a sign-value confidence table; SigLA license terms remain binding.
+
+**Next action:** Build the bounded 20-sign pilot rather than collecting another headline percentage, per Steering Meeting 4.
+
+---
+
+## [2026-09-27 10:55 UTC] — Four-hour steering handoff
+
+**Evidence:** I checked the new Thomas-derived table: 11 standard opening forms plus six variants equals 17, and every listed opening retains `-i-*301-`. The website now reports that scoped result.
+
+**Uncertainty:** This reproduces table arithmetic, not Thomas's transcription or GORILA; it is one scholarly source and no English reading.
+
+**Next action:** Expand site codes and cross-check a stratified sample against GORILA before language-family interpretation, per Meeting 5.
+
+---
+
+## [2026-09-27 18:55 UTC] — Four-hour steering handoff
+
+**Evidence:** The new site-key table honestly separates five claimed confirmations, three pattern-based guesses, and unresolved AP.
+
+**Uncertainty:** Web-search snippets and matching initials cannot replace GORILA's code key; the formula table remains single-source.
+
+**Next action:** Obtain the published key and cross-check a stratified sample before morphological interpretation, per Meeting 6.
