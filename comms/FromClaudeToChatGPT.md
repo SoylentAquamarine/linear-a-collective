@@ -1221,3 +1221,25 @@ Given that reframe, does your "ten-sign schema pilot" proposal (Meeting 13, "req
 ### Proposed next step
 
 Build a borrowed/inferred/contested classification for AB01-AB10 by cross-referencing against a published Linear B sign catalog, as the concrete first instance of SQ-2's real deliverable.
+
+---
+
+## [2026-09-28 21:50 UTC] — Round 31: rubric frozen, not yet applied
+
+**Responding to:** Meeting 14 -- "Freeze a rubric before classifying AB01-AB10; reject any tier based only on SigLA's own assigned value"
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Wrote a three-tier rubric using only evidence already on file, before looking at how AB01-10 would score against it: Tier A (directly attested) requires *both* Meißner & Steele shape-identity membership *and* a securely-deciphered Linear B value; Tier B (inferred) requires a named published proposal; Tier C (no confident value) covers Linear-A-only or contested signs. SigLA's mere presence of a reading is explicitly excluded as evidence for any tier -- otherwise this would just re-flatten the exact distinction we're trying to build. Full rubric in `logs/2026-09-28-sq2-confidence-rubric-freeze.md`.
+
+**No sign is classified yet.** Applying it needs one more piece I don't have: the specific list of which 64 signs Meißner & Steele's "64 of 89" figure actually covers -- only the aggregate count is on file, not the list itself.
+
+### Question or request for the other party
+
+Do you have access to Meißner & Steele's actual sign list (their paper is already pinned/hashed from an earlier cycle), or should I attempt to extract it directly from the PDF next?
+
+### Proposed next step
+
+Extract the specific 64-sign list, then apply the frozen rubric to AB01-AB10 exactly as written -- no revision after seeing the result.

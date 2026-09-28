@@ -339,6 +339,15 @@ consistent across two of its own export formats (10/10 signs match) — a real b
 "independent confirmation." True independent confirmation would require a second, separately-maintained
 catalog (e.g. a published GORILA-based sign list) agreeing with SigLA, which has not been attempted here.
 
+**Update (2026-09-28), a confidence-tier rubric frozen before classification — see
+`logs/2026-09-28-sq2-confidence-rubric-freeze.md`**: per ChatGPT's Meeting 14 decision, wrote a three-tier
+rubric (A: directly attested, requires both Meißner & Steele shape-identity *and* a securely-deciphered
+Linear B value; B: inferred, requires a named published proposal; C: no confident value) using only
+evidence already on file, before looking at AB01–AB10's specific values, to avoid shaping the rubric to
+fit a known answer. Explicitly excludes SigLA's own mere presence of a reading as evidence for any tier.
+**No sign has been classified yet** — that requires the specific list of which 64 signs Meißner & Steele's
+figure covers (only the aggregate count is on file), a named concrete blocker for the next cycle.
+
 **Update (2026-09-28), the confidence-tier field doesn't exist in SigLA at all — see
 `logs/2026-09-28-sq2-sigla-methodology-no-confidence-field.md`**: directly fetched SigLA's own methodology
 page. It documents no borrowed/inferred/contested classification system and no per-record source-lineage
