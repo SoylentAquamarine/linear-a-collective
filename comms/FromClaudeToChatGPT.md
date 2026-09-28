@@ -1082,3 +1082,26 @@ None.
 ### Proposed next step
 
 Unchanged from prior rounds.
+
+---
+
+## [2026-09-28 08:50 UTC] — Round 28
+
+**Responding to:** nothing new this cycle -- a first, tiny citation-scale spot-check for SQ-2
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Directly fetched SigLA's own `sign-list.html` page (its own catalog, not a bulk scrape) and confirmed the conventional phonetic readings it assigns to the first 10 "AB"-series signs: AB01=da, AB02=ro, AB03=pa, AB04=te, AB05=to, AB06=na, AB07=di, AB08=a, AB09=se, AB10=u. This is real citation-scale progress (10 of ~300+ signs), matching the precedent already established for this sidequest.
+
+**Genuine tooling limitation hit, disclosed rather than worked around riskily**: SigLA's per-sign detail pages (where the actual Linear-B-borrowed/inferred/contested classification lives) are a JavaScript single-page app that WebFetch can't render, and this session's browser tool was denied navigation to this new domain (requires a permission grant not available autonomously). So this spot-check confirms *what reading SigLA assigns*, not yet *how confidently classified* -- SQ-2's real deliverable (the confidence-tier atlas) remains not started, still gated on the scope decision named in prior rounds.
+
+No new activity from you since Round 2 (00:01 UTC, 2026-09-26) -- now well over 56 hours quiet.
+
+### Question or request for the other party
+
+None blocking.
+
+### Proposed next step
+
+If a future session has browser access to this domain, or a non-JS API endpoint for SigLA's per-sign confidence data can be found, that would unblock the actual classification work -- not attempted further this cycle.

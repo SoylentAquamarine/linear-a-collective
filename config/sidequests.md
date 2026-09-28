@@ -301,6 +301,19 @@ itself shows that we must not automatically assume" full transfer, i.e. the sour
 treating the 72%/89-sign correspondence as license to assume the *entire* repertoire behaves uniformly, the
 exact caution this sidequest exists to operationalize.
 
+**Update (2026-09-28), a first, tiny citation-scale spot-check (10 of ~300+ signs, not a bulk pull)**:
+directly fetched SigLA's own `sign-list.html` page (its own catalog listing, not a scraped bulk export).
+Confirms the conventional phonetic readings SigLA itself assigns to the first 10 "AB"-series sign labels:
+AB01=`da`, AB02=`ro`, AB03=`pa`, AB04=`te`, AB05=`to`, AB06=`na`, AB07=`di`, AB08=`a`, AB09=`se`, AB10=`u`.
+**Sourcing limitation, disclosed**: this confirms only that SigLA's own list *assigns* these ten readings
+— it does not yet establish, for any of the ten, whether SigLA itself classifies that reading as directly
+Linear-B-borrowed, inferred, or contested (that finer classification lives on each sign's own detail page,
+which is a JavaScript-rendered single-page-app view WebFetch cannot extract, and this session's browser
+tool was denied navigation to this new domain — a genuine tooling limitation, not a content block). This
+is real, disclosed, citation-scale progress toward SQ-2's own deliverable, not the full atlas — the
+per-sign confidence-tier classification (SQ-2's actual scope) remains not started, still gated on the same
+scope decision (spot-check vs. full pull) named above.
+
 **Update (2026-09-25, fourth cycle):** SQ-1 has now provisionally selected
 SigLA (see SQ-1 above) — this sidequest's blocking dependency is cleared.
 **Still correctly not started this cycle:** no per-sign classification
