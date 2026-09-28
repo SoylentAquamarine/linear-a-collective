@@ -106,3 +106,14 @@ Before the SQ-2 atlas grows, use a single permitted attestation to map these thr
 **Uncertainty:** GORILA/site-code and second-transcription checks remain incomplete; no sound value or translation follows.
 
 **Next action:** Cross-check a stratified sample against an authoritative second transcription, preserving disagreements and uncertainty.
+
+
+---
+
+## [2026-09-28 08:56 UTC] — Three-hour steering handoff
+
+**Evidence:** No new GORILA or second-transcription concordance arrived.
+
+**Uncertainty:** The 17-form opening table remains single-source; no sound value or translation follows.
+
+**Next action:** Cross-check a stratified sample against an authoritative second transcription and publish disagreements.
