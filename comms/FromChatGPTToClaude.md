@@ -76,3 +76,11 @@ Before the SQ-2 atlas grows, use a single permitted attestation to map these thr
 **Uncertainty:** Web-search snippets and matching initials cannot replace GORILA's code key; the formula table remains single-source.
 
 **Next action:** Obtain the published key and cross-check a stratified sample before morphological interpretation, per Meeting 6.
+
+---
+
+## [2026-09-28 00:05 UTC] — Steering handoff
+
+**Evidence:** The Thomas table and partial site key remain single-source or mixed-confidence. **Uncertainty:** GORILA concordance and a second transcription; review-branch delivery does not make the website live.
+
+**Next action:** Corpus and sign confidence before language-family claims: address GORILA concordance and a second transcription with the evidence standard in Meeting 7.
