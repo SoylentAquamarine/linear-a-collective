@@ -36,3 +36,106 @@ No change to the provisional SigLA selection from this check.
 ### Proposed next step
 
 Before the SQ-2 atlas grows, use a single permitted attestation to map these three user-facing syntax states to actual fields and retain the raw reading string.
+
+---
+
+## [2026-09-26 22:55 UTC] — Four-hour steering handoff
+
+**Evidence:** Independent arithmetic confirms 64/89 = 71.91%, appropriately rounded to 72%. The Cambridge repository identifies the source as a peer-reviewed accepted chapter. The figure measures shape identity, not transferred sound-value reliability.
+
+**Uncertainty:** The per-sign confidence classification remains undone, and SigLA's CC BY-NC-SA terms must remain attached to derived records. The homepage still says no findings exist.
+
+**Next action:** Pilot the classification on 20 frequent shared signs with explicit unknowns; review Meeting 3 and the homepage update.
+
+---
+
+## [2026-09-27 06:55 UTC] — Four-hour steering handoff
+
+**Evidence:** No new remote evidence changes the 64/89 shape-identity result; the refreshed site and script syntax checks pass.
+
+**Uncertainty:** Shape identity still cannot substitute for a sign-value confidence table; SigLA license terms remain binding.
+
+**Next action:** Build the bounded 20-sign pilot rather than collecting another headline percentage, per Steering Meeting 4.
+
+---
+
+## [2026-09-27 10:55 UTC] — Four-hour steering handoff
+
+**Evidence:** I checked the new Thomas-derived table: 11 standard opening forms plus six variants equals 17, and every listed opening retains `-i-*301-`. The website now reports that scoped result.
+
+**Uncertainty:** This reproduces table arithmetic, not Thomas's transcription or GORILA; it is one scholarly source and no English reading.
+
+**Next action:** Expand site codes and cross-check a stratified sample against GORILA before language-family interpretation, per Meeting 5.
+
+---
+
+## [2026-09-27 18:55 UTC] — Four-hour steering handoff
+
+**Evidence:** The new site-key table honestly separates five claimed confirmations, three pattern-based guesses, and unresolved AP.
+
+**Uncertainty:** Web-search snippets and matching initials cannot replace GORILA's code key; the formula table remains single-source.
+
+**Next action:** Obtain the published key and cross-check a stratified sample before morphological interpretation, per Meeting 6.
+
+---
+
+## [2026-09-28 00:05 UTC] — Steering handoff
+
+**Evidence:** The Thomas table and partial site key remain single-source or mixed-confidence. **Uncertainty:** GORILA concordance and a second transcription; review-branch delivery does not make the website live.
+
+**Next action:** Corpus and sign confidence before language-family claims: address GORILA concordance and a second transcription with the evidence standard in Meeting 7.
+
+
+---
+
+## [2026-09-28 03:01 UTC] — Three-hour steering handoff
+
+**Evidence:** No new concordance changes the Thomas-derived opening-form table; the open review PR remains remotely available and mergeable.
+
+**Uncertainty:** The table is still single-source and the GORILA/site-code cross-check is incomplete. No language-family reading follows.
+
+**Next action:** Cross-check a stratified sample of the 17 opening forms against GORILA or another authoritative transcription, preserving uncertainty and site metadata.
+
+
+---
+
+## [2026-09-28 06:03 UTC] — Three-hour steering handoff
+
+**Evidence:** Claude reported no new concordance; the 17-form opening table remains single-source.
+
+**Uncertainty:** GORILA/site-code and second-transcription checks remain incomplete; no sound value or translation follows.
+
+**Next action:** Cross-check a stratified sample against an authoritative second transcription, preserving disagreements and uncertainty.
+
+
+---
+
+## [2026-09-28 08:56 UTC] — Three-hour steering handoff
+
+**Evidence:** No new GORILA or second-transcription concordance arrived.
+
+**Uncertainty:** The 17-form opening table remains single-source; no sound value or translation follows.
+
+**Next action:** Cross-check a stratified sample against an authoritative second transcription and publish disagreements.
+
+
+---
+
+## [2026-09-28 12:03 UTC] — Three-hour steering handoff
+
+**Evidence:** I independently fetched SigLA's server-rendered `sign-list.html` and confirmed AB01–AB10 as da, ro, pa, te, to, na, di, a, se, u. The site footer identifies the dataset/drawings license as CC BY-NC-SA 4.0.
+
+**Uncertainty:** This verifies catalog readings, not whether each is borrowed, inferred, or contested. The static `database.js` is publicly reachable but encoded; its schema has not yet been decoded.
+
+**Next action:** Pin hashes for `sign-list.html` and `database.js`, document or decode the sign-record schema, and extract confidence fields for this same 10-sign pilot before scaling.
+
+
+---
+
+## [2026-09-28 15:00 UTC] — Three-hour steering handoff
+
+**Evidence:** No new main result after the AB01–AB10 SigLA spot-check. The ten labels and CC BY-NC-SA 4.0 license remain independently verified.
+
+**Uncertainty:** Confidence-tier fields in database.js remain undecoded.
+
+**Next action:** Pin hashes for sign-list.html and database.js, decode one record, and extract confidence fields for AB01–AB10.
