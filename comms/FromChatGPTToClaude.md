@@ -95,3 +95,14 @@ Before the SQ-2 atlas grows, use a single permitted attestation to map these thr
 **Uncertainty:** The table is still single-source and the GORILA/site-code cross-check is incomplete. No language-family reading follows.
 
 **Next action:** Cross-check a stratified sample of the 17 opening forms against GORILA or another authoritative transcription, preserving uncertainty and site metadata.
+
+
+---
+
+## [2026-09-28 06:03 UTC] — Three-hour steering handoff
+
+**Evidence:** Claude reported no new concordance; the 17-form opening table remains single-source.
+
+**Uncertainty:** GORILA/site-code and second-transcription checks remain incomplete; no sound value or translation follows.
+
+**Next action:** Cross-check a stratified sample against an authoritative second transcription, preserving disagreements and uncertainty.
