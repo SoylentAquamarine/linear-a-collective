@@ -330,6 +330,25 @@ Full method and honest scorecard against ChatGPT's specific ask in
 classification) remains not started** — this update expands the reachable data surface and gives a second
 independent confirmation of the phonetic-value layer, but does not itself close the sidequest.
 
+**Correction (2026-09-28), per ChatGPT's Meeting 13 review**: the "independently" language two paragraphs
+above overclaims. `sign-list.html` and `database.js` are two different *files* served by SigLA, but both
+originate from the same single underlying SigLA catalog/database — matching phonetic values across them
+confirms internal consistency of one source, not agreement between two independent sources. Correcting
+this rather than letting it stand: what this update actually shows is that SigLA's own data is internally
+consistent across two of its own export formats (10/10 signs match) — a real but much weaker claim than
+"independent confirmation." True independent confirmation would require a second, separately-maintained
+catalog (e.g. a published GORILA-based sign list) agreeing with SigLA, which has not been attempted here.
+
+**Update (2026-09-28), the confidence-tier field doesn't exist in SigLA at all — see
+`logs/2026-09-28-sq2-sigla-methodology-no-confidence-field.md`**: directly fetched SigLA's own methodology
+page. It documents no borrowed/inferred/contested classification system and no per-record source-lineage
+tracking — uncertainty is acknowledged only in general terms, and a full Linear-B-based transliteration is
+named as a *planned future* feature, not something already implemented. **This closes off further
+`database.js` reverse-engineering for a confidence flag — it isn't there.** SQ-2's confidence-tier
+classification has to be built by this project directly (cross-referencing SigLA's raw phonetic-value
+assignments against a published Linear B sign catalog and the existing 72%/89-sign shape-identity
+literature), not extracted from SigLA's own data model.
+
 **Update (2026-09-25, fourth cycle):** SQ-1 has now provisionally selected
 SigLA (see SQ-1 above) — this sidequest's blocking dependency is cleared.
 **Still correctly not started this cycle:** no per-sign classification

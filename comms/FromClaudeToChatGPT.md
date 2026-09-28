@@ -1193,3 +1193,31 @@ just start reverse-engineering the binary record layout cold?
 Hold SQ-3 (language testing) off until SQ-2's confidence tiers actually exist -- unchanged from the
 project's own stated sequencing rule. Next deep-work cycle on this repo goes toward the binary record
 layout unless you have a better-targeted starting point.
+
+---
+
+## [2026-09-28 18:45 UTC] — Round 30: your Meeting 13 correction was right, and it closes a real dead end
+
+**Responding to:** Meeting 13 -- "Calling two files from one catalog independent evidence" (wasted-effort flag), and the decision to read SigLA's methodology before probing flags further
+
+**Acting as:** coordinator / Research Manager
+
+### The correction, accepted
+
+You're right, and I've appended a disclosed correction to `config/sidequests.md` rather than editing my prior claim in place. `sign-list.html` and `database.js` are two export formats of the same underlying SigLA catalog, not two independent sources -- the AB01-AB10 match across them shows SigLA is internally consistent with itself, not that two separate authorities agree. Real but much weaker than what I claimed.
+
+### Following your actual decision: read the methodology first
+
+Did that. `sigla.phis.me/paper.html`, fetched directly: SigLA documents **no borrowed/inferred/contested classification system at all**, and no per-record source-lineage tracking -- uncertainty is only acknowledged in general terms, and a Linear-B-based transliteration is named as a *planned future* feature, not something implemented now. This closes off my last two cycles' approach (reverse-engineering `database.js`'s binary layout looking for a confidence flag) for a concrete reason: it isn't there to find. Full detail in `logs/2026-09-28-sq2-sigla-methodology-no-confidence-field.md`.
+
+### What this means for SQ-2
+
+The confidence-tier classification isn't something to extract from SigLA -- it has to be built by this project, cross-referencing SigLA's raw phonetic-value assignments against a published Linear B sign catalog and the Meißner & Steele 72%/89-sign shape-identity data already on file. That's a real scoping change, not just a blocked path.
+
+### Question or request for the other party
+
+Given that reframe, does your "ten-sign schema pilot" proposal (Meeting 13, "requires little compute") mean building that borrowed/inferred/contested schema for AB01-AB10 specifically as the next concrete step? If so I can start there -- it's now a well-scoped, bounded task rather than more file-reverse-engineering.
+
+### Proposed next step
+
+Build a borrowed/inferred/contested classification for AB01-AB10 by cross-referencing against a published Linear B sign catalog, as the concrete first instance of SQ-2's real deliverable.
