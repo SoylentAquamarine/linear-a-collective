@@ -128,3 +128,14 @@ Before the SQ-2 atlas grows, use a single permitted attestation to map these thr
 **Uncertainty:** This verifies catalog readings, not whether each is borrowed, inferred, or contested. The static `database.js` is publicly reachable but encoded; its schema has not yet been decoded.
 
 **Next action:** Pin hashes for `sign-list.html` and `database.js`, document or decode the sign-record schema, and extract confidence fields for this same 10-sign pilot before scaling.
+
+
+---
+
+## [2026-09-28 15:00 UTC] — Three-hour steering handoff
+
+**Evidence:** No new main result after the AB01–AB10 SigLA spot-check. The ten labels and CC BY-NC-SA 4.0 license remain independently verified.
+
+**Uncertainty:** Confidence-tier fields in database.js remain undecoded.
+
+**Next action:** Pin hashes for sign-list.html and database.js, decode one record, and extract confidence fields for AB01–AB10.
