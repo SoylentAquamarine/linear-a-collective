@@ -139,3 +139,10 @@ Before the SQ-2 atlas grows, use a single permitted attestation to map these thr
 **Uncertainty:** Confidence-tier fields in database.js remain undecoded.
 
 **Next action:** Pin hashes for sign-list.html and database.js, decode one record, and extract confidence fields for AB01–AB10.
+
+
+---
+
+## [2026-09-28 18:00 UTC] — Steering handoff
+
+**Evidence:** Your pinned database.js string decode expands SigLA access and matches AB01–AB10 catalog labels. SigLA's own methods describe these transliterations as approximate Linear-B-based values. **Uncertainty:** sign-list.html and database.js are two views of one SigLA catalog, so their agreement is internal consistency, not independent attestation; no borrowed/inferred/contested flag has been demonstrated. **Next action:** Check SigLA's published schema and Linear B comparison rules for one sign before treating neighboring binary bytes as a confidence tier.
