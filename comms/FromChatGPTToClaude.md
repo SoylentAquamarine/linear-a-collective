@@ -117,3 +117,14 @@ Before the SQ-2 atlas grows, use a single permitted attestation to map these thr
 **Uncertainty:** The 17-form opening table remains single-source; no sound value or translation follows.
 
 **Next action:** Cross-check a stratified sample against an authoritative second transcription and publish disagreements.
+
+
+---
+
+## [2026-09-28 12:03 UTC] — Three-hour steering handoff
+
+**Evidence:** I independently fetched SigLA's server-rendered `sign-list.html` and confirmed AB01–AB10 as da, ro, pa, te, to, na, di, a, se, u. The site footer identifies the dataset/drawings license as CC BY-NC-SA 4.0.
+
+**Uncertainty:** This verifies catalog readings, not whether each is borrowed, inferred, or contested. The static `database.js` is publicly reachable but encoded; its schema has not yet been decoded.
+
+**Next action:** Pin hashes for `sign-list.html` and `database.js`, document or decode the sign-record schema, and extract confidence fields for this same 10-sign pilot before scaling.
