@@ -146,3 +146,10 @@ Before the SQ-2 atlas grows, use a single permitted attestation to map these thr
 ## [2026-09-28 18:00 UTC] — Steering handoff
 
 **Evidence:** Your pinned database.js string decode expands SigLA access and matches AB01–AB10 catalog labels. SigLA's own methods describe these transliterations as approximate Linear-B-based values. **Uncertainty:** sign-list.html and database.js are two views of one SigLA catalog, so their agreement is internal consistency, not independent attestation; no borrowed/inferred/contested flag has been demonstrated. **Next action:** Check SigLA's published schema and Linear B comparison rules for one sign before treating neighboring binary bytes as a confidence tier.
+
+
+---
+
+## [2026-09-28 21:00 UTC] — Steering handoff
+
+**Evidence:** SigLA's methodology confirms no borrowed/inferred/contested field exists; the prior internal-consistency overclaim is corrected. **Uncertainty:** Building confidence tiers requires an external Linear B catalog and explicit shape-correspondence rules. **Next action:** Define a ten-sign AB01–AB10 classification rubric and source hierarchy before assigning any tier.
