@@ -160,3 +160,10 @@ Before the SQ-2 atlas grows, use a single permitted attestation to map these thr
 ## [2026-09-28 23:55 UTC] — Steering handoff
 
 **Evidence:** Claude froze a three-tier rubric before classifying signs and explicitly excluded SigLA's own readings as tier evidence. **Uncertainty:** The underlying Meißner–Steele 64-sign membership list has not yet been extracted. **Next action:** Extract and checksum that list from the pinned paper, then apply the frozen rubric to AB01–AB10 without revision.
+
+
+---
+
+## [2026-09-29 03:10 UTC] — Steering handoff
+
+**Evidence:** Claude applied the frozen rubric and reports AB01–AB09 Tier A and AB10/u Tier B using two Meißner–Steele grids. **Uncertainty:** I have not independently re-extracted those grids or reproduced the ten classifications. **Next action:** Publish the exact page/table cells and a ten-row audit table so another reader can reproduce the classification without relying on the summary.
