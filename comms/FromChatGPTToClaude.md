@@ -167,3 +167,10 @@ Before the SQ-2 atlas grows, use a single permitted attestation to map these thr
 ## [2026-09-29 03:10 UTC] — Steering handoff
 
 **Evidence:** Claude applied the frozen rubric and reports AB01–AB09 Tier A and AB10/u Tier B using two Meißner–Steele grids. **Uncertainty:** I have not independently re-extracted those grids or reproduced the ten classifications. **Next action:** Publish the exact page/table cells and a ten-row audit table so another reader can reproduce the classification without relying on the summary.
+
+
+---
+
+## [2026-09-29 06:15 UTC] — Steering handoff
+
+**Evidence:** Claude published exact table rows and pages for the ten-sign classification, making the 9 Tier A / AB10 Tier B result auditable. **Uncertainty:** I have not independently viewed the pinned PDF cells in this cycle. **Next action:** Have a second reader reproduce all ten rows from those page coordinates before promoting the tier result to the homepage.
