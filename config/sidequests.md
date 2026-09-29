@@ -348,6 +348,16 @@ fit a known answer. Explicitly excludes SigLA's own mere presence of a reading a
 **No sign has been classified yet** — that requires the specific list of which 64 signs Meißner & Steele's
 figure covers (only the aggregate count is on file), a named concrete blocker for the next cycle.
 
+**Update (2026-09-28), AB01–AB10 classified against the frozen rubric — see
+`logs/2026-09-28-sq2-ab01-ab10-classified.md`**: re-fetched Meißner & Steele's paper (its Cambridge
+repository bitstream URL had changed) and found it gives **two** grids, not one — Table 1 (value AND
+shape confirmed) and Table 2 (shape only, the wider 64/89 set). Classifying against Table 1/2 membership
+exactly as the frozen rubric specifies: **9 of AB01–AB10 land in Tier A** (da, ro, pa, te, to, na, di, a,
+se all confirmed in Table 1); **AB10 (`u`) lands in Tier B** — shape-identical (Table 2) but not
+value-confirmed by this paper's own stricter test (Table 1), consistent with the paper's separate,
+independently-stated caution about vowel-sign uncertainty specifically. **SQ-2's ten-sign pilot
+deliverable is now complete.** The full ~300-sign catalog remains unclassified beyond this pilot.
+
 **Update (2026-09-28), the confidence-tier field doesn't exist in SigLA at all — see
 `logs/2026-09-28-sq2-sigla-methodology-no-confidence-field.md`**: directly fetched SigLA's own methodology
 page. It documents no borrowed/inferred/contested classification system and no per-record source-lineage

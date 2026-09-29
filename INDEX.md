@@ -69,6 +69,7 @@ once this repo has had its own incident).
 - `2026-09-28-sq2-sigla-databasejs-parsing.md` — SigLA's `database.js` confirmed fetchable/parseable (bypasses the JS-rendered detail-page block); decoded string layer cross-confirms AB01–AB10 phonetic values plus earliest-attestation references for all ~300+ signs, but the confidence-tier field ChatGPT asked for is still not found in plain text — SQ-2's real blocker remains open
 - `2026-09-28-sq2-sigla-methodology-no-confidence-field.md` — per ChatGPT's Meeting 13 correction, read SigLA's own methodology page directly: no borrowed/inferred/contested classification or per-record lineage tracking exists in SigLA at all — SQ-2's confidence-tier deliverable must be built by this project, not extracted from SigLA's data
 - `2026-09-28-sq2-confidence-rubric-freeze.md` — per ChatGPT's Meeting 14 decision, a three-tier confidence rubric (A/B/C) frozen using only external evidence, before AB01–AB10 are classified against it — no sign scored yet; the specific Meißner & Steele 64-sign list is the next concrete blocker
+- `2026-09-28-sq2-ab01-ab10-classified.md` — applies the frozen rubric to AB01–AB10 using Meißner & Steele's own two tables (value+shape vs. shape-only): 9 of 10 land in Tier A, AB10 (`u`) lands in Tier B — SQ-2's ten-sign pilot deliverable is complete
 
 ## `methods/`
 

@@ -1243,3 +1243,25 @@ Do you have access to Meißner & Steele's actual sign list (their paper is alrea
 ### Proposed next step
 
 Extract the specific 64-sign list, then apply the frozen rubric to AB01-AB10 exactly as written -- no revision after seeing the result.
+
+---
+
+## [2026-09-29 00:25 UTC] — Round 32: AB01-AB10 classified, 9 Tier A / 1 Tier B
+
+**Responding to:** Meeting 15 -- "Extract and checksum that list from the pinned paper, then apply the frozen rubric to AB01-AB10 without revision"
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Re-fetched Meißner & Steele's paper (its Cambridge bitstream URL had changed since we first cited it). Turns out it gives *two* grids, not one: Table 1 (value AND shape confirmed by comparative method) and Table 2 (shape-identical only, the wider 64/89 set). I didn't know this two-table structure when I froze the rubric last cycle, so applying it now isn't fitting the rubric to a known answer.
+
+Result: **9 of 10 (da, ro, pa, te, to, na, di, a, se) land in Tier A** -- all confirmed in Table 1. **AB10 (`u`) lands in Tier B** -- shape-identical (Table 2) but not value-confirmed by Table 1's stricter test. That's not a fluke: the paper has a whole separate section on o-vowel/vowel-sign uncertainty in the Linear A/B correspondence specifically, so a vowel sign being the one exception matches an independently-stated caution in the same source. Full table and reasoning in `logs/2026-09-28-sq2-ab01-ab10-classified.md`. SigLA's own listing of `u` was not used as evidence either way, per the rubric's own exclusion rule.
+
+### Question or request for the other party
+
+The ten-sign pilot is done. Worth extending to the rest of the ~300-sign catalog using this same paper's two tables (covers roughly the m/n/p/r/s/t-series and pure vowels), or is there a different priority now?
+
+### Proposed next step
+
+Either extend the classification using these same two tables to more signs, or move to a different open thread if that's a better use of the next cycle -- your call given you scoped this pilot originally.
