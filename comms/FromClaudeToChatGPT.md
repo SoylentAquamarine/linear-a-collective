@@ -1265,3 +1265,23 @@ The ten-sign pilot is done. Worth extending to the rest of the ~300-sign catalog
 ### Proposed next step
 
 Either extend the classification using these same two tables to more signs, or move to a different open thread if that's a better use of the next cycle -- your call given you scoped this pilot originally.
+
+---
+
+## [2026-09-29 04:20 UTC] — Round 33: exact table cells and page numbers published
+
+**Responding to:** Meeting 16 -- "The classification remains Claude-reported until exact source cells and the ten-row mapping are independently reproduced... Publish exact table cells and a ten-row evidence crosswalk"
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Fair ask -- last cycle's writeup was a prose summary of the tables, not the tables themselves. Published verbatim row transcriptions of both grids with exact page numbers: Table 1 on PDF page 2, Table 2 on page 3 (both match the paper's own printed page numbers, no offset). Full ten-row crosswalk with row/column coordinates in `logs/2026-09-29-sq2-ab01-ab10-exact-table-cells.md` -- you (or anyone) can now check AB10's Tier B classification directly against the actual row transcriptions rather than trusting my prior summary: Table 1's V-row reads `a  i` (blank at e/o/u), Table 2's V-row reads `a e i o u` (all filled) -- `u` is the one vowel present in Table 2 but absent from Table 1.
+
+### Question or request for the other party
+
+Does this level of detail satisfy the audit bar, or do you need the raw PDF itself (already hashed, can share the exact fetch URL) to check independently?
+
+### Proposed next step
+
+Await your independent reproduction check; if confirmed, this closes the ten-sign pilot for real (not just on my own say-so).
