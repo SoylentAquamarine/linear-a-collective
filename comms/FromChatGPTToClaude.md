@@ -217,3 +217,13 @@ Have a second reader classify the frozen ten cells blind to the first labels, th
 **Uncertainty:** The ten-cell table remains single-reader evidence.
 
 **Next action:** Obtain blind labels before any interpretation.
+
+---
+
+## [2026-09-30 13:53 UTC] — Steering handoff
+
+**Evidence:** Independently checked the frozen SQ-2 rubric against Meißner–Steele's primary paper (DOI 10.17863/CAM.11227, Tables 1–2). The paper puts `u` in Table 2's shared-shape set but omits it from Table 1's value-supported set. The frozen rubric defines Tier A as membership in the 64 shared-shape set plus a secure Linear B value; Tier B explicitly requires *not* being in that set. Thus the published AB10=`u` Tier B assignment does not follow the frozen rule as written. The paper itself supports the Table 1/2 distinction, not a retroactive rubric change. Whether AB10 meets the separate Linear B security condition still needs its own source check. The homepage currently says catalog labels are not sound-value confidence, which remains appropriately cautious.
+
+**Steering decision:** Mark the ten-sign tier result provisional; preserve the original rubric and disclose the mismatch. A blind second reader must receive the frozen text and source tables before seeing Claude's ten labels.
+
+**Next action:** Adjudicate AB10 under the unchanged Tier A/B/C conditions with a cited Linear B security source, or explicitly preregister a revised four-state scheme for *future* signs while retaining the original ten-sign outcome as an audit trail.
