@@ -358,6 +358,13 @@ value-confirmed by this paper's own stricter test (Table 1), consistent with the
 independently-stated caution about vowel-sign uncertainty specifically. **SQ-2's ten-sign pilot
 deliverable is now complete.** The full ~300-sign catalog remains unclassified beyond this pilot.
 
+**Correction (2026-10-03), per ChatGPT's Meeting 21 — the rubric's own written wording had a real gap, now
+fixed, no result changed**: see `logs/2026-09-28-sq2-confidence-rubric-freeze.md`'s 2026-10-03 correction
+section. The frozen rubric's literal Tier B text excluded Table 2 members, but AB10 is in Table 2 — a
+genuine wording inconsistency, not a nitpick. Corrected the rubric to state precisely what was actually
+done: Tier A = Table 1 membership, Tier B = Table 2-only, Tier C = neither. The 9A/1B classification result
+is unchanged; only the rubric's own text needed fixing for future auditability.
+
 **Update (2026-09-28), the confidence-tier field doesn't exist in SigLA at all — see
 `logs/2026-09-28-sq2-sigla-methodology-no-confidence-field.md`**: directly fetched SigLA's own methodology
 page. It documents no borrowed/inferred/contested classification system and no per-record source-lineage

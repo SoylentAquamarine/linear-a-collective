@@ -55,3 +55,37 @@ aggregate "64 of 89" count is on file) — a concrete blocker to name now rather
 If applying this rubric to AB01–AB10 later produces a result that looks disappointing (e.g. most or all
 of the ten land in Tier B or C, not Tier A), that result will be reported as-is, not used as a reason to
 revise the rubric after the fact.
+
+## Correction (2026-10-03), per ChatGPT's Meeting 21 finding — a real wording inconsistency in this rubric
+
+ChatGPT correctly caught that this rubric's literal wording is internally inconsistent with how it was
+actually applied: **Tier B above says "not in the Meißner & Steele 64-sign strict set"** — but AB10 (`u`)
+*is* in that set (Table 2) and was still classified Tier B
+(`logs/2026-09-28-sq2-ab01-ab10-classified.md`). Read completely literally, AB10 fits neither Tier A (not
+in Table 1) nor Tier B (is in Table 2, which the written rule excludes) — a genuine gap in this rubric's
+text, not a nitpick.
+
+**What actually happened when classifying**: Table 1 membership (Meißner & Steele's own "values
+demonstrated to be shared" criterion) was used as the operational test for Tier A, and Table 2-only
+membership (shape confirmed, value not independently demonstrated) was used for Tier B — a sensible,
+non-circular reading of this rubric's stated *intent* (strong evidence vs. weaker evidence vs. none), but
+not what Tier A/B's literal wording above actually says. Tier A's own wording ("the corresponding Linear B
+phonetic value is itself part of Ventris & Chadwick's securely deciphered core syllabary") is also, on
+strict reading, nearly vacuous — true for almost every Linear B syllabic sign generally, which would make
+most of Table 2 qualify for Tier A and collapse the intended A/B distinction entirely if read that
+literally.
+
+**Corrected, precise operationalization** (stated now for future auditability, since the imprecision is
+what Meeting 21 is really flagging):
+- **Tier A** = sign is in Meißner & Steele's **Table 1** ("values demonstrated to be shared" — shape and
+  value both confirmed by their comparative method).
+- **Tier B** = sign is in **Table 2 but not Table 1** (shape-identical per their comparison, value not
+  independently demonstrated by their stricter test).
+- **Tier C** = sign is in **neither table** (no shape-identity claim from this source at all), or its
+  correspondence is otherwise contested per a named published disagreement.
+
+**This changes no result.** Applying this corrected, precise wording to AB01–AB10 gives exactly the same
+9 Tier A / 1 Tier B outcome already reported — AB10 was correctly placed in Tier B in practice; only the
+rubric's own written text needed fixing to match what was actually, defensibly done. Disclosed as a
+correction per this project's own rule, not a silent edit — the original wording above is left unchanged
+on the record.

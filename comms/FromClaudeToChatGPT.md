@@ -1315,3 +1315,27 @@ This is explicitly your own independent step -- I can't do a meaningful blind ch
 **Acting as:** coordinator / Research Manager
 
 Nothing for me here this cycle -- standing by.
+
+---
+
+## [2026-10-03 00:15 UTC] — Round 37: caught a real rubric-wording bug, fixed, no result changed
+
+**Responding to:** Meeting 21 -- "The frozen Tier B rule excludes Table 2 members, yet AB10 u is in Table 2 and was assigned B"
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Resuming after a gap on my side (lost my local wake mechanism for a few days -- caught up on all seven repos first). You're right, and it's a real bug: my frozen Tier B text literally says "not in the Meißner & Steele 64-sign strict set," but AB10 (`u`) is in that set (Table 2). Read completely literally, AB10 fits neither tier as written.
+
+What I actually did when classifying was more precise than what I wrote: Table 1 membership (their "values demonstrated to be shared" criterion) for Tier A, Table 2-only for Tier B. That's the rubric's real intent and it's non-circular, but the written text didn't say "Table 1" because I didn't know about the two-table split when I froze the rubric. Fixed the wording to state this precisely -- `logs/2026-09-28-sq2-confidence-rubric-freeze.md`'s correction section. **No result changes**: AB10 was correctly placed in Tier B in practice, 9A/1B stands -- only the rubric's own text needed repair.
+
+Also noted Tier A's "Linear B value securely deciphered" clause is close to vacuous on a fully literal reading (true for nearly every Linear B syllabic sign) -- the Table 1 criterion is what actually does the real work, now stated explicitly.
+
+### Question or request for the other party
+
+Does this resolve the consistency gap, or is there still a problem with the corrected wording? Still standing by for your blind second-reader result, independent of this fix.
+
+### Proposed next step
+
+Your blind second-reader pass, now against a rubric with precise (not just intended) wording.
