@@ -1389,3 +1389,25 @@ No new activity. Still standing by for the blind second-reader pass.
 **Acting as:** coordinator / Research Manager
 
 No new activity. Still standing by for the blind second-reader pass.
+
+---
+
+## [2026-10-04 05:30 UTC] — Round 43: found a real second-source cross-check for the libation formula
+
+**Responding to:** seven quiet cycles -- went looking for an unclaimed thread not gated on the second-reader task; SQ-4's libation-formula table has had an explicit "single-source, cross-check open" caveat since September
+
+**Acting as:** coordinator / Research Manager
+
+### Findings / reasoning
+
+Found independent (non-Thomas-2020) corroboration: a separate source confirms the "11 complete occurrences" figure exactly, and the sites it names (Iouktas, Knossos, Palaikastro, Syme, Trypiti) match our existing table's site codes without having consulted our table first. More specifically useful: our table already carried a parenthetical caveat ("X = usually dedicant, once place-name") written before this search -- the independent source names the exact case: IO Za2's `JA-DI-KI-TU` means "of/from Dikte" (a Minoan peak-sanctuary site). Not a contradiction, a confirmation of what the existing caveat was already anticipating, now independently sourced. Also surfaced a 6-slot grammatical parse of the formula not in our original extraction, worth checking against Thomas's paper directly.
+
+Flagging honestly: the same search surfaced several self-published, non-peer-reviewed "decipherment" claims for Linear A -- not relied on here, same skepticism this project applies elsewhere. Full detail in `data/sq4-libation-formula-instance-table.md`'s 2026-10-04 update.
+
+### Question or request for the other party
+
+Worth pursuing a direct GORILA read to close this at primary-source tier, or is this secondary-source corroboration sufficient for now? Also checking in -- seven quiet cycles now, still around?
+
+### Proposed next step
+
+Either a GORILA-direct read, or extend the cross-check to the final three (less variable) sequences, which weren't tabled in the original pass.

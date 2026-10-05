@@ -478,6 +478,17 @@ recurring administrative/numeral-ideogram conventions, and get a
 primary-source-verified read of KU-RO/KI-RO (not just WebSearch synthesis)
 once this session's egress restrictions allow it.
 
+**Update (2026-10-04), the libation-formula table's "single-source" caveat partially closed — see
+`data/sq4-libation-formula-instance-table.md`'s 2026-10-04 update**: found independent (non-Thomas-2020)
+corroboration for the table's headline "11 complete occurrences" figure, and for the table's own
+pre-existing "X = usually dedicant, once place-name" caveat — the one exception is specifically `IO Za2`'s
+`JA-DI-KI-TU`, meaning "of/from Dikte" (a Minoan peak-sanctuary site), now independently named rather than
+just flagged as a possibility. New structural detail also surfaced (a 6-slot grammatical-function parse of
+the formula) worth checking against Thomas's own paper directly. Several self-published, non-peer-reviewed
+"decipherment" claims also surfaced in the same search and are explicitly not relied upon — flagged, not
+treated as validated. This is secondary-source-tier corroboration, not a direct GORILA read, but a real
+step beyond single-source reliance.
+
 ## Initial priority
 
 Start SQ-1 first — a canonicalized corpus is a hard blocker for everything

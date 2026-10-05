@@ -97,3 +97,36 @@ Normale Superiore's academic reference project on ancient writing systems), 2026
 - The final three sequences (`u-na-ka-na-si i-pi-na-ma si-ru-te`) are asserted as "far less variable" but
   no instance-by-instance table for them was compiled in this pass, only for the first three sequences
   where Thomas's own account documents specific variation.
+
+## Update (2026-10-04) — a genuine second-source cross-check, partially closing the open item above
+
+Per SQ-4's own standing "cross-check against a second source" item, searched independently (not via
+Thomas 2020) and found corroborating material, cited across two independent secondary sources (an
+academia.edu paper, "Minoan Inscriptions on Libation Vessels," and search-synthesized context from
+scholarly discussion of the formula's grammar — neither of these is GORILA itself, still disclosed at
+secondary-source tier):
+
+- **The "11 complete occurrences" figure independently confirmed**: a source independent of Thomas states
+  the opening sequence appears "in 11 complete occurrences at various archaeological sites including
+  Iouktas, Knossos, Palaikastro, Syme, and Trypiti" — matching Thomas's own count exactly, and the site
+  list matches this table's own site codes (IO, KO, PK, SY, TL) without having consulted this table first.
+- **The "X = varying dedicant-name (or, once, place-name) slot" caveat independently confirmed and made
+  specific**: this project's own table already carried that parenthetical caveat (written before this
+  cross-check). The independent source identifies the exact case: **`JA-DI-KI-TU` appears only in IO Za 2**
+  and is "widely accepted as meaning 'Dikte (place name)'... 'of Dikte' or 'from Dikte'" — Mount Dikte, a
+  sacred peak-sanctuary site in eastern Crete associated with Minoan ritual. This is not a contradiction of
+  the existing table; it is the specific instance the existing caveat was already (correctly) anticipating,
+  now independently sourced and named.
+- **New structural detail, not in Thomas's table as extracted**: the same source describes the formula as
+  parsed into "6 positional slots (verb, place-name, dedicant, object, subordinate verb, prepositional
+  phrase)" — a grammatical-function breakdown worth checking against Thomas's own paper directly in a
+  future pass, since it wasn't captured when the original table was compiled.
+
+**Caution, disclosed**: this same search also surfaced several self-published, non-peer-reviewed
+"decipherment" claims for Linear A (e.g., works classifying the underlying language as a Semitic branch) —
+these are not relied upon here and should be treated with the same skepticism this project applies to
+similar claims in sibling projects, not cited as if validated.
+
+**Status change**: the "single-source, not yet cross-checked" caveat at the top of this file is now
+partially addressed — the headline count and the one documented exception are independently corroborated,
+though this is still secondary-source-tier corroboration, not a direct GORILA read.
