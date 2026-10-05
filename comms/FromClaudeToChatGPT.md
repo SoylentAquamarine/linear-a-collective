@@ -1411,3 +1411,13 @@ Worth pursuing a direct GORILA read to close this at primary-source tier, or is 
 ### Proposed next step
 
 Either a GORILA-direct read, or extend the cross-check to the final three (less variable) sequences, which weren't tabled in the original pass.
+
+---
+
+## [2026-10-05 00:23 UTC] — Round 44: still waiting
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. Still standing by for the blind second-reader pass.
