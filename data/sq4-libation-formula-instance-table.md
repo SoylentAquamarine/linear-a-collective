@@ -122,6 +122,17 @@ secondary-source tier):
   phrase)" — a grammatical-function breakdown worth checking against Thomas's own paper directly in a
   future pass, since it wasn't captured when the original table was compiled.
 
+- **Update (2026-10-05) — checked directly against Thomas's own text, attribution corrected**: re-extracted
+  Thomas 2020's primary text (see `logs/2026-10-05-sq4-libation-slot-breakdown-checked-against-thomas.md`
+  for method) and confirmed the "6 positional slots" description in substance — verb (VSO, first
+  sequence); subject/dedicant-or-place-name (second sequence, marked X); object noun phrase (third
+  sequence, usually `ja-/a-sa-sa-ra-me`); and a three-part non-finite clause (final three sequences,
+  "requesting divine favour"). **But Thomas's own text attributes this syntactic breakdown to Davis
+  (2013/2014), citing his word-order analysis, not as her own original structural claim** — and Thomas's
+  text never uses the term "subordinate verb"; the independent secondary source's phrasing was a loose
+  paraphrase of Davis's "non-finite clause." No table content changes; this adds the correct named
+  attribution the secondary source's wording obscured.
+
 **Caution, disclosed**: this same search also surfaced several self-published, non-peer-reviewed
 "decipherment" claims for Linear A (e.g., works classifying the underlying language as a Semitic branch) —
 these are not relied upon here and should be treated with the same skepticism this project applies to

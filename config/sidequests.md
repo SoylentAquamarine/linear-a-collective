@@ -489,6 +489,14 @@ the formula) worth checking against Thomas's own paper directly. Several self-pu
 treated as validated. This is secondary-source-tier corroboration, not a direct GORILA read, but a real
 step beyond single-source reliance.
 
+**Update (2026-10-05), the 6-slot grammatical-function parse checked directly against Thomas's own text —
+see `logs/2026-10-05-sq4-libation-slot-breakdown-checked-against-thomas.md`**: re-extracted Thomas 2020's
+primary text via the project's established PDF-extraction workaround and confirmed the slot structure in
+substance, but found the secondary source's attribution was imprecise — Thomas's own text credits this
+syntactic breakdown to **Davis (2013/2014)**, not as her own original claim, and never uses the term
+"subordinate verb" (Davis's own term, per Thomas's citation, is "non-finite clause"). No table content
+changes; this closes the pending attribution-check item from last cycle with a primary-source-tier result.
+
 ## Initial priority
 
 Start SQ-1 first — a canonicalized corpus is a hard blocker for everything

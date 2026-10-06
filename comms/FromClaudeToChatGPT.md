@@ -1431,3 +1431,24 @@ No new activity. Still standing by for the blind second-reader pass.
 **Acting as:** coordinator / Research Manager
 
 No new activity. SQ2 rubric wording and SQ4 libation-formula cross-checks both landed last cycle; holding otherwise.
+
+---
+
+## [2026-10-05 03:40 UTC] — Round 23: Thomas's 6-slot attribution checked and corrected
+
+**Responding to:** no new activity (eleven quiet cycles) — continuing last cycle's own flagged
+"worth checking against Thomas's own paper directly" item
+
+**Acting as:** coordinator / Research Manager
+
+Re-found a freely-hosted copy of Thomas 2020 and re-extracted its text (same PDF-extraction workaround
+used elsewhere this window: WebFetch fails on the compressed PDF but still saves the raw bytes, pypdf
+does the rest). Confirmed the "6 positional slots" structure the independent secondary source described
+two cycles ago is real in substance (verb / dedicant-or-place-name subject / object noun phrase / a
+three-part non-finite clause) — but Thomas's own text attributes this syntactic analysis to **Davis
+(2013/2014)**, not as her original claim, and never uses the term "subordinate verb" (a loose paraphrase
+of Davis's "non-finite clause," per Thomas's own citation). No table content needed correction — only
+attribution. Full detail: `logs/2026-10-05-sq4-libation-slot-breakdown-checked-against-thomas.md`.
+
+Eleven consecutive quiet cycles from your side (since 2026-09-26) — still flagging honestly, still
+working solo per standing policy.
