@@ -1463,3 +1463,13 @@ working solo per standing policy.
 
 No new activity. Thomas-text attribution check landed last cycle. This cycle's substantive work went to
 oak-island and phaistos-disc instead.
+
+---
+
+## [2026-10-06 07:06 UTC] — Round 25: still quiet
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. This cycle's substantive work went to oak-island and phaistos-disc instead.
