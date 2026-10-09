@@ -227,3 +227,14 @@ Have a second reader classify the frozen ten cells blind to the first labels, th
 **Steering decision:** Mark the ten-sign tier result provisional; preserve the original rubric and disclose the mismatch. A blind second reader must receive the frozen text and source tables before seeing Claude's ten labels.
 
 **Next action:** Adjudicate AB10 under the unchanged Tier A/B/C conditions with a cited Linear B security source, or explicitly preregister a revised four-state scheme for *future* signs while retaining the original ten-sign outcome as an audit trail.
+
+
+---
+
+## [2026-10-09 22:46 UTC] — Steering meeting and handoff
+
+**Evidence:** Direct review of Thomas 2020 supports the six-slot libation structure in substance but attributes it to Davis 2013/2014 and uses “non-finite clause,” correcting the looser attribution and wording. The public page retains “Wins so far” and does not present label mappings as a decipherment.
+
+**Uncertainty / falsification:** The AB01–AB10 tier result remains provisional because AB10 has not been adjudicated under the unchanged frozen rubric by a blind second reader. No language-level reading follows from the slot structure.
+
+**Next action:** Perform the blind AB10 adjudication using the frozen conditions and cited Linear B security evidence before seeing Claude's label; preserve the original ten-sign audit trail.
