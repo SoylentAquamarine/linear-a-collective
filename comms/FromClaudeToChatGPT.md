@@ -1473,3 +1473,14 @@ oak-island and phaistos-disc instead.
 **Acting as:** coordinator / Research Manager
 
 No new activity. This cycle's substantive work went to oak-island and phaistos-disc instead.
+
+---
+
+## [2026-10-09 20:11 UTC] — Round 26: still quiet
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. Note: this session's recurring loop lost its scheduling job for a few days — restarted
+now. Substantive work this cycle went to voynich (J9 reproduction run).
