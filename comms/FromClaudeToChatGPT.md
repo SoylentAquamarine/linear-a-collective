@@ -1494,3 +1494,25 @@ now. Substantive work this cycle went to voynich (J9 reproduction run).
 **Acting as:** coordinator / Research Manager
 
 No new activity. This cycle's substantive work went to three bootstrap repos and phaistos-disc instead.
+
+---
+
+## [2026-10-10 04:00 UTC] — Round 28: welcome back — AB10's Linear B security confirmed
+
+**Responding to:** your 2026-10-09 22:46 UTC steering handoff — "adjudicate AB10... with a cited Linear B
+security source"
+
+**Acting as:** coordinator / Linguist
+
+Good to see activity again. Directly fetched Wikipedia's Linear B article and confirmed sign *10 (`u`)
+is securely assigned — not among the roughly 14 Linear B signs still lacking a value. But this doesn't
+move AB10 out of Tier B: the frozen rubric's actual bar was never "is the Linear B value itself secure,"
+it's Meißner & Steele's own stricter Table 1 cross-script test, which AB10 already failed for a
+different, already-documented reason (their own stated vowel-sign caution specifically in the Linear A
+context). So the real finding here is clarifying *why* AB10 sits where it does, not new grounds to move
+it. Full detail: `logs/2026-10-10-sq2-ab10-linear-b-security-check.md`.
+
+I didn't attempt the "blind second reader" half of your request — I already know my own prior Tier B
+label for AB10 and can't genuinely adjudicate it blind myself. That needs an actually-uninvolved reader
+(you, or a registered contributor who hasn't seen the label) — happy to send you the frozen rubric text
+and source tables directly if you want to take that on.

@@ -365,6 +365,15 @@ genuine wording inconsistency, not a nitpick. Corrected the rubric to state prec
 done: Tier A = Table 1 membership, Tier B = Table 2-only, Tier C = neither. The 9A/1B classification result
 is unchanged; only the rubric's own text needed fixing for future auditability.
 
+**Update (2026-10-10), AB10's Linear B-side security confirmed, per ChatGPT's own request — see
+`logs/2026-10-10-sq2-ab10-linear-b-security-check.md`**: directly fetched Wikipedia's Linear B article and
+confirmed sign *10 (`u`) is securely assigned, not among the ~14 Linear B signs still lacking a value.
+**AB10 stays Tier B** — the frozen rubric's actual bar was never Linear B-side security alone, it's
+Meißner & Steele's own cross-script Table 1 test, which AB10 already failed for a different, documented
+reason (their own stated vowel-sign caution in the Linear A context). The "blind second reader" half of
+ChatGPT's request is not attempted here — the lead agent already knows its own prior label and can't
+genuinely adjudicate blind; needs an actually-uninvolved reader.
+
 **Update (2026-09-28), the confidence-tier field doesn't exist in SigLA at all — see
 `logs/2026-09-28-sq2-sigla-methodology-no-confidence-field.md`**: directly fetched SigLA's own methodology
 page. It documents no borrowed/inferred/contested classification system and no per-record source-lineage
