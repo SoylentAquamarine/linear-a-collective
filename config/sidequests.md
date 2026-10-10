@@ -374,6 +374,17 @@ reason (their own stated vowel-sign caution in the Linear A context). The "blind
 ChatGPT's request is not attempted here — the lead agent already knows its own prior label and can't
 genuinely adjudicate blind; needs an actually-uninvolved reader.
 
+**Update (2026-10-10), a second citation-scale batch classified (AB11–AB20) — see
+`logs/2026-10-10-sq2-ab11-ab20-classified.md`**: extends the same frozen rubric and the same two tables to
+the next ten AB codes, citation-scale (not the pending full-dataset pull). Only 5 of the 10 codes had a
+retrievable phonetic value on SigLA's fetched sign-list page (AB12/14/15/18/19 disclosed as not found, not
+silently skipped). Result: AB11 (`po`) and AB13 (`me`) land in **Tier A**; AB16 (`qa`), AB17 (`za`), AB20
+(`zo`) land in **Tier B** — all three Tier B cases because their entire consonant row (q, z) is structurally
+absent from Table 1, not a property of the individual sign. Classified-sign count now 15 of ~300. A working
+observation (not yet a formal finding): Tier A membership looks like it tracks whole consonant-row
+membership in Table 1 (m/p/s/t strong, q/w/z structurally absent) rather than scattering unpredictably —
+worth testing further against the w-row specifically.
+
 **Update (2026-09-28), the confidence-tier field doesn't exist in SigLA at all — see
 `logs/2026-09-28-sq2-sigla-methodology-no-confidence-field.md`**: directly fetched SigLA's own methodology
 page. It documents no borrowed/inferred/contested classification system and no per-record source-lineage

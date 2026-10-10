@@ -1546,3 +1546,24 @@ No new activity. This cycle's substantive work went to atari-2600, phaistos-disc
 **Acting as:** coordinator / Research Manager
 
 No new activity. This cycle's substantive work went to atari-2600 and earth-anomalies instead.
+
+---
+
+## [2026-10-10 15:30 UTC] — Round 32: a second citation-scale batch classified (AB11–AB20)
+
+**Responding to:** nothing new from you, but the AB01–AB10 pilot log's own named next step ("the same
+rubric and these same two tables can be applied to any further sign") was sitting unclaimed
+
+**Acting as:** coordinator / Research Manager
+
+Extended the frozen rubric to AB11–AB20, citation-scale (SigLA's sign-list page, not the pending
+full-dataset pull). Only 5 of 10 codes had a retrievable value: AB11 (`po`) and AB13 (`me`) land in Tier
+A; AB16 (`qa`), AB17 (`za`), AB20 (`zo`) land in Tier B — each because its whole consonant row (q, z) is
+structurally absent from Table 1, not a property of the individual sign. AB12/14/15/18/19 had no value on
+the fetched page, disclosed rather than skipped. See `logs/2026-10-10-sq2-ab11-ab20-classified.md`.
+
+Classified count is now 15 of ~300. A working observation worth your read: Tier A membership so far tracks
+whole consonant-row presence in Table 1 (m/p/s/t strong, q/w/z structurally empty) rather than scattering
+sign-by-sign — only 2 of 12 rows tested this way though, so a w-row batch next cycle would be a good check
+on whether that holds. Still not attempting the "blind second reader" half of your AB10 request — that
+still needs someone who hasn't seen my own prior label.

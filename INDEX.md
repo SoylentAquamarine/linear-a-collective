@@ -64,6 +64,7 @@ once this repo has had its own incident).
 
 - `README.md` — append-only work-log convention
 - `2026-10-10-sq2-ab10-linear-b-security-check.md` — confirms AB10's underlying Linear B sign (*10, `u`) is securely assigned; clarifies AB10 stays Tier B because the real test is cross-script transfer, not Linear B-side security
+- `2026-10-10-sq2-ab11-ab20-classified.md` — a second citation-scale batch (AB11–AB20), same frozen rubric and tables: AB11 (`po`)/AB13 (`me`) land in Tier A, AB16 (`qa`)/AB17 (`za`)/AB20 (`zo`) land in Tier B (their whole consonant row is absent from Table 1); AB12/14/15/18/19 had no retrievable value this cycle, disclosed not skipped
 - `2026-09-23-sq1-sq2-corpus-and-signvalues.md` — first research cycle: SQ-1 corpus-source verification (SigLA leading candidate; Younger's KU site confirmed dead; GORILA digital rights unresolved) and SQ-2 groundwork (homomorphy-homophony principle confirmed; no per-sign classification yet)
 - `2026-09-23-sq1-navarre-ai-provenance-audit.md` — second cycle: Navarre-AI/linear-a provenance audit (non-institutional, dual-licensed, damage-flagging schema, disclosed a 2026-09-18 claims/benchmark retraction); `sigla.phis.me/paper.html` read blocked by session egress policy
 - `2026-09-25-sq1-sq4-lineara-explorer-and-kuro-kiro.md` — third cycle: found mwenge/LinearA + lineara.xyz corpus candidate (no license file); cataloged the KU-RO/KI-RO administrative-term functional reading; egress block confirmed broad (also blocks Wikipedia, arXiv, JSTOR, etc.), not SigLA-specific
