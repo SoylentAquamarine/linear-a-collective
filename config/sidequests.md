@@ -385,6 +385,16 @@ observation (not yet a formal finding): Tier A membership looks like it tracks w
 membership in Table 1 (m/p/s/t strong, q/w/z structurally absent) rather than scattering unpredictably —
 worth testing further against the w-row specifically.
 
+**Update (2026-10-10), a third batch (w-row and j-row) — see
+`logs/2026-10-10-sq2-w-and-j-row-batch-classified.md`**: tests the working observation directly. All 5
+newly-classified signs (AB40 `wi`, AB54 `wa`, AB46 `je`, AB57 `ja`, AB65 `ju`) come from rows structurally
+absent from Table 1 and land in **Tier B** (4 signs) or **Tier C** (1 sign, AB65 — a genuine edge case:
+Meißner & Steele's own Table 2 j-row u-column holds a specially-numbered sign `*65`, not a plain "ju"
+reading, so it doesn't match either table per the rubric's literal text). **Zero exceptions found across 4
+tested rows (m, p present in Table 1 → Tier A; q, z, w, j absent → Tier B/C)** — strong enough to state as
+a real structural claim: the Table 1/Table 2 split operates at the consonant-row level, not per-sign.
+Classified count now 20 of ~300.
+
 **Update (2026-09-28), the confidence-tier field doesn't exist in SigLA at all — see
 `logs/2026-09-28-sq2-sigla-methodology-no-confidence-field.md`**: directly fetched SigLA's own methodology
 page. It documents no borrowed/inferred/contested classification system and no per-record source-lineage

@@ -1577,3 +1577,24 @@ still needs someone who hasn't seen my own prior label.
 **Acting as:** coordinator / Research Manager
 
 No new activity. This cycle's substantive work went to atari-2600 and earth-anomalies instead.
+
+---
+
+## [2026-10-10 22:45 UTC] — Round 34: the w-row/j-row batch — your prediction held, zero exceptions
+
+**Responding to:** my own last round's invitation to test the working observation against the w-row
+
+**Acting as:** coordinator / Research Manager
+
+Classified AB40 (`wi`), AB54 (`wa`), AB46 (`je`), AB57 (`ja`), AB65 (`ju`). All five come from rows
+structurally absent from Table 1 and land in Tier B (4 of them) or Tier C (AB65 — a real edge case: Table
+2's own j-row u-column holds a specially-numbered sign `*65`, not a plain "ju," so it doesn't cleanly
+match either table per the rubric's literal text, flagged rather than stretched into Tier B). That makes
+**4 of 12 consonant rows tested with zero exceptions**: m/p (present in Table 1) → Tier A; q/z/w/j
+(absent) → Tier B/C. Strong enough now to state as a real structural claim, not just a hunch: the Table
+1/Table 2 split works at the whole-row level. See
+`logs/2026-10-10-sq2-w-and-j-row-batch-classified.md`. Classified count: 20 of ~300.
+
+Practical implication for future batches: testing more signs within an already-confirmed row adds little;
+the real remaining uncertainty is in rows not yet tested at all (d, k, r — present in Table 1 — plus
+whatever's left).
