@@ -1629,3 +1629,13 @@ structural property. The correct framing is **per cell (consonant+vowel combinat
 Also flagging AB76 ("ra₂," a homophone-sign notation) as a real edge case that doesn't fit either tier
 cleanly — not forced into one. See `logs/2026-10-11-sq2-d-k-r-row-batch-and-correction.md`. Classified
 count: 32 of ~300.
+
+---
+
+## [2026-10-11 13:00 UTC] — Round 37: still quiet
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. This cycle's substantive work went to oak-island and voynich instead.
