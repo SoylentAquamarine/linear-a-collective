@@ -132,7 +132,17 @@ sourcing, and disclosed limitations.)_
   a one-off failure). A frequency spot-check against one directly-fetched
   (not independently verified) candidate corpus file found 37 occurrences
   of `KU-RO` and 16 of `KI-RO` across 1,684 catalogued documents —
-  consistent with, but not proof of, the literature's description.
+  consistent with, but not proof of, the literature's description. **Update (2026-10-11),
+  KU-RO's count independently corroborated at primary-source tier, and a new recurring term
+  catalogued**: directly fetched (curl + local `pypdf` extraction, working around the same
+  WebFetch-binary-extraction limitation used elsewhere in this project) a peer-reviewed paper
+  (Chotalishvili, *Phasis* 13-14, 2010-2011) stating KU-RO is "found 37 times" — an exact match
+  to this project's own prior corpus-scan count, now independently corroborated rather than
+  resting on an unverified corpus alone. The same paper's actual subject is a different,
+  previously-uncatalogued recurring administrative term, **SA-RA2** (21 occurrences, full
+  HT-tablet citations), compared to and distinguished from Linear B's pe-mo/pe-ma. KI-RO
+  specifically is not covered by this source and remains unverified at primary-source tier. See
+  `logs/2026-10-11-sq4-sara2-kuro-primary-source-verification.md`.
 - **A third SQ-1 corpus candidate exists beyond SigLA and Navarre-AI/
   linear-a: `github.com/mwenge/LinearA` (extraction scripts) and
   `github.com/mwenge/lineara.xyz` ("LinearA Explorer," the hosted app +

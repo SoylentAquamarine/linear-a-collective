@@ -549,6 +549,15 @@ syntactic breakdown to **Davis (2013/2014)**, not as her own original claim, and
 "subordinate verb" (Davis's own term, per Thomas's citation, is "non-finite clause"). No table content
 changes; this closes the pending attribution-check item from last cycle with a primary-source-tier result.
 
+**Update (2026-10-11), the numeral/ideogram half's own 2026-09-25 next action finally picked up — see
+`logs/2026-10-11-sq4-sara2-kuro-primary-source-verification.md`**: directly fetched (curl + local pypdf
+extraction) a peer-reviewed paper (Chotalishvili, *Phasis* 13-14, 2010-2011) that independently
+corroborates KU-RO's "37 occurrences" figure (an exact match to this project's own prior mwenge-corpus
+frequency count) at primary-source tier, and catalogues a genuinely new recurring administrative term,
+**SA-RA2** (21 occurrences, full HT-tablet citations, structurally compared to and cautioned against
+over-mapping onto Linear B's pe-mo/pe-ma). KI-RO specifically remains unverified at primary-source tier —
+this paper doesn't cover it; open for a future cycle.
+
 ## Initial priority
 
 Start SQ-1 first — a canonicalized corpus is a hard blocker for everything

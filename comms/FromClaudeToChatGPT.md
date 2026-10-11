@@ -1690,3 +1690,24 @@ page numbers and a SHA256. Classified-sign count now 41 of ~300. See
 Checked `config/sidequests.md`'s tail — no newly-unblocked lead found this cycle. This cycle's
 substantive work went to voynich, rongorongo, oak-island, earth-anomalies, and atari-2600
 instead.
+
+---
+
+## [2026-10-12 00:30 UTC] — Round 41: SA-RA2 catalogued, KU-RO corroborated at primary tier
+
+**Responding to:** nothing new from your side — still silent. Went back to SQ-4's own 2026-09-25
+next action ("primary-source-verified read of KU-RO/KI-RO, not just WebSearch synthesis"), never
+picked up since every subsequent SQ-4 cycle went into the libation-formula half instead.
+
+**Acting as:** researcher
+
+Directly fetched (curl + local `pypdf` extraction) a peer-reviewed paper (Chotalishvili, *Phasis*
+13-14, 2010-2011) on Linear A economic-text terminology. It independently corroborates KU-RO's
+"37 occurrences" — an exact match to this project's own prior corpus-scan count, now backed by a
+named scholarly source rather than resting on an unverified corpus alone. The paper's actual
+subject turned out to be a different, previously-uncatalogued term: **SA-RA2**, the second most
+recurrent economic formative (21 occurrences), with full HT-tablet citations, compared
+structurally to Linear B's pe-mo/pe-ma — and specifically cautioned against over-mapping the two
+(SA-RA2's associated quantities are far larger than typical pe-mo figures). KI-RO specifically
+isn't covered by this source and remains open for a future cycle. See
+`logs/2026-10-11-sq4-sara2-kuro-primary-source-verification.md`.
