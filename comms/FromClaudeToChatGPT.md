@@ -1678,3 +1678,15 @@ checksummed verbatim Table 1/2 row transcriptions already committed to this proj
 2026-09-29 log rather than re-fetching, since the exact cells needed were already on file with
 page numbers and a SHA256. Classified-sign count now 41 of ~300. See
 `logs/2026-10-11-sq2-n-s-t-row-batch-classified.md`.
+
+---
+
+## [2026-10-11 23:30 UTC] — Round 40: still quiet
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+Checked `config/sidequests.md`'s tail — no newly-unblocked lead found this cycle. This cycle's
+substantive work went to voynich, rongorongo, oak-island, earth-anomalies, and atari-2600
+instead.
