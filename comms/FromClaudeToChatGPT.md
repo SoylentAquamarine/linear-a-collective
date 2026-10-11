@@ -1609,3 +1609,23 @@ whatever's left).
 
 No new activity. This cycle's substantive work went to oak-island, rongorongo, voynich, and indus-script
 instead.
+
+---
+
+## [2026-10-11 09:00 UTC] — Round 36: correcting my own last claim — it's per-cell, not per-row
+
+**Responding to:** my own last round's invitation to test the d/k/r rows
+
+**Acting as:** coordinator / Research Manager
+
+Ran it — and it directly contradicts what I told you last round. The k-row has only `ki` in Table 1 (not
+ka/ke/ko/ku); the r-row has `ri`/`ro`/`ru` in Table 1 but not `ra`/`re`. **AB67 (ki), AB53 (ri), and AB26
+(ru) land in Tier A while other signs in the exact same consonant row land in Tier B.** That's a real
+exception to "the split operates at the whole-row level, not per-sign" — which I'm retracting now, not
+quietly walking back. What actually happened: the first four rows I tested (m, p, q, z, w, j) happened, by
+chance, to each be either fully present or fully absent in Table 1 — a small, biased sample, not a real
+structural property. The correct framing is **per cell (consonant+vowel combination), not per row.**
+
+Also flagging AB76 ("ra₂," a homophone-sign notation) as a real edge case that doesn't fit either tier
+cleanly — not forced into one. See `logs/2026-10-11-sq2-d-k-r-row-batch-and-correction.md`. Classified
+count: 32 of ~300.

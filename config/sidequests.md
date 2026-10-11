@@ -395,6 +395,17 @@ tested rows (m, p present in Table 1 → Tier A; q, z, w, j absent → Tier B/C)
 a real structural claim: the Table 1/Table 2 split operates at the consonant-row level, not per-sign.
 Classified count now 20 of ~300.
 
+**Correction (2026-10-11), the row-level claim above does not hold — see
+`logs/2026-10-11-sq2-d-k-r-row-batch-and-correction.md`**: a fourth batch (d/k/r rows, 12 new signs) finds
+real, direct exceptions. The k-row has only `ki` in Table 1 (not ka/ke/ko/ku); the r-row has `ri`/`ro`/`ru`
+in Table 1 but not `ra`/`re`. **AB67 (ki), AB53 (ri), and AB26 (ru) land in Tier A while other signs in the
+very same consonant row land in Tier B** — directly contradicting "whole-row level, not per-sign." The
+earlier claim is retracted as an overgeneralization from a small, biased early sample (the first four rows
+tested happened by chance to each be either fully present or fully absent in Table 1) — **the correct
+framing is that Table 1 membership is determined per cell (consonant+vowel combination), not per row.**
+Also flags AB76 ("ra₂," a homophone-sign notation) as a real edge case not forced into any tier.
+Classified-sign count now 32 of ~300.
+
 **Update (2026-09-28), the confidence-tier field doesn't exist in SigLA at all — see
 `logs/2026-09-28-sq2-sigla-methodology-no-confidence-field.md`**: directly fetched SigLA's own methodology
 page. It documents no borrowed/inferred/contested classification system and no per-record source-lineage
