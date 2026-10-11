@@ -406,6 +406,17 @@ framing is that Table 1 membership is determined per cell (consonant+vowel combi
 Also flags AB76 ("ra₂," a homophone-sign notation) as a real edge case not forced into any tier.
 Classified-sign count now 32 of ~300.
 
+**Update (2026-10-11), a fifth batch (n/s/t rows) tests the paper's own "nearly complete" claim — see
+`logs/2026-10-11-sq2-n-s-t-row-batch-classified.md`**: 9 new signs classified (7A/2B) plus 2 flagged
+special-notation variants (AB48/`nwa`, AB66/`ta2`, neither a plain cell in either grid). **t-row is fully
+complete in Table 1 (5/5 vowel cells)** and s-row nearly so (4/5 attested cells) — strongly confirming the
+source paper's own framing for those two rows specifically. The n-row, by contrast, is genuinely mixed
+(na/ni in Table 1, ne/nu Table-2-only) — a third row (after d, k, r) showing partial membership,
+reinforcing the per-cell correction above with no new exceptions. Classified-sign count now 41 of ~300.
+Network note: `repository.cam.ac.uk` was unreachable this cycle (both WebFetch and `curl` failed to
+resolve the host); this batch reused the already-checksummed verbatim Table 1/2 row transcriptions already
+committed to `logs/2026-09-29-sq2-ab01-ab10-exact-table-cells.md` rather than re-fetching.
+
 **Update (2026-09-28), the confidence-tier field doesn't exist in SigLA at all — see
 `logs/2026-09-28-sq2-sigla-methodology-no-confidence-field.md`**: directly fetched SigLA's own methodology
 page. It documents no borrowed/inferred/contested classification system and no per-record source-lineage

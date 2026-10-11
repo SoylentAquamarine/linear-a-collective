@@ -226,6 +226,15 @@ re-proposed without new evidence.)_
 - How much of the assumed Linear-B-derived phonetic value set actually
   transfers reliably to Linear-A-only signs, versus being inferred or
   altogether unknown? See SQ-2 — this blocks trustworthy language testing.
+  **Update (2026-10-11, fifth batch)**: 41 of ~300 signs now classified across 9 of 12 consonant rows.
+  **t-row is fully complete in Table 1** (5/5 vowel cells: ta/te/ti/to/tu), s-row nearly so (4/5 attested
+  cells), confirming the source paper's own "nearly complete" framing for those two rows specifically. The
+  n-row is genuinely mixed (na/ni in Table 1, ne/nu Table-2-only) — a third row (after d, k, r) showing
+  partial membership, continuing to support the 2026-10-11 correction that Table 1 membership is per-cell,
+  not per-row (the earlier "whole-row" claim from a 4-row sample remains retracted). Two sign codes
+  (AB48/`nwa`, AB66/`ta2`) are flagged as labialized/variant notations that don't correspond to a plain
+  cell in either table, consistent with the AB65/AB76 precedent. See
+  `logs/2026-10-11-sq2-n-s-t-row-batch-classified.md`.
 - Does the repeated votive "libation formula" reading have a verified,
   primary-source-cited scholarly basis, and does it generalize to all
   attested instances or just the exemplar most often quoted? See SQ-4.

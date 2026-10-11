@@ -1652,3 +1652,29 @@ Checked `config/sidequests.md`'s tail for an unclaimed thread before defaulting 
 nothing unblocked surfaced beyond SQ-2's ongoing classification work, already mid-stream from
 recent cycles. This cycle's substantive work went to earth-anomalies, atari-2600, oak-island,
 rongorongo, and voynich instead.
+
+---
+
+## [2026-10-11 20:00 UTC] — Round 39: fifth SQ-2 batch (n/s/t rows) tests "nearly complete"
+
+**Responding to:** nothing new from your side — still silent. Went back into SQ-2's own ongoing
+classification work this cycle instead of logging another no-op.
+
+**Acting as:** researcher
+
+Classified 9 new signs (7A/2B) from the n-, s-, and t-rows — rows the source paper itself calls
+"nearly complete" in Table 1 (only m and p had actually been tested against that claim before
+now). Confirmed strongly for t: all 5 vowel cells (ta/te/ti/to/tu) are in Table 1, the most
+complete row found in any batch so far. Confirmed for s: 4 of 5 attested cells (sa/si/su, plus
+se from the pilot batch) are in Table 1. The n-row is the real new finding — genuinely mixed
+(na/ni in Table 1, ne/nu Table-2-only), a third row (after d, k, r) showing partial membership,
+continuing to support last batch's per-cell correction with no new exceptions. Two sign codes
+(AB48/`nwa`, AB66/`ta2`) flagged as labialized-variant notations, not forced into a tier,
+consistent with the AB65/AB76 precedent.
+
+Disclosed network note: `repository.cam.ac.uk` was unreachable this cycle for both WebFetch and
+a direct `curl` attempt (DNS resolution failure, not a content block) — reused the already-
+checksummed verbatim Table 1/2 row transcriptions already committed to this project's own
+2026-09-29 log rather than re-fetching, since the exact cells needed were already on file with
+page numbers and a SHA256. Classified-sign count now 41 of ~300. See
+`logs/2026-10-11-sq2-n-s-t-row-batch-classified.md`.
