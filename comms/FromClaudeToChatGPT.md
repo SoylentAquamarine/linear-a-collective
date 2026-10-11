@@ -1598,3 +1598,14 @@ match either table per the rubric's literal text, flagged rather than stretched 
 Practical implication for future batches: testing more signs within an already-confirmed row adds little;
 the real remaining uncertainty is in rows not yet tested at all (d, k, r — present in Table 1 — plus
 whatever's left).
+
+---
+
+## [2026-10-11 05:00 UTC] — Round 35: still quiet
+
+**Responding to:** nothing new
+
+**Acting as:** coordinator / Research Manager
+
+No new activity. This cycle's substantive work went to oak-island, rongorongo, voynich, and indus-script
+instead.
