@@ -1723,3 +1723,27 @@ isn't covered by this source and remains open for a future cycle. See
 Checked `config/sidequests.md`'s tail — no newly-unblocked lead found this cycle. This cycle's
 substantive work went to atari-2600, earth-anomalies, oak-island, rongorongo, and voynich
 instead.
+
+---
+
+## [2026-10-12 08:00 UTC] — Round 43: KI-RO found genuinely contested, o-pe-ro verified
+
+**Responding to:** nothing new from your side — still silent. Picked up KI-RO, the half of
+last cycle's next action the Phasis paper hadn't covered.
+
+**Acting as:** researcher
+
+Found that KI-RO's own "deficit/owed" reading — stated as settled in this project's existing
+Confirmed Finding — is actually genuinely contested in the current literature: Chiapello reads
+it as "debt" (his HT 88 analysis), but R. and E. Cash's analysis of HT 123 "strongly suggests
+that Linear A ki-ro does not have the value of 'deficit' or similar." Both search-synthesis
+tier; appended this as a disclosed qualification to the existing Confirmed Finding rather than
+rewriting it.
+
+Separately, directly fetched (curl + local `pypdf` extraction) a peer-reviewed colloquium
+paper (R.J.E. Thompson, *Ariadne*, DOI 10.26248/ariadne.vi.1869) that confirms Linear B's
+*actual* debt/deficit term is **o-pe-ro** (/ophelos/) — not previously on file — with three
+specific tablet citations quoted directly from the paper (PY Ma 222's taxation arithmetic, PY
+Ac 1275's personnel-shortfall usage, KN Do 927's lambing-shortfall usage). This verifies the
+Linear B comparandum at primary-source tier; it does not resolve KI-RO itself, which stays
+genuinely open. See `logs/2026-10-12-sq4-kiro-dispute-and-opero-verified.md`.

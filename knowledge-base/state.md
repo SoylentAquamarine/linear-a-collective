@@ -114,7 +114,16 @@ sourcing, and disclosed limitations.)_
   conventionally read in the published literature as meaning "total"
   (analogous to Linear B's accounting term to-so, "so much"), and KI-RO as
   "deficit"/"owed," based on their position at the end of numeral/commodity
-  lists.** This is a report of existing, pre-dating-this-project field
+  lists.** **Correction/qualification (2026-10-12), appended not rewritten — see
+  `logs/2026-10-12-sq4-kiro-dispute-and-opero-verified.md`**: KI-RO's "deficit/owed" reading is
+  the majority view, not a settled fact — Duccio Chiapello reads it as "debt" (HT 88 analysis,
+  paired with A-DU "payment"), but R. and E. Cash's analysis of HT 123 "strongly suggests that
+  Linear A ki-ro does not have the value of 'deficit' or similar." Both search-synthesis tier.
+  Separately, Linear B's actual debt/deficit term — **o-pe-ro** (/ophelos/), not previously on
+  file — is now directly verified at primary-source tier (R.J.E. Thompson, *Ariadne*, DOI
+  10.26248/ariadne.vi.1869), with three specific tablet citations (PY Ma 222, PY Ac 1275, KN Do
+  927). This verifies the Linear B comparandum, not KI-RO itself, which remains genuinely
+  contested. This is a report of existing, pre-dating-this-project field
   scholarship (corroborated across multiple independent sources found this
   session, including sources otherwise arguing for rival, contested
   language-family identifications, which cite the same base KU-RO/KI-RO

@@ -558,6 +558,14 @@ frequency count) at primary-source tier, and catalogues a genuinely new recurrin
 over-mapping onto Linear B's pe-mo/pe-ma). KI-RO specifically remains unverified at primary-source tier —
 this paper doesn't cover it; open for a future cycle.
 
+**Update (2026-10-12), KI-RO's own reading found genuinely contested; Linear B's real debt term verified
+— see `logs/2026-10-12-sq4-kiro-dispute-and-opero-verified.md`**: KI-RO's "deficit/owed" reading is the
+majority view, not settled — Chiapello reads it as "debt" (HT 88), but R. and E. Cash's HT 123 analysis
+argues against the "deficit" value entirely (both search-synthesis tier). Separately, directly fetched
+(curl + `pypdf`) R.J.E. Thompson's *Ariadne* paper confirms Linear B's actual debt/deficit term is
+**o-pe-ro** (/ophelos/), with three specific tablet citations (PY Ma 222, PY Ac 1275, KN Do 927) — verifies
+the Linear B comparandum at primary tier, not KI-RO itself, which remains genuinely disputed.
+
 ## Initial priority
 
 Start SQ-1 first — a canonicalized corpus is a hard blocker for everything
