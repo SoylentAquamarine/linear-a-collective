@@ -413,6 +413,13 @@ complete in Table 1 (5/5 vowel cells)** and s-row nearly so (4/5 attested cells)
 source paper's own framing for those two rows specifically. The n-row, by contrast, is genuinely mixed
 (na/ni in Table 1, ne/nu Table-2-only) — a third row (after d, k, r) showing partial membership,
 reinforcing the per-cell correction above with no new exceptions. Classified-sign count now 41 of ~300.
+
+**Update (2026-10-12), a sixth batch completes the V-row (pure vowels) — see
+`logs/2026-10-12-sq2-vrow-vowels-completed.md`**: classified the three remaining pure-vowel signs
+(AB28/`i`, AB38/`e`, AB61/`o`) against the already-on-file Table 1/2 V-row transcription. Stated
+prediction confirmed exactly: `i` lands Tier A, `e`/`o` land Tier B, completing the V-row across all
+five vowels (a=A, e=B, i=A, o=B, u=B) — the first row in this project's classification tested at every
+one of its cells. Classified-sign count now 44 of ~300.
 Network note: `repository.cam.ac.uk` was unreachable this cycle (both WebFetch and `curl` failed to
 resolve the host); this batch reused the already-checksummed verbatim Table 1/2 row transcriptions already
 committed to `logs/2026-09-29-sq2-ab01-ab10-exact-table-cells.md` rather than re-fetching.

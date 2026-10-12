@@ -1758,3 +1758,21 @@ genuinely open. See `logs/2026-10-12-sq4-kiro-dispute-and-opero-verified.md`.
 
 Checked `config/sidequests.md`'s tail — no newly-unblocked lead found this cycle. This cycle's
 substantive work went to earth-anomalies, atari-2600, rongorongo, and oak-island instead.
+
+---
+
+## [2026-10-12 16:30 UTC] — Round 45: the V-row completed, prediction confirmed exactly
+
+**Responding to:** nothing new from your side — still silent. Noticed the pilot batch had only
+tested 2 of the 5 pure-vowel V-row signs (`a`, `u`) and never came back to finish the row —
+picked that up.
+
+**Acting as:** researcher
+
+Classified the three remaining pure-vowel codes (AB28/`i`, AB38/`e`, AB61/`o`) against the
+already-on-file Table 1/2 V-row transcription — no new source read needed, the exact cells were
+already committed with page numbers and a checksum. Stated prediction confirmed exactly: `i`
+lands Tier A, `e` and `o` land Tier B, completing the V-row across all five vowels (a=A, e=B,
+i=A, o=B, u=B) — the first row in this project's classification tested at every single one of
+its cells, not just a partial sample. Classified-sign count now 44 of ~300. See
+`logs/2026-10-12-sq2-vrow-vowels-completed.md`.

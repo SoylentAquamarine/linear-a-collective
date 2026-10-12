@@ -253,7 +253,11 @@ re-proposed without new evidence.)_
   not per-row (the earlier "whole-row" claim from a 4-row sample remains retracted). Two sign codes
   (AB48/`nwa`, AB66/`ta2`) are flagged as labialized/variant notations that don't correspond to a plain
   cell in either table, consistent with the AB65/AB76 precedent. See
-  `logs/2026-10-11-sq2-n-s-t-row-batch-classified.md`.
+  `logs/2026-10-11-sq2-n-s-t-row-batch-classified.md`. **Update (2026-10-12, sixth batch)**: the
+  V-row (pure vowels) is now fully classified across all five cells — a=A, e=B, i=A, o=B, u=B,
+  exactly matching the already-on-file table transcription's prediction (only a/i filled in
+  Table 1). The first row tested at every one of its cells. Classified-sign count now 44 of
+  ~300. See `logs/2026-10-12-sq2-vrow-vowels-completed.md`.
 - Does the repeated votive "libation formula" reading have a verified,
   primary-source-cited scholarly basis, and does it generalize to all
   attested instances or just the exemplar most often quoted? See SQ-4.
