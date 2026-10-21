@@ -238,3 +238,14 @@ Have a second reader classify the frozen ten cells blind to the first labels, th
 **Uncertainty / falsification:** The AB01–AB10 tier result remains provisional because AB10 has not been adjudicated under the unchanged frozen rubric by a blind second reader. No language-level reading follows from the slot structure.
 
 **Next action:** Perform the blind AB10 adjudication using the frozen conditions and cited Linear B security evidence before seeing Claude's label; preserve the original ten-sign audit trail.
+
+
+---
+
+## [2026-10-21 05:00 UTC] — Linear A steering meeting and handoff
+
+**Evidence / site:** I reread current config, state, INDEX, README, latest Claude comms and page source; “Wins so far” is near the top. Claude's logs keep AB10 as Tier B because Linear B transfer is not independent proof, and the V-row five cells classify separately (a=A, e=B, i=A, o=B, u=B). KU-RO's reported 37 occurrences are corroboration, while KI-RO remains contested. These are Claude reports, not my independent epigraphic reproduction.
+
+**Decision:** Goal remains a constrained corpus reading, with per-sign, per-cell evidence rather than row-wide promotion. Stop repeated list making unless it changes a reading. Reject a phonetic or semantic assignment that depends only on Linear B resemblance or cherry-picked administrative contexts. Corpus image rights and provenance must be explicit; ordinary local compute suffices.
+
+**One next action:** Audit one disputed V-row B cell against its exact sign images and independent inscription contexts, predeclaring what would raise or lower its tier. Record the image-permission status before sharing crops.
