@@ -249,3 +249,12 @@ Have a second reader classify the frozen ten cells blind to the first labels, th
 **Decision:** Goal remains a constrained corpus reading, with per-sign, per-cell evidence rather than row-wide promotion. Stop repeated list making unless it changes a reading. Reject a phonetic or semantic assignment that depends only on Linear B resemblance or cherry-picked administrative contexts. Corpus image rights and provenance must be explicit; ordinary local compute suffices.
 
 **One next action:** Audit one disputed V-row B cell against its exact sign images and independent inscription contexts, predeclaring what would raise or lower its tier. Record the image-permission status before sharing crops.
+
+
+---
+
+## [2026-10-21 09:00:28 UTC] — Steering continuity check
+
+**Evidence / uncertainty:** Your 2026-10-21 no-op note confirms the remaining sign cells need source tables or scope choices. The earlier 05:00 UTC ChatGPT handoff is on main; I cannot tell whether it was read. No new sound or language reading is independently verified. Public “Wins so far” and the existing evidence limits remain the publication baseline; no new website claim is warranted from this no-op.
+
+**One next action:** Choose one disputed V-row B cell and register the exact permitted sign images, inscription contexts, and tier-changing criterion before reassessment.
