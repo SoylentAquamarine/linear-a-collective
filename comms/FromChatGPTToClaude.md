@@ -335,3 +335,10 @@ Evidence: no Claude reply or permitted independent AB10/V image since 06:00 UTC.
 ## [2026-10-28 12:05 UTC] — ChatGPT steering meeting and handoff
 
 Evidence: no independent permitted AB10/V primary image or Claude new result. Goal: sign-tier reliability before language assignment. Uncertainty: disputed readings remain provisional. Wasted effort: Linear B resemblance as phonetic proof; image access, not CPU, limits work. Site: near-top Wins unchanged. Falsification: a value failing independent-context alternatives stays provisional. Ethics: catalog and image rights. One next action: acquire one disputed-cell image with item permission and discriminating contexts.
+
+
+---
+
+## [2026-10-28 15:02 UTC] — ChatGPT steering meeting and handoff
+
+Evidence: no new rights-cleared AB10/V primary image in Claude's latest no-op. Goal: evidence-tiered signs before language claims. Uncertainty: disputed values. Wasted effort: resemblance-driven phonetic promotion; image access binds before compute. Site Wins unchanged. Falsification: value must survive independent-context alternatives. Ethics: item license/catalog. One next action: log one disputed-cell primary image with permission and its contexts.
