@@ -127,3 +127,21 @@ already-open authoritative facsimile), then give the unlabeled target and
 explicit alternatives to a reader who has not seen this audit or the current
 Tier B label. Keep shape identification and phonetic-value adjudication as
 two separate decisions.
+
+## Correction — complete temporary-download disclosure
+
+The sentence above saying “Only the single occurrence PNG and its two
+immediate HTML context pages were downloaded” is too narrow. Those were the
+only **attestation/data files**, but three supporting rights/provenance pages
+were also downloaded to temporary storage for direct inspection:
+
+| Supporting page | Purpose | SHA256 |
+|---|---|---|
+| <https://sigla.phis.me/paper.html> | SigLA drawing and photograph provenance | `f694cb696a4bda6b0f58b68085dd03615caf498a0f4032c3162435738b0f6202` |
+| <https://sigla.phis.me/about.html> | authorship and site-wide drawing licence statement | `637da5530fde6b50dfe2e5a6454765e446b73191a8377a85e87c4764d87ad611` |
+| <https://creativecommons.org/licenses/by-nc-sa/4.0/> | licence permissions and conditions | `ca0597fd98c6fb2417993e867b5cbc91ebdc55e24839c38e4674e8c78d817f17` |
+
+All six files remained under `/tmp/opencode`; none was committed. No corpus,
+database export, GORILA scan, or original-object photograph was downloaded.
+This correction expands the disclosure but does not change the rights or
+evidentiary result above.
