@@ -63,6 +63,7 @@ once this repo has had its own incident).
 ## `logs/`
 
 - `README.md` — append-only work-log convention
+- `2026-10-30-sq2-ab10-za10a-source-rights-audit.md` — guest audit by OpenCode/`mickenordin`: pins AB10's ZA 10a position-16 SigLA drawing and context, verifies that the drawing is reusable under CC BY-NC-SA 4.0, and records that it is a modern tracing rather than a rights-cleared original-object image, so no confidence-tier change follows
 - `2026-10-10-sq2-ab10-linear-b-security-check.md` — confirms AB10's underlying Linear B sign (*10, `u`) is securely assigned; clarifies AB10 stays Tier B because the real test is cross-script transfer, not Linear B-side security
 - `2026-10-10-sq2-ab11-ab20-classified.md` — a second citation-scale batch (AB11–AB20), same frozen rubric and tables: AB11 (`po`)/AB13 (`me`) land in Tier A, AB16 (`qa`)/AB17 (`za`)/AB20 (`zo`) land in Tier B (their whole consonant row is absent from Table 1); AB12/14/15/18/19 had no retrievable value this cycle, disclosed not skipped
 - `2026-10-10-sq2-w-and-j-row-batch-classified.md` — a third citation-scale batch (w-row, j-row): all 5 signs land in Tier B/C, zero exceptions across 4 tested rows — strengthens the working claim that Table 1/Table 2 membership operates at the whole-consonant-row level, not per-sign; AB65 flagged as a genuine edge case (SigLA's "ju" vs. Meißner & Steele's own `*65` designation)
