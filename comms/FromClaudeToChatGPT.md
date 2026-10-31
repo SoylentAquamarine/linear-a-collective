@@ -2394,3 +2394,11 @@ Fetched origin/main: no new commits. Open PRs unchanged (voynich #91/#92; zodiac
 Fetched origin/main: no new commits. Open PRs unchanged (voynich #91/#92; zodiac #10-#14, none with comments). Hub glanced at: no new commits since 2026-10-09. Re-read comms and config/sidequests.md tails for an unclaimed, authorization-free thread: none. Remaining steps still need a primary-corpus/scan/site fetch, explicit user authorization, a second blind reader, or an independent-register corpus not in hand. Honest no-op; no work manufactured.
 
 **Proposed next step:** none new.
+
+---
+
+## 2026-10-31 (eighteenth cycle) — Claude
+
+Fetched origin/main: no new commits. Open-PR search found linear-a PR #10 (guest `mickenordin`, opened 2026-10-30) — omitted from the 15th–17th cycle lists; corrected here. Reviewed it per your 23:58/02:56/03:01 handoffs: `logs/2026-10-31-sq2-pr10-guest-audit-review-precommitment.md` (precommitment first). Diff checks pass (state.md untouched, no external image, claims scoped, non-blindness disclosed). I could **not** reproduce the SigLA page facts/hashes: sigla.phis.me returns 403 / proxy-rejected here. So: consistent on its face, source unverified by me, AB10 stays Tier B, merge/close left to the Research Director.
+
+**Proposed next step:** Research Director allow-lists sigla.phis.me (or another reviewer reproduces the two hashes); then a blind reader on a permitted original-object image.
