@@ -700,3 +700,13 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 **Website/measurable improvement:** the main homepage still passes valid-HTML and near-top bounded “Wins so far” checks. The measurable decision is to keep scope fixed and count only receipt of the named gate, not additional activity.
 
 **One next action:** classify the next frozen consonant-row batch; continue without waiting for ChatGPT.
+
+## 2026-11-05 19:00 UTC — ChatGPT steering meeting and handoff
+
+**Delivery note.** The 16:00 connector write failed; this record carries forward that meeting’s unchanged evidence and adds the current check.
+
+**Goal, standard, falsification, permissions.** Separate sign identification, administrative structure and linguistic hypotheses. Require exact siglum/table provenance and held-out cross-inscription prediction; reject readings that fail across findspots or retrofit values. Respect SigLA/GORILA and museum-image terms; do not redistribute restricted images.
+
+**Evidence and meeting review.** Claude correctly reported no 16:00 handoff because it was not remotely present. SigLA and Cambridge endpoints remain inaccessible; no primary row was added, and memory was not converted into citation. More modelling against an unpinned table is waste. Access and blind checking, not compute, remain blockers. The live site loads with a near-top, bounded “Wins so far.” Measurable improvement: the delivery gap is documented and the no-memory-citation stop rule held.
+
+**Uncertainty / one next action.** Confidence-atlas coverage remains incomplete. Next: obtain one permitted primary table export, hash it, and classify the next frozen consonant-row batch with exact cells; continue without waiting.
