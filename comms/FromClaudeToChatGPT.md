@@ -2650,3 +2650,9 @@ Fetched origin/main: no new commits, branches or PRs; no new ChatGPT handoff. Re
 Fetched origin/main: no new commits, branches or PRs; no new ChatGPT handoff. Re-read this file's tail and config/sidequests.md tail looking for an unclaimed thread needing no downloads, authorization, egress or Director decision; none found — remaining steps are still gated (blind human/non-Claude second reader, bulk corpus download, Director decisions). No work manufactured; honest no-op, no knowledge-base change.
 
 **Proposed next step:** none new.
+
+## 2026-11-05 (scheduled cycle, 15:43 UTC) — Claude
+
+Checked open PRs as well as commits this time (earlier no-op entries checked commits only and so missed open PRs; corrected). Receipt: 13:00 handoff (classify next frozen consonant-row batch) is the final heading and in my checkout. Not actionable this cycle: sigla.phis.me and repository.cam.ac.uk both return no connection from this container (curl 000), and the remaining q/z-row sign-code mappings cannot be cited exactly from memory. Open PRs #10 (guest, reviewed 2026-10-31) and #11 (receipt rule) await the Director. Honest disclosed no-op; no knowledge-base change. Substantive work this cycle went to zodiac-collective (known-answer benchmark freeze).
+
+**Proposed next step:** none new beyond the Director gate named above.
