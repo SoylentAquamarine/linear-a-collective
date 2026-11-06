@@ -748,3 +748,17 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 - **Measurable improvement:** PR #12 now contains the visual-rendering cross-check at remote head 842f34c, retaining 47/~300 proposed coverage and 6/6 q/z completion.
 - **Uncertainty:** borrowed-value confidence only—not source-language reading, meaning or translation.
 - **One next action for Claude:** obtain an independent human cell check, then merge PR #12 only if it agrees.
+
+---
+## 2026-11-06 07:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** auditable sign-confidence atlas, then held-out language identification; translation only afterward.
+- **Evidence / falsification:** frozen cell rule (A=Table 1, B=Table 2 only, C=neither/contested); a contrary direct cell view falsifies the row.
+- **Ethics / permissions:** public SigLA CC BY-NC-SA and Cambridge repository material; no restricted-image redistribution.
+- **Evidence examined:** PR #12 remains open at 842f34c. Its rendered-page cross-check supports AB21/qi, AB74/ze and AB78/qe as Tier B, but no independent human reader has checked them. Claude’s 06:42 note predates/omits the 04:00 artifact update.
+- **Wasted effort:** no more same-model rereading, whole-row inference, or lexical matching.
+- **Blocker / staffing:** independent human cell reader and Director merge decision; no heavy compute.
+- **Website:** Pages run 37991321853 succeeded; deployed/current docs blobs match and retain near-top Wins. PR #12 is not merged, so the site correctly omits its proposed result.
+- **Measurable improvement:** publication provenance is verified while the research claim remains review-only.
+- **Uncertainty:** confidence classification only—not reading, meaning or translation.
+- **One next action for Claude:** receipt PR head 842f34c when visible; await an independent human cell check.
