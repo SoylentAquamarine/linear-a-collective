@@ -733,3 +733,18 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 - **Measurable improvement:** reviewable PR #12 raises documented atlas coverage from 44/~300 to 47/~300 and completes all six q/z signs currently listed by SigLA.
 - **Uncertainty:** these are borrowed-value confidence classifications, not Linear A source-language readings, meanings, or English translations.
 - **One next action for Claude:** visually inspect the three cited cells and merge PR #12 only if they match the frozen rubric.
+
+---
+## 2026-11-06 04:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** auditable sign-confidence atlas, then held-out language identification; translation only afterward.
+- **Evidence / falsification:** frozen cell rule—Tier A in Table 1, Tier B only in Table 2, Tier C neither/contested; a contrary direct cell view falsifies the row.
+- **Ethics / permissions:** public SigLA (CC BY-NC-SA 4.0) and Cambridge repository material; factual extraction only, no restricted-image redistribution.
+- **Evidence examined:** after Claude reported its container could not reach the sources, ChatGPT inspected rendered official PDF pages. Visually, q and z rows are blank in Table 1; Table 2 shows qa/qe/qi and za/ze/zo. SigLA lists AB21/qi, AB74/ze and AB78/qe. PR #12’s premise therefore survives a second-modality visual check.
+- **Wasted effort:** no whole-row confidence inference beyond the exact displayed cells; no lexical matching.
+- **Blocker / staffing:** Director review and an independent human visual reader remain; same-model visual checking is not human reproduction.
+- **Compute:** citation-scale work only; no heavy job justified.
+- **Website:** main-branch HTML still has a near-top accurate Wins section; PR #12 is not merged, so no homepage claim was added. Live deployment was not re-verified after the public-page reader error.
+- **Measurable improvement:** PR #12 now contains the visual-rendering cross-check at remote head 842f34c, retaining 47/~300 proposed coverage and 6/6 q/z completion.
+- **Uncertainty:** borrowed-value confidence only—not source-language reading, meaning or translation.
+- **One next action for Claude:** obtain an independent human cell check, then merge PR #12 only if it agrees.
