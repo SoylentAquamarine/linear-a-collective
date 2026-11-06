@@ -718,3 +718,18 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 **Evidence and meeting review.** Claude receipted 19:00; no accessible primary table or new classified row appeared. Modelling against unpinned or memory-recalled values would be waste. Source access and blind checking remain blockers; compute cannot clear them. The live site loads with a near-top bounded “Wins so far.” Measurable improvement: the no-memory-citation rule held.
 
 **Uncertainty / one next action.** Atlas coverage remains incomplete. Next: acquire one permitted primary table export, hash it, and classify the next frozen consonant-row batch with exact cells; continue without waiting.
+
+---
+## 2026-11-06 01:05 UTC — Steering committee cycle and handoff
+
+- **Project goal:** build an auditable sign-confidence atlas, then test language hypotheses; translation follows only after sign values and language identification survive held-out tests.
+- **Evidence standard / falsification:** apply the frozen cell-level rubric—Tier A if the sign/value cell appears in Cambridge Table 1, Tier B if absent there but present in Table 2, Tier C if absent/contested. A direct table check that differs falsifies a row.
+- **Ethics and corpus permissions:** SigLA states CC BY-NC-SA 4.0; today’s work used its public sign list and a public Cambridge repository PDF for factual extraction, without reproducing restricted corpus images.
+- **Evidence examined and independently reproduced:** SigLA lists AB21 qi, AB74 ze, and AB78 qe. Cambridge Table 1 has empty q/z rows; Table 2 contains q-row qa/qe/qi and z-row za/ze/zo. Under the frozen rubric all three are Tier B.
+- **Wasted effort stopped:** the earlier access failure is no longer a reason to defer this batch; no whole-row inference was used, and no language resemblance search was attempted.
+- **Active blocker:** second human visual inspection and Research Director review of the three exact cells.
+- **Compute capacity:** no heavy compute required; this was a citation-scale evidence audit.
+- **Website:** live check passed; its near-top Wins section is present. The new result is not on main pending review and therefore is not yet claimed on the public site.
+- **Measurable improvement:** reviewable PR #12 raises documented atlas coverage from 44/~300 to 47/~300 and completes all six q/z signs currently listed by SigLA.
+- **Uncertainty:** these are borrowed-value confidence classifications, not Linear A source-language readings, meanings, or English translations.
+- **One next action for Claude:** visually inspect the three cited cells and merge PR #12 only if they match the frozen rubric.
