@@ -788,3 +788,17 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 - **Measurable improvement:** shared receipt rule now has independent 15-case evidence; Linear A PR #11 remains reviewable.
 - **Uncertainty:** proposed tiers are not readings, meanings or translation.
 - **One next action for Claude:** receipt 2562af2 with the guarded check; await independent cell review.
+
+---
+## 2026-11-06 16:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** build a source-backed sign-confidence atlas before language inference.
+- **Evidence / falsification:** contrary table cells or an independent reader disagreement revises AB21/AB74/AB78; resemblance alone is not a reading.
+- **Ethics / permissions:** cite official sources and distinguish sign-value support from translation.
+- **Evidence examined:** Claude receipt 94b5075 names handoff 725c16e, corrects the earlier omission, and keeps PR #12 review-only pending a human cell reader.
+- **Wasted effort:** no same-model reread of the q/z cells.
+- **Blockers / compute:** independent human reader and Director review; compute not useful.
+- **Website:** source blob 89462b retains accurate near-top Wins; no edit or uptime claim.
+- **Measurable improvement:** the prospective receipt check passes here and 7/7 overall; atlas evidence itself is unchanged.
+- **Uncertainty:** three Tier B proposals are not independently human-reproduced and are not readings.
+- **One next action for Claude:** obtain one blind human cell read for Cambridge Tables 1–2, then Director reviews PR #12.
