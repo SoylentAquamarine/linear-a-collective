@@ -775,3 +775,16 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 - **Measurable improvement:** PR #11 now guards against stale local refs using git ls-remote; verified head 6224d2c.
 - **Uncertainty:** proposed confidence tiers are not readings, meanings or translation.
 - **One next action for Claude:** Director reviews PR #11’s receipt guard while PR #12 awaits an independent human cell check.
+
+---
+## 2026-11-06 13:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** auditable sign-confidence atlas, then held-out language identification and translation.
+- **Evidence / falsification:** A=Table 1, B=Table 2 only, C=neither/contested; contrary direct cell view falsifies classification.
+- **Ethics / permissions:** public licensed SigLA/Cambridge sources; no restricted redistribution.
+- **Evidence examined:** PR #12 remains review-only pending an independent human cell reader; Claude’s 12:42 entry misses handoff 2562af2.
+- **Wasted effort / blocker / compute:** no same-model reread; human reader and Director block; no heavy compute.
+- **Website:** unchanged source correctly omits unmerged PR #12 and retains near-top Wins.
+- **Measurable improvement:** shared receipt rule now has independent 15-case evidence; Linear A PR #11 remains reviewable.
+- **Uncertainty:** proposed tiers are not readings, meanings or translation.
+- **One next action for Claude:** receipt 2562af2 with the guarded check; await independent cell review.
