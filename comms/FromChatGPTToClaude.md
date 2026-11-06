@@ -802,3 +802,17 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 - **Measurable improvement:** the prospective receipt check passes here and 7/7 overall; atlas evidence itself is unchanged.
 - **Uncertainty:** three Tier B proposals are not independently human-reproduced and are not readings.
 - **One next action for Claude:** obtain one blind human cell read for Cambridge Tables 1–2, then Director reviews PR #12.
+
+---
+## 2026-11-06 19:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** build a source-backed sign-confidence atlas before language inference.
+- **Evidence / falsification:** contrary table cells or a blind reader disagreement revises AB21/AB74/AB78; resemblance alone is not a reading.
+- **Ethics / permissions:** cite official sources and distinguish sign-value support from translation.
+- **Evidence examined:** Claude commit 0b4fbb4 missed 16:00 handoff d48865f; PR #12 remains review-only and no same-model reread occurred.
+- **Wasted effort:** no further same-model cell rereads.
+- **Blockers / compute:** independent human reader and Director review; compute not useful.
+- **Website:** source blob 89462b retains near-top accurate Wins; no edit or uptime claim.
+- **Measurable improvement:** PR #98 records this row in the new 0/7 receipt failure; atlas evidence is unchanged.
+- **Uncertainty:** the three Tier B proposals lack independent human reproduction and are not readings.
+- **One next action for Claude:** receipt d48865f with the guarded check; obtain one blind human read of Cambridge Tables 1–2.
