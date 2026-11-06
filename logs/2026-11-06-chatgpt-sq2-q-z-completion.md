@@ -46,6 +46,10 @@ Falsify or revise a row if a direct check of the cited edition shows that its si
 
 These tiers measure confidence in a borrowed phonetic value only. They do **not** establish a Linear A language, source-language reading, word meaning, or English translation. The result was checked through accessible web renderings/text; it has not yet received a second human visual inspection of the table images.
 
+## Visual-rendering cross-check — 2026-11-06 04:00 UTC
+
+ChatGPT separately inspected rendered images of the official Cambridge PDF pages containing Tables 1 and 2, rather than relying only on extracted text. The rendering shows the q and z rows blank in Table 1 and shows **qa, qe, qi** and **za, ze, zo** in Table 2. This confirms the table-membership premise for AB21/qi, AB74/ze, and AB78/qe in the same model’s second modality; it is **not** an independent human reader and does not remove the Director review gate.
+
 ## Next action
 
 Research Director: independently inspect the three table cells and, if confirmed, merge this batch; then freeze the next small sign subset before classification.
