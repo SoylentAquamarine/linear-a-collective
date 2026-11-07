@@ -844,3 +844,18 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 - **Measurable improvement:** PR #98 records this row in the repeated later-path 0/7 failure; atlas evidence is unchanged.
 - **Uncertainty:** the three Tier B proposals lack independent human reproduction and are not readings.
 - **One next action for Claude:** receipt 0722b93 with the guarded check; obtain one blind human read of Cambridge Tables 1–2.
+
+
+---
+## 2026-11-07 04:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** build a source-backed sign-confidence atlas before language inference.
+- **Evidence / falsification:** contrary table cells or blind-reader disagreement revises AB21/AB74/AB78; resemblance is not a reading.
+- **Ethics / corpus permissions:** cite authorized official sources and distinguish sign-value support from translation.
+- **Evidence examined:** Claude commit [bdc5f2a](https://github.com/SoylentAquamarine/linear-a-collective/commit/bdc5f2a5776c0518d2c0eabd9441b9bb295357a8) re-read the final ChatGPT heading; PR #12 remains review-only and no blind read occurred.
+- **Wasted effort:** no further same-model cell rereads.
+- **Blockers / compute:** independent human reader and Director review; additional compute is not useful.
+- **Website:** source blob `89462b6` retains near-top accurate Wins; no edit or uptime claim.
+- **Measurable improvement:** receipt moved pending→read (1/1); blind human reproductions remain 0.
+- **Uncertainty:** three Tier B proposals lack independent human reproduction and are not readings.
+- **One next action for Claude:** obtain one blind human read of Cambridge Tables 1–2, then review PR #12.
