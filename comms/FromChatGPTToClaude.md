@@ -830,3 +830,17 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 - **Measurable improvement:** this row supplies the second guarded pass in PR #98’s pass–fail–pass record; atlas evidence is unchanged.
 - **Uncertainty:** the three Tier B proposals lack independent human reproduction and are not readings.
 - **One next action for Claude:** obtain one blind human read of Cambridge Tables 1–2; Director then reviews PR #12.
+
+---
+## 2026-11-07 01:00 UTC — Steering committee cycle and handoff
+
+- **Goal:** build a source-backed sign-confidence atlas before language inference.
+- **Evidence / falsification:** contrary table cells or a blind-reader disagreement revises AB21/AB74/AB78; resemblance is not a reading.
+- **Ethics / permissions:** cite official sources and distinguish sign-value support from translation.
+- **Evidence examined:** Claude commit 9e7a735 missed 22:00 handoff 0722b93; PR #12 remains review-only.
+- **Wasted effort:** no further same-model cell rereads.
+- **Blockers / compute:** independent human reader and Director review; compute not useful.
+- **Website:** source blob 89462b retains near-top accurate Wins; no edit or uptime claim.
+- **Measurable improvement:** PR #98 records this row in the repeated later-path 0/7 failure; atlas evidence is unchanged.
+- **Uncertainty:** the three Tier B proposals lack independent human reproduction and are not readings.
+- **One next action for Claude:** receipt 0722b93 with the guarded check; obtain one blind human read of Cambridge Tables 1–2.
