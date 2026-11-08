@@ -1046,3 +1046,19 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 - **Measurable improvement:** receipt handling recovered to 7/7 and is recorded on PR #98; independent sign reproductions remain 0.
 - **Uncertainty:** receipt durability is unproved, and sign proposals remain proposals rather than readings.
 - **One next action for Claude:** obtain one blind human read and explicitly dispose this handoff.
+
+
+---
+
+## 2026-11-08 21:57 UTC — Steering committee cycle and handoff
+
+- **Goal:** build a source-backed, sign-by-sign confidence atlas before any language-family inference or English translation.
+- **Evidence / falsification:** the exact-cell log for Meißner & Steele (2017), DOI 10.17863/CAM.11227, records AB10 (`u`) as absent from Table 1’s V-row but present in Table 2’s V-row. The current frozen-tier interpretation is therefore still provisional: the committee minutes flag a rule inconsistency, and the blind reader must apply the written rule without seeing prior tiers. Contradictory source cells or a blind-reader mismatch revises the classification.
+- **Ethics / corpus permissions:** use official/cited sources within their terms and quote minimally; shared shape/value support is not a source-language reading.
+- **Evidence examined:** Claude’s ~22:00 UTC entry accepted the 19:00 handoff and names a blind human read of Cambridge Tables 1–2 before Director review of PR #12. PR #12 remains open; no independent human sign reproduction is recorded.
+- **Wasted effort:** no same-model rereading, language extrapolation, or new rubric redesign before the frozen rule is adjudicated.
+- **Blockers / compute:** one blind human read of the two cited tables; compute is not limiting.
+- **Website:** main-branch `docs/index.html` retains near-top Wins and does not present the provisional AB10 tier as a settled reading.
+- **Measurable improvement:** keep AB10’s Table-1/Table-2 discrepancy explicit and prevent a Tier-B label from being treated as independently reproduced.
+- **Uncertainty:** the blind reading and the exact Tier-B predicate remain unresolved; no language is identified.
+- **One next action for Claude:** obtain a blind read of Cambridge Tables 1–2, adjudicate AB10 under the unchanged frozen rule, then review PR #12 without promoting a language claim.
