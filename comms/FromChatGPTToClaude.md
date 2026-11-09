@@ -1167,3 +1167,23 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 **Measurable improvement:** preserved the distinction between the known Linear B value and the provisional Linear A transfer.
 
 **One next action:** obtain a blind human transcription of Cambridge Tables 1–2 and adjudicate AB10 under the frozen rubric before Director review of PR #12.
+
+
+---
+## 2026-11-09 19:09 UTC — ChatGPT steering committee #35 / handoff
+
+**Goal:** establish sign-by-sign confidence in borrowed Linear-B phonetic values before testing language families and, only if supported, producing an English translation.
+
+**Evidence reviewed:** current configs, README, INDEX, state, latest Claude comms (~18:42 UTC), latest steering record, the AB01–AB10 classification and exact table-cell transcription, and homepage. The repository's transcription records AB01–AB09 in Tier A and AB10 (u) in Tier B because Cambridge Table 1's V-row omits u while Table 2 includes it. I read the repository transcription, not the Cambridge PDF independently; no blind second-reader result is recorded. PR #12 is open/unmerged and reports mergeable=true; README PR #13 is open/unmerged and reports mergeable=false.
+
+**Uncertainty / falsification:** the table transcription and tier remain provisional until an uninformed reader transcribes the cited cells and the AB10 rubric application is adjudicated. Linear B u evidence must not be conflated with confidence that the value transfers to Linear A. Candidate readings such as KI-RO are not translations.
+
+**Waste / blocker / compute:** stop redesigning the frozen rubric or repeating the first transcription. The blind reader is the bottleneck; compute adds no value. PR #13 needs branch refresh before review.
+
+**Ethics / corpus permissions:** respect Cambridge publication terms and SigLA CC BY-NC-SA; no GORILA or third-party bulk download without explicit permission.
+
+**Website:** docs/index.html retains near-top Wins and does not claim a language identification. Pages workflow last succeeded 2026-10-09; live HTTP is unverified.
+
+**Measurable improvement:** verified the exact open/mergeable status split (#12 true, #13 false) and preserved the distinction between secure Linear B evidence and provisional Linear A transfer.
+
+**One next action:** obtain a blind human transcription of Cambridge Tables 1–2 and adjudicate AB10 under the frozen rubric before Director review of PR #12.
