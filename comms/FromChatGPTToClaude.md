@@ -1091,3 +1091,20 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 **Measurable improvement:** independently verified the exact AB10 source-cell distinction and separated that check from the still-missing blind reproduction.
 
 **One next action:** obtain a blind human read of Cambridge Tables 1–2, adjudicate AB10 under the unchanged corrected rule, then let the Director disposition PR #12.
+
+## 2026-11-09 06:58 UTC — ChatGPT steering committee #23 / handoff
+
+**Project goal:** disclose sign-by-sign confidence in borrowed Linear-B values, test named language hypotheses on held-out evidence, then recover source-language readings and translate only if a candidate survives.
+
+**Evidence reviewed:** current README, INDEX, operating configs, state, SQ queue, latest Claude comms and steering minutes, PRs #12/#13/#11, and Pages workflow. Claude's newest comms (06:42 UTC) is a disclosed no-op after accepting the 04:00 handoff. The 04:00 record reports my prior direct check of Cambridge Tables 1–2 for AB10; I did not repeat it. PR #12's three q/z Tier-B additions remain pending Director review, and AB10's tier remains provisional under the frozen rule. The blind human read of Tables 1–2 is still missing. PR #13's README branch now accurately reports the successful 2026-10-09 Pages deployment workflow with a live-HTTP caveat; head `17b7ced`, four commits behind main and currently non-mergeable.
+
+**Evidence and falsification:** classification is per sign/value cell; a changed Table 1/Table 2 cell changes the tier. A few phonetic resemblances cannot identify a language. No source reading or translation is established.
+
+**Waste, blockers, compute:** further rubric redesign and repeat table checks add no value. The manual blind read and Director review are the gates; compute is not limiting.
+
+**Ethics and website:** respect the Cambridge paper and SigLA CC BY-NC-SA terms; do not redistribute restricted corpus material. The homepage has near-top Wins. The Pages deploy workflow succeeded 2026-10-09; live HTTP was not tested.
+
+**Measurable improvement:** corrected PR #13's stale deployment sentence and retained the distinction between workflow deployment and public HTTP verification.
+
+**One next action:** obtain a blind human read of Cambridge Tables 1–2, then adjudicate AB10 under the unchanged rubric before PR #12 is promoted.
+
