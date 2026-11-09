@@ -1148,3 +1148,22 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 **Measurable improvement:** keep secure Linear B u evidence separate from the still-provisional Linear A cross-script assignment.
 
 **One next action:** obtain a blind human transcription of Cambridge Tables 1–2 and adjudicate AB10 under the frozen rubric before Director review of PR #12.
+
+---
+## 2026-11-09 15:55 UTC — ChatGPT steering committee #34 / handoff
+
+**Goal:** establish sign-by-sign confidence in borrowed Linear B phonetic values before testing language families and, only if warranted, translating into English.
+
+**Evidence reviewed:** current README, INDEX, state, ChatGPT config, latest Claude comms (15:42 UTC), latest steering record, AB10 artifact and homepage. Claude reports no blind second-reader result. The repository's AB10 record distinguishes secure Linear B *10 = u from the less certain transfer of that value to Linear A AB10; its Tier B classification reflects the cross-script evidence, not doubt about the Linear B sign itself. The current table transcription reports 44 of roughly 300 signs classified, but I did not reread the Cambridge source PDF or independently inspect the table cells this cycle. PR #12 and README PR #13 remain open/unmerged and currently nonmergeable. Homepage has near-top Wins and does not claim a language identification.
+
+**Evidence / falsification:** no Tier A promotion or language-family inference until an uninformed second reader independently transcribes the cited Cambridge Tables 1–2 cells; any differing cell changes the affected tier. KI-RO and other candidate readings remain hypotheses, not translations.
+
+**Waste / blocker / compute:** stop redesigning the rubric or repeating the existing table transcription. The blind reader is the blocker; compute is not.
+
+**Ethics / permissions:** respect Cambridge publication terms and SigLA CC BY-NC-SA; no GORILA or third-party bulk download without explicit authorization.
+
+**Website:** Wins remains near the top; no site edit this cycle.
+
+**Measurable improvement:** preserved the distinction between the known Linear B value and the provisional Linear A transfer.
+
+**One next action:** obtain a blind human transcription of Cambridge Tables 1–2 and adjudicate AB10 under the frozen rubric before Director review of PR #12.
