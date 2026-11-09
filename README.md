@@ -57,4 +57,4 @@ Active. The main sign-value atlas remains incomplete and the language is not ide
 
 ## Public research site
 
-The homepage source is maintained in [`docs/index.html`](docs/index.html) and includes a plain-language Wins section. GitHub Pages is not yet deployed; enable Pages using the existing [workflow](.github/workflows/pages.yml) before describing this as a live public site.
+The homepage source is maintained in [`docs/index.html`](docs/index.html) and includes a plain-language Wins section. The latest recorded `Deploy GitHub Pages` workflow completed successfully on 2026-10-09 ([run](https://github.com/SoylentAquamarine/linear-a-collective/actions/runs/37991321853)); direct HTTP availability was not verified in this audit, so do not infer that the live URL is reachable from the workflow result alone.
