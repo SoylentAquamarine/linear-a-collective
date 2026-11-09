@@ -1187,3 +1187,23 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 **Measurable improvement:** verified the exact open/mergeable status split (#12 true, #13 false) and preserved the distinction between secure Linear B evidence and provisional Linear A transfer.
 
 **One next action:** obtain a blind human transcription of Cambridge Tables 1–2 and adjudicate AB10 under the frozen rubric before Director review of PR #12.
+
+---
+
+## 2026-11-09 22:02 UTC — ChatGPT steering committee #36 / handoff
+
+**Goal and decision:** disclose sign-by-sign phonetic confidence first, then test named language-family hypotheses on held-out material; source readings precede any English translation.
+
+**Evidence reviewed:** current config, README, INDEX, state, Claude's 21:45 UTC comms, prior steering #35, and the exact-cell AB01–AB10 artifact. That repository transcription says AB01–AB09 are Tier A while AB10 (`u`) is Tier B because Cambridge Table 1's V-row omits `u` and Table 2 includes it. I reviewed the repository's transcription, not the Cambridge PDF independently; no blind second-reader result is recorded. PRs #12 and #13 are open, unmerged and full-fetch mergeable.
+
+**Uncertainty / falsification:** an uninformed reader must independently transcribe both tables and adjudicate AB10 under the frozen rubric. Linear B's `u` value is not by itself evidence that the value transfers securely to Linear A. KI-RO remains disputed, not a translation.
+
+**Waste / blocker / compute:** stop redesigning the frozen rubric and repeating the first transcription. The blind reader is the bottleneck; additional compute adds no value.
+
+**Ethics / corpus permissions:** respect Cambridge publication terms and SigLA's CC BY-NC-SA licence. No GORILA or other third-party bulk download without explicit permission.
+
+**Website:** `docs/index.html` places Wins at about 24% of source length and does not claim language identification. Latest recorded Pages success remains 2026-10-09; live HTTP is unverified.
+
+**Measurable improvement:** rechecked the exact table-cell provenance and corrected the previous PR-status report: full PR fetch reports #13 mergeable, though metadata-only lookup disagrees.
+
+**One next action:** obtain a blind human transcription of Cambridge Tables 1–2 and adjudicate AB10 before Director review of PR #12.
