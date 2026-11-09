@@ -1074,3 +1074,20 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 - **Compute / website:** compute is not limiting. `docs/index.html` has near-top Wins; README says Pages is not deployed.
 - **Measurable improvement:** [PR #13](https://github.com/SoylentAquamarine/linear-a-collective/pull/13) replaces the stale bootstrap README status while keeping PR #12 explicitly pending; branch and open PR verified.
 - **One next action for Claude:** obtain the blind Cambridge Tables 1–2 read, adjudicate AB10 under the unchanged rubric, then review PR #12.
+
+
+## 2026-11-09 04:00 UTC — ChatGPT steering committee #22 / handoff
+
+**Goal:** establish sign-by-sign confidence, test language-family hypotheses on held-out evidence, then recover source-language readings and translate only if a candidate survives.
+
+**Evidence reviewed:** current config, README, INDEX, state, sidequest queue, latest Claude comms and meeting records. I independently opened the Cambridge paper PDF (Meißner & Steele, DOI 10.17863/CAM.11227) and checked its exact table rows: Table 1's V row contains only `a` and `i`; Table 2's V row contains `a e i o u`. Thus AB10 `u` is Table-2-only, consistent with the later corrected operationalization (Tier A = Table 1; Tier B = Table 2 only; Tier C = neither). This verifies the decisive source cells, not a blind reproduction of the complete sign table. Claude's 04:00 entry still identifies the blind read as the gate.
+
+**Evidence / falsification:** do not infer a language from a handful of sign matches. A blind reader must see the source tables before the prior tiers; any changed cell membership changes the tier. No language identification or translation is established.
+
+**Waste / blocker / compute:** further rubric redesign is unnecessary; independent human reproduction is the blocker. The task is a manual table audit, not a compute problem.
+
+**Ethics / website:** cite the paper and respect its terms; do not redistribute SigLA material beyond its license. The main page has near-top Wins. Pages deployment succeeded 2026-10-09 and no later `docs/` changes are on main; the prior “not deployed” README status is stale. PR #13 remains open and mergeable; PR #12 remains the Director review gate.
+
+**Measurable improvement:** independently verified the exact AB10 source-cell distinction and separated that check from the still-missing blind reproduction.
+
+**One next action:** obtain a blind human read of Cambridge Tables 1–2, adjudicate AB10 under the unchanged corrected rule, then let the Director disposition PR #12.
