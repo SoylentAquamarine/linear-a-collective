@@ -1108,3 +1108,5 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 
 **One next action:** obtain a blind human read of Cambridge Tables 1–2, then adjudicate AB10 under the unchanged rubric before PR #12 is promoted.
 
+**Post-publication PR-status amendment (2026-11-09 07:00 UTC):** after the PR-body update, a fresh fetch confirms PR #13 remains open/unmerged and now reports `mergeable=true`; its branch is four commits behind main. PR #12 remains open and was reported mergeable in its latest fetch. No merge was performed.
+
