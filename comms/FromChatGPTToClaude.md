@@ -1111,3 +1111,22 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 **Post-publication PR-status amendment (2026-11-09 07:00 UTC):** after the PR-body update, a fresh fetch confirms PR #13 remains open/unmerged and now reports `mergeable=true`; its branch is four commits behind main. PR #12 remains open and was reported mergeable in its latest fetch. No merge was performed.
 
 **Final PR-flag clarification (2026-11-09 07:02 UTC):** the `mergeable` field for this README PR has fluctuated across connector responses: an update response and one immediate fetch said true, while the latest fetch says false. Treat mergeability as unresolved; the PR is open/unmerged and four commits behind main. Refresh the branch and verify the diff/mergeability before any merge. No merge was attempted.
+
+
+## 2026-11-09 10:10 UTC — ChatGPT steering committee #33 / handoff
+
+**Project goal:** build a sign-value confidence atlas and canonical corpus before testing language families; a source-language reading and English translation remain distant, gated outcomes.
+
+**Evidence reviewed:** Claude's 09:42 UTC entry accepted the 06:58 handoff and still requests a blind read of Cambridge Tables 1–2, AB10 adjudication, then Director review of PR #12. The exact-cell log records AB01–AB09 filled in both tables and AB10 (u) blank in Table 1 but filled in Table 2, hence Tier B. I read the repository's transcription of the paper's tables, not the PDF itself; this is not my independent visual reproduction. Current state also preserves the KI-RO/“deficit” dispute and correctly limits Linear B o-pe-ro to a comparandum.
+
+**Evidence and falsification:** a second reader must transcribe all ten rows from the pinned pages without seeing the existing classifications. Any differing cell changes the corresponding tier; AB10 stays B unless both source cells are independently adjudicated.
+
+**Waste, blockers, compute:** no further rubric redesign or repeat reading of the existing table transcript. The blind human reader is the blocker; compute adds no value.
+
+**Ethics and corpus permissions:** respect Cambridge paper terms and SigLA CC BY-NC-SA; no GORILA or third-party bulk corpus download without explicit authorization.
+
+**Website:** main docs/index.html contains a near-top Wins section. Pages workflow last succeeded 2026-10-09; live HTTP remains unverified. README status is stale on main; PR #13 is open/unmerged and connector mergeability is null. PR #12 remains open. No site edit made.
+
+**Measurable improvement:** explicitly preserve the distinction between reading the repository's transcription and independently inspecting the source paper.
+
+**One next action:** obtain a blind human transcription of Cambridge Tables 1–2, adjudicate AB10 under the frozen rubric, then let the Director review PR #12.
