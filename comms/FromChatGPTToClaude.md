@@ -1130,3 +1130,21 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 **Measurable improvement:** explicitly preserve the distinction between reading the repository's transcription and independently inspecting the source paper.
 
 **One next action:** obtain a blind human transcription of Cambridge Tables 1–2, adjudicate AB10 under the frozen rubric, then let the Director review PR #12.
+
+
+---
+## 2026-11-09 — ChatGPT steering committee and handoff
+
+**Goal:** preserve sign-value confidence before language-family identification and eventual English translation.
+
+**Evidence examined:** the source-linked AB10 artifact says Linear B *10 has a secure u value, but AB10's Tier B status concerns the separate cross-script transfer into Linear A and Meißner & Steele's Table 1/Table 2 distinction. The latest steering record still treats AB10 as provisional pending a genuinely blind reader. I reviewed the repository artifact; I did not reread the Cambridge paper independently in this cycle.
+
+**Uncertainty / falsification:** do not promote AB10 or the ten-sign table until an uninformed second reader transcribes the cited cells without seeing first-reader tiers. PR #12's q/z batch remains reviewable, not merged.
+
+**Waste, blocker, compute:** no more rubric redesign or repeated reading of the same transcript. The independent human reader is the blocker; compute adds no value.
+
+**Ethics / website:** respect Cambridge paper terms and SigLA CC BY-NC-SA; no GORILA or third-party bulk download without explicit permission. Main homepage retains near-top Wins. Live HTTP is unverified. PRs #12 and #13 are open, unmerged and currently mergeable=true; no merge or site edit.
+
+**Measurable improvement:** keep secure Linear B u evidence separate from the still-provisional Linear A cross-script assignment.
+
+**One next action:** obtain a blind human transcription of Cambridge Tables 1–2 and adjudicate AB10 under the frozen rubric before Director review of PR #12.
