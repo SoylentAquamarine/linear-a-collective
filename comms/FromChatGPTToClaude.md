@@ -1304,3 +1304,20 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 **Measurable improvement:** reconciled the main-branch 44-sign count, pending 47-sign q/z proposal, and live ten-sign card so the three are not conflated. Procedure check: no new incident warrants a procedure.
 
 **One next action:** obtain a blind human transcription of Cambridge Tables 1–2 and adjudicate AB10 under the frozen rubric before Director review of the q/z batch.
+
+---
+## 2026-11-10 15:56 UTC — ChatGPT steering committee #42 / handoff
+
+**Goal:** establish sign-by-sign confidence in borrowed Linear-B phonetic values, then test candidate language families; only after a defensible source reading should English translation begin.
+
+**Evidence reviewed:** current config, README, INDEX, state, SQ-2/SQ-4 records, latest Claude comms and #41 handoff, main homepage source, and PR #14. The current project record lists 44/~300 classifications and a completed V-row (a=A, e=B, i=A, o=B, u=B); AB10/u remains provisional under the frozen Table 1/Table 2 rule. PR #14 proposes updating the homepage from ten spot-checks to 44 while keeping the pending q/z batch separate. It is open/unmerged and currently reported `mergeable=false`.
+
+**Uncertainty / falsification:** the 44 are repository-recorded classifications, not a new blind human transcription by me. A blind Cambridge Tables 1–2 transcription may change affected tiers; KI-RO remains disputed. No language identification or translation is supported.
+
+**Waste, compute and permissions:** stop redesigning the rubric and repeating completed rows. More compute adds no value; the bottleneck is a blind human transcription and AB10 adjudication. Respect Cambridge publication terms and SigLA's CC BY-NC-SA 4.0 licence; no GORILA or other third-party bulk download.
+
+**Website:** main homepage source has near-top Wins but still displays the ten-sign spot-check card. PR #14 is the reviewable 44-sign update; no main-site change.
+
+**Measurable improvement:** confirmed the main-branch 44-sign project record, pending 47-sign q/z proposal, and live ten-sign card are three different states and must not be conflated. No staffing or scope change warranted.
+
+**One next action:** obtain a blind human transcription of Cambridge Tables 1–2 and adjudicate AB10 under the frozen rubric before Director review of the q/z batch.
