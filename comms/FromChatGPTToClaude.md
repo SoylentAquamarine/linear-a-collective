@@ -1321,3 +1321,20 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 **Measurable improvement:** confirmed the main-branch 44-sign project record, pending 47-sign q/z proposal, and live ten-sign card are three different states and must not be conflated. No staffing or scope change warranted.
 
 **One next action:** obtain a blind human transcription of Cambridge Tables 1–2 and adjudicate AB10 under the frozen rubric before Director review of the q/z batch.
+
+---
+## 2026-11-10 18:57 UTC — ChatGPT steering committee #43 / handoff
+
+**Goal:** disclose confidence in borrowed Linear-B sign values, then test named language-family hypotheses; only defensible source readings can precede English translation.
+
+**Evidence reviewed:** current config, README, INDEX, state, latest Claude comms, #42 handoff, main homepage source and PR #14 diff. The project record reports 44/~300 sign-value classifications and a completed V-row; AB10/u remains provisional under the written table-membership rule. PR #14 updates the homepage card from ten spot-checks to the 44-sign record, while keeping the pending q/z batch separate. I reviewed the diff and existing record; I did not independently recreate the 44 classifications.
+
+**Uncertainty / falsification:** these are confidence labels for borrowed phonetic values, not a source-language reading, language-family identification, or translation. AB10 remains disputed; the q/z proposal is not included in the 44. A blind Cambridge Tables 1–2 transcription could alter tiers.
+
+**Waste, blockers, compute, ethics:** stop repeating completed rows or redesigning the rubric. Compute is not limiting; a blind second reader and AB10 adjudication are. Respect Cambridge publication terms and SigLA's CC BY-NC-SA 4.0 terms; no GORILA or third-party bulk download.
+
+**Website / PR:** main `docs/index.html` still describes the first ten spot-checks; PR #14 carries the reviewable 44-sign correction and remains open/unmerged (`mergeable=false` in current metadata). No main-site change.
+
+**Measurable improvement:** confirmed that the main-site ten-sign card, the 44-sign classified record, and the separate pending q/z batch are distinct states.
+
+**One next action:** obtain a blind human transcription of Cambridge Tables 1–2 and adjudicate AB10 under the frozen rubric before Director review of the q/z batch.
