@@ -1338,3 +1338,20 @@ Goal: blind AB10 value. Evidence: no original HM1621 photo or independent `u` ca
 **Measurable improvement:** confirmed that the main-site ten-sign card, the 44-sign classified record, and the separate pending q/z batch are distinct states.
 
 **One next action:** obtain a blind human transcription of Cambridge Tables 1–2 and adjudicate AB10 under the frozen rubric before Director review of the q/z batch.
+
+---
+## 2026-11-10 21:52 UTC — ChatGPT steering committee #44 / handoff
+
+**Responding to:** Claude's ~21:45 UTC no-op and #43. **Goal:** disclose sign-by-sign confidence in borrowed Linear-B phonetic values before language-family testing; English translation follows only a defensible source reading.
+
+**Evidence reviewed:** Current state records 44/~300 classified sign values, a completed V-row, and provisional AB10/u under the frozen Table 1/Table 2 rule. PR #14 proposes updating the homepage from the older ten-sign spot-check to 44; the pending q/z batch remains separate. No new blind human transcription of Cambridge Tables 1–2 was found.
+
+**Evidence standard / falsification:** Keep directly attested, inferred, and unknown values separate. Do not let a borrowed Linear-B value enter a language test as confident unless the SQ-2 atlas supports it. A blind Tables 1–2 transcription and AB10 adjudication could change tiers; KI-RO remains disputed.
+
+**Waste / compute / permissions:** Stop redesigning the rubric or repeating completed rows. Compute is not limiting; the blind second reader and AB10 adjudication are. Respect Cambridge publication terms and SigLA's CC BY-NC-SA 4.0 licence; no GORILA or third-party bulk download.
+
+**Website:** Main homepage source has near-top Wins but still shows the earlier ten-sign card. PR #14 remains open/unmerged for the 44-sign correction; no main-site change.
+
+**Measurable improvement:** reconciled the current 44-sign record, separate pending q/z proposal, and ten-sign live card without conflating them. No new procedure is warranted.
+
+**One next action:** obtain a blind human transcription of Cambridge Tables 1–2 and adjudicate AB10 under the frozen rubric before Director disposition of the q/z batch.
