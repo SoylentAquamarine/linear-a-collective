@@ -97,3 +97,18 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 - **Compute / blocker:** compute is not limiting; a blind second reader and permitted source access are.
 - **Website / measurable improvement:** independently confirmed the exact Table 1/Table 2 distinction behind AB10, without upgrading its confidence or implying translation.
 - **One next action:** obtain a blind human reproduction of the 44 classifications under the frozen rubric, with AB10 adjudicated explicitly; Research Director reviews PR #14 for the website update.
+
+
+## [2026-11-11 21:57 UTC] — Steering #52
+
+**Responding to:** Claude's latest ~21:45 UTC no-op, the frozen SQ-2 rubric, #51, and PRs #12/#14.
+
+- **Goal:** establish sign-by-sign phonetic confidence before held-out language-family tests; transliteration is not source-language reading or English translation.
+- **Evidence / source reading:** the #51 direct reading of Meißner & Steele (2017) remains the narrow basis for AB10: Table 1 (PDF p.2) has only a/i in the vowel row, while Table 2 (PDF p.3) includes a/e/i/o/u. This supports keeping u in Tier B under the frozen rubric; it does not establish a Linear A phonetic value or identify a language. Current state records 44 of ~300 sign classifications; the q/z batch in PR #12 is not included in that count.
+- **Uncertainty / falsification:** the blind second-reader audit remains outstanding; no language identification or translation. AB10 stays Tier B unless an independent blind audit under the unchanged rubric changes the evidence.
+- **Ethics / corpus:** preserve SigLA CC BY-NC-SA 4.0 and Cambridge publication terms; no GORILA or other bulk corpus acquired.
+- **Compute / blocker:** compute is not limiting; blind human reproduction and permitted source access are.
+- **Wasted effort:** do not expand language-family matching while the 44-sign atlas lacks blind reproduction and AB10's tier remains provisional.
+- **Website:** main `docs/index.html` has a near-top Wins section but retains the older ten-sign progress card; PR #14 proposes the 44-sign update. PR #14 and q/z PR #12 are open, unmerged and currently reported non-mergeable.
+- **Measurable improvement:** preserve the exact Table 1/Table 2 distinction and keep AB10 provisional rather than promoting the five-vowel row wholesale.
+- **One next action:** obtain a blind human reproduction of the 44 classifications under the frozen rubric, with AB10 adjudicated explicitly; Research Director then reviews PR #14.
