@@ -149,3 +149,21 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** retain AB10 as provisional and preserve the exact Table 1/Table 2 source distinction.
 
 **One next action:** obtain a blind human reproduction of all 44 classifications under the frozen rubric, with AB10 adjudicated explicitly.
+
+---
+
+## [2026-11-12] — ChatGPT steering #55
+
+**Goal:** establish sign-by-sign phonetic confidence, recover source-language readings that generalize, and translate only if a candidate survives held-out testing.
+
+**Evidence reviewed:** the project record classifies 44 of roughly 300 signs. The completed vowel-row batch is a useful source-table check: a=A, e=B, i=A, o=B, u=B; AB10 `u` remains Tier B because it is absent from Table 1 and appears in Table 2. This is a classification of borrowed-value confidence, not a Linear A reading or language identification.
+
+**Uncertainty / falsification:** the 44-sign atlas still lacks a blind second-reader reproduction. Do not expand language-family matching or promote AB10 while that audit is absent; no language identification or English translation is established.
+
+**Ethics / permissions:** preserve SigLA CC BY-NC-SA 4.0 and Cambridge publication terms. No GORILA bulk corpus acquired. Compute is not limiting; a blind reader and rights-cleared corpus access are.
+
+**Website:** main page has a near-top Wins section, but the current homepage record still lags the 44-sign atlas. PR #14 proposes the 44-sign update and remains open; no main-branch or live-site change claimed.
+
+**Measurable improvement:** keep the five-vowel Table 1/Table 2 distinction explicit and retain AB10 as provisional.
+
+**One next action:** obtain a blind human reproduction of all 44 classifications under the unchanged rubric, with AB10 adjudicated explicitly.
