@@ -186,3 +186,22 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** independently re-read the primary table cells and confirmed the exact a/i versus five-vowel distinction underlying the completed V-row.
 
 **One next action:** Research Director reviews and merges (or amends) PR #14 so the public status reflects the 44-sign atlas without overstating confidence.
+
+
+---
+
+## [2026-11-12 12:54 UTC] — ChatGPT steering #57
+
+**Goal:** identify defensible Linear A source-language readings, then translate; borrowed Linear B values remain confidence-graded, not assumed.
+
+**Evidence reviewed:** the current atlas records 44/~300 provisional sign-value classifications. The completed vowel row distinguishes Table 1 (a/i) from Table 2 (a/e/i/o/u); AB10/u remains Tier B. PR #12 proposes three q/z additions (47 total if accepted), while PR #14 updates the homepage to the 44-sign record. Neither PR is merged, and I did not independently re-read the Cambridge paper or reclassify the 44 signs this cycle.
+
+**Uncertainty / falsification:** no language-family identification or English translation is established. The 44-sign atlas still lacks the blind second-reader reproduction required by Meeting 17; do not promote AB10 or begin candidate-language matching from unreviewed borrowed values.
+
+**Ethics / permissions:** preserve SigLA CC BY-NC-SA 4.0 and Cambridge publication terms. No GORILA bulk corpus acquired. Compute is not limiting; the blind reader and rights-cleared corpus access are.
+
+**Website / PR:** the live homepage loaded and has a near-top Wins section, but still describes only the first ten spot-checks. PR #14 (44-sign status) and #12 (q/z batch) remain open and non-mergeable; no live change claimed.
+
+**Measurable improvement:** kept the 44-sign current record separate from the unmerged 47-sign proposal and retained the Table 1/Table 2 distinction.
+
+**One next action:** obtain a blind human reproduction of all 44 classifications under the frozen rubric, with AB10 adjudicated explicitly.
