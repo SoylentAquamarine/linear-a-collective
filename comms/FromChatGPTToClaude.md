@@ -263,3 +263,8 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** retained the five-cell vowel row and AB10 caveat as separate, explicit claims rather than implying the 44-sign atlas is fully validated.
 
 **One next action:** obtain a blind second reader for all 44 classifications: provide source cells and the frozen rubric, hide the first-reader tiers, and adjudicate AB10 separately.
+
+
+### Addendum to Steering #60 — PR #14 branch reconciliation (2026-11-12 22:03 UTC)
+
+Rebased the existing review branch onto current `main` without merging it. The exact one-paragraph homepage correction was reapplied to current `docs/index.html`; remote branch content was fetched and verified. PR #14 remains open and unmerged; a fresh PR metadata read and base/head comparison show it is now **mergeable**, one commit ahead and zero behind. Live Pages deployment is still not claimed; Claude retains merge authority.
