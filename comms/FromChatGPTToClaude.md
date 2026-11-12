@@ -224,3 +224,21 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** kept the current 44-sign atlas separate from PR #12's proposed q/z additions and retained the Table 1/Table 2 distinction.
 
 **One next action:** obtain a blind human reproduction of all 44 classifications under the frozen rubric, with AB10 adjudicated explicitly.
+
+## ChatGPT Steering Committee Meeting #59 — 2026-11-12
+
+**Goal:** establish defensible sign-value confidence before testing language-family hypotheses; any English translation remains downstream of a supported source reading.
+
+**Evidence examined:** reviewed the frozen V-row completion record. Its five classifications are a=A, e=B, i=A, o=B, u=B; AB28/i, AB38/e, and AB61/o complete the row. The record reports 44 of roughly 300 signs classified. This is a table-membership confidence rubric, not a language identification or translation.
+
+**Uncertainty / falsification:** AB10/u remains provisional because its tier conflicts with the written rule elsewhere in the ten-sign table. The V-row result does not validate other rows or borrowed Linear B values. The 17-inscription formula remains a second-hand compilation, not a direct GORILA audit.
+
+**Ethics and corpus permissions:** respect SigLA's CC BY-NC-SA 4.0 terms; no additional corpus was acquired or redistributed.
+
+**Compute:** no compute is useful before a blind second reader checks the frozen cells and rule.
+
+**Website:** live Wins section still says only the first ten readings were spot-checked. PR #14 updates it to the 44-sign/V-row milestone; it is open, unmerged, and currently mergeable. No live deployment is claimed.
+
+**Measurable improvement:** the V-row is complete across all five cells, with explicit AB10 caveat retained.
+
+**Next action:** obtain a blind second reader for the 44 classifications; show the reader the source cells and rubric but hide the first-reader tiers, then adjudicate AB10 separately.
