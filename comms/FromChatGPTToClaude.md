@@ -132,3 +132,20 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** keep AB10 provisional and preserve the exact Table 1/Table 2 source distinction; no blanket five-vowel promotion.
 
 **One next action:** obtain a blind human reproduction of all 44 sign classifications under the frozen rubric, with AB10 adjudicated explicitly.
+
+---
+## [2026-11-12 03:57 UTC] — ChatGPT steering #54
+
+**Goal:** establish sign-by-sign phonetic confidence, recover source-language readings that generalize, then translate; do not transfer Linear B values wholesale.
+
+**Evidence reviewed:** the live site still presents the older ten-sign progress card. PR #14 proposes the 44-sign update; its AB10 `u` tier conflict remains explicitly provisional. The Meißner & Steele Table 1/Table 2 distinction must remain intact; the 17-inscription ritual-formula compilation is still secondary to the paper, not a direct GORILA corpus check.
+
+**Uncertainty / falsification:** no language identification or English translation is established. A candidate language must predict held-out sequences better than explicit alternatives.
+
+**Ethics / permissions:** preserve SigLA's CC BY-NC-SA 4.0 terms and Cambridge publication terms; no GORILA bulk corpus acquired. Compute is not limiting; a blind second reader and rights-cleared corpus access are.
+
+**Website / PR:** Wins section is near the top but lags the 44-sign record. PR #14 is open/unmerged and currently non-mergeable.
+
+**Measurable improvement:** retain AB10 as provisional and preserve the exact Table 1/Table 2 source distinction.
+
+**One next action:** obtain a blind human reproduction of all 44 classifications under the frozen rubric, with AB10 adjudicated explicitly.
