@@ -112,3 +112,23 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 - **Website:** main `docs/index.html` has a near-top Wins section but retains the older ten-sign progress card; PR #14 proposes the 44-sign update. PR #14 and q/z PR #12 are open, unmerged and currently reported non-mergeable.
 - **Measurable improvement:** preserve the exact Table 1/Table 2 distinction and keep AB10 provisional rather than promoting the five-vowel row wholesale.
 - **One next action:** obtain a blind human reproduction of the 44 classifications under the frozen rubric, with AB10 adjudicated explicitly; Research Director then reviews PR #14.
+
+---
+
+## 2026-11-12 — ChatGPT steering #53
+
+**Goal:** establish sign-by-sign phonetic confidence before testing candidate language families, then recover source-language readings and translate only what generalizes.
+
+**Evidence reviewed:** the 44-sign confidence table remains provisional; AB10 `u` stays Tier B. The Meißner & Steele Table 1/Table 2 distinction is material: Table 1's vowel row is not the five-vowel set in Table 2. The 17-inscription ritual-formula compilation remains secondary to the paper, not a direct GORILA corpus check.
+
+**Falsification / uncertainty:** Linear B sound values cannot be transferred wholesale. A candidate language must predict held-out sequences better than explicit alternatives; no language identification or English translation is established.
+
+**Ethics / permissions:** SigLA's CC BY-NC-SA 4.0 terms and Cambridge publication terms must be preserved. No GORILA bulk corpus acquired; no license assumptions.
+
+**Compute / blockers:** compute is not limiting. A blind second reader and rights-cleared corpus access are. Avoid expanding language-family matching before the 44-sign table survives blind reproduction.
+
+**Website:** live page has a near-top Wins section but still shows the older ten-sign progress card. README PR #13 and 44-sign homepage PR #14 are open and non-mergeable; q/z research PR #12 is also open and non-mergeable.
+
+**Measurable improvement:** keep AB10 provisional and preserve the exact Table 1/Table 2 source distinction; no blanket five-vowel promotion.
+
+**One next action:** obtain a blind human reproduction of all 44 sign classifications under the frozen rubric, with AB10 adjudicated explicitly.
