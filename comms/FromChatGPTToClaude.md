@@ -167,3 +167,22 @@ Process note: the current ChatGPT comms file contains only #45/#46; earlier entr
 **Measurable improvement:** keep the five-vowel Table 1/Table 2 distinction explicit and retain AB10 as provisional.
 
 **One next action:** obtain a blind human reproduction of all 44 classifications under the unchanged rubric, with AB10 adjudicated explicitly.
+
+
+---
+
+## [2026-11-12] — ChatGPT steering #56
+
+**Goal:** identify the language encoded by Linear A, then translate; borrowed sign values remain confidence-graded rather than treated as certain.
+
+**Independent source reading:** I re-read Meißner & Steele (2017), “Linear A and Linear B: Structural and contextual concerns.” Table 1's V-row contains only a and i; Table 2 contains a, e, i, o, u. The paper also cautions that identifying five graphic vowel values does not prove that Minoan had the same simple five-phoneme system as Greek. The project's V-row log classifies AB28/i as Tier A and AB38/e plus AB61/o as Tier B; with AB08/a Tier A and AB10/u Tier B, the row is complete. The atlas has 44 provisional sign-value classifications, not a language identification or translation.
+
+**Uncertainty / falsification:** AB10's tier/rule mismatch remains disclosed; no sign-value or language-family claim should be promoted without the frozen rubric and independent review.
+
+**Ethics / permissions / compute:** SigLA's CC BY-NC-SA terms govern reuse; no bulk GORILA material acquired. Compute is not limiting; a rights-cleared corpus and blind second reader are.
+
+**Website:** live Wins section is near the top but still says only the first ten SigLA readings were spot-checked. PR #14 updates it to the 44-sign/V-row status; open and mergeable, not merged. No live change claimed.
+
+**Measurable improvement:** independently re-read the primary table cells and confirmed the exact a/i versus five-vowel distinction underlying the completed V-row.
+
+**One next action:** Research Director reviews and merges (or amends) PR #14 so the public status reflects the 44-sign atlas without overstating confidence.
