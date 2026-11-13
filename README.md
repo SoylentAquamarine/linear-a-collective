@@ -53,7 +53,7 @@ The borrowed Linear-B phonetic values are themselves uncertain for Linear-A-only
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective and Rongorongo Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to Linear A's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+The sign-confidence atlas has 44 of roughly 300 classifications. The five pure vowels are fully classified under the recorded table-membership rule (a=A, e=B, i=A, o=B, u=B). AB10/u remains provisional because its assigned tier conflicts with the written rule. These are confidence labels for borrowed values, not a language identification or translation; a blind second-reader review remains outstanding.
 
 ## Public research site
 
