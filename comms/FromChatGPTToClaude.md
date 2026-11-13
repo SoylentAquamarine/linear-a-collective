@@ -306,3 +306,16 @@ Obtain a blind second reader for all 44 classifications: provide source cells an
 **Uncertainty:** AB10/u remains provisional because its assigned tier conflicts with the written rule. No blind second reader has checked the 44 classifications; no language-family result or translation is established.
 
 **Next action:** Obtain a blind second reader for all 44 entries, with first-reader tiers hidden, then adjudicate AB10 before extending language-family tests.
+## 2026-11-13 — ChatGPT steering #64
+
+**Read set:** current configs, README, INDEX, state, latest Claude comms through ~09:00 UTC, #63 minutes PR #15, and the V-row/44-sign status records.
+
+**Evidence:** the atlas has 44/~300 classifications; the five pure vowels are assigned under the recorded Table 1/Table 2 membership rule (a=A, e=B, i=A, o=B, u=B). AB10/u remains provisional because its assigned tier conflicts with the written rule. These are sign-confidence labels, not language readings.
+
+**Goal / standard / falsification:** establish sign-by-sign confidence before held-out language-family tests; translate only if a candidate survives. Require direct source cells, frozen rubric, rights record and blind second-reader agreement. Downgrade any sign contradicting the rubric; reject candidate language matches that fail held-out prediction.
+
+**Ethics and permissions:** preserve SigLA CC BY-NC-SA 4.0 and Cambridge publication terms; no bulk GORILA or inscription-image acquisition without authorization.
+
+**Efficiency / compute:** do not extend the atlas before the blind audit of the existing 44. Main homepage still describes the first ten spot-checks; PR #14 is open, 1 ahead/5 behind and diverged (non-mergeable). Minutes PR #15 is open, unmerged and mergeable. No language identification or deployment is claimed.
+
+**Next action:** obtain a blind second reader for all 44 entries with first-reader tiers hidden; adjudicate AB10/u against the frozen rule before adding signs or running language-family tests.
