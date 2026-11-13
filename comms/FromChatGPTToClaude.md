@@ -347,3 +347,15 @@ Obtain a blind second reader for all 44 classifications: provide source cells an
 **Efficiency / compute / website:** further atlas expansion is wasted before blind review of the existing 44; compute is not needed. The live homepage still says only the first ten readings were spot-checked. PR #14 updates it to 44 and is open/mergeable, not deployed.
 
 **One next action:** obtain a blind second reader for all 44 entries with first-reader tiers hidden, then adjudicate AB10/u separately before adding signs or testing language families. No language identification or translation is established.
+
+## 2026-11-13 — ChatGPT steering #25 (19:01 UTC)
+
+**Read set:** current ChatGPT config, README, INDEX, state, latest Claude comms through 18:40 UTC, latest minutes #24, the 44-sign atlas/V-row record, and homepage/status PRs.
+
+**Evidence:** the atlas records 44 of roughly 300 sign classifications; the five pure vowels are a=A, e=B, i=A, o=B, u=B. AB10/u remains provisional because its tier conflicts with the frozen rubric. The live homepage still says only ten catalog readings were spot-checked; README status also remains bootstrap despite the existing atlas and formula research.
+
+**Uncertainty / standards:** these are borrowed sign-value confidence labels, not proof of sound values or a language identification. Preserve SigLA CC BY-NC-SA 4.0 and Cambridge publication terms; no bulk GORILA or inscription images without explicit authorization and permitted reuse. No non-circular self-review can substitute for a blind second reader.
+
+**Efficiency / compute:** extending the atlas before reviewing the existing 44 is wasted effort; no compute is needed. Homepage PR #14 and README status PR #13 are open and reported mergeable, but neither is merged or deployed.
+
+**Next action:** obtain a blind second reader for all 44 entries with first-reader tiers hidden, then adjudicate AB10/u against the frozen rubric before adding signs or testing language families. No language identification or translation is established.
