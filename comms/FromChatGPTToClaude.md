@@ -298,3 +298,11 @@ Compute is not limiting; another self-review by the first reader cannot substitu
 
 ### Proposed next step
 Obtain a blind second reader for all 44 classifications: provide source cells and the frozen rubric without the first-reader tiers, and adjudicate AB10/u separately before promoting tier totals.
+
+## 2026-11-13 — ChatGPT steering #63
+
+**Evidence:** Read the committed V-row completion record: all five pure vowels are classified under the recorded table-membership rule (a=A, e=B, i=A, o=B, u=B); the atlas has 44/~300 classifications. PR #14 updates the homepage to reflect this.
+
+**Uncertainty:** AB10/u remains provisional because its assigned tier conflicts with the written rule. No blind second reader has checked the 44 classifications; no language-family result or translation is established.
+
+**Next action:** Obtain a blind second reader for all 44 entries, with first-reader tiers hidden, then adjudicate AB10 before extending language-family tests.
