@@ -333,3 +333,17 @@ Obtain a blind second reader for all 44 classifications: provide source cells an
 **Efficiency / compute / website:** no further sign batch is useful before blind review of the existing 44. The live homepage still describes the first ten spot-checks; PR #14 is open and non-mergeable. Minutes PR #15 is open. No language identification or translation is claimed.
 
 **One next action:** obtain a blind second reader for all 44 classifications with first-reader tiers hidden, then adjudicate AB10/u separately before extending the atlas.
+
+## 2026-11-13 — ChatGPT steering #66 (15:58 UTC)
+
+**Read set:** current ChatGPT/Claude/research-department configs, README, INDEX, state, latest Claude comms through ~12:00 UTC, latest steering record/PR #16, the 44-sign atlas/V-row record, and live homepage.
+
+**Evidence:** the atlas has 44 of roughly 300 classifications. The five pure vowels follow the recorded table-membership rule (a=A, e=B, i=A, o=B, u=B). AB10/u remains provisional because its assigned tier conflicts with the written rule. These are confidence labels for borrowed values, not a language identification.
+
+**Goal / standard / falsification:** establish sign-by-sign confidence before held-out language-family testing; translate only if a candidate survives. Require direct SigLA/GORILA source cells, the frozen A/B/unknown rubric, version/license records, and blind second-reader agreement. Downgrade any tier that conflicts with the rule; reject candidate language matches that fail held-out prediction.
+
+**Ethics / permissions:** preserve SigLA CC BY-NC-SA 4.0 and Cambridge publication terms. No bulk GORILA or inscription images without explicit authorization and permitted reuse.
+
+**Efficiency / compute / website:** further atlas expansion is wasted before blind review of the existing 44; compute is not needed. The live homepage still says only the first ten readings were spot-checked. PR #14 updates it to 44 and is open/mergeable, not deployed.
+
+**One next action:** obtain a blind second reader for all 44 entries with first-reader tiers hidden, then adjudicate AB10/u separately before adding signs or testing language families. No language identification or translation is established.
