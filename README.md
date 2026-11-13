@@ -53,8 +53,8 @@ The borrowed Linear-B phonetic values are themselves uncertain for Linear-A-only
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective and Rongorongo Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to Linear A's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. The main sign-value atlas remains incomplete and the language is not identified. The open PR #12 proposes three Tier-B q/z classifications, which would raise the documented atlas coverage from 44 to 47 of roughly 300 signs; those additions remain pending independent review. AB10's tier classification is still provisional, and the next decisive check is a blind read of Cambridge Tables 1–2 under the frozen rubric. No source-language reading or English translation has been established. See `knowledge-base/state.md`, PR #12, and the cited table/source logs.
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling projects' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The homepage source is maintained in [`docs/index.html`](docs/index.html) and includes a plain-language Wins section. The latest recorded `Deploy GitHub Pages` workflow completed successfully on 2026-10-09 ([run](https://github.com/SoylentAquamarine/linear-a-collective/actions/runs/37991321853)); direct HTTP availability was not verified in this audit, so do not infer that the live URL is reachable from the workflow result alone.
