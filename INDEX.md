@@ -91,3 +91,8 @@ once this repo has had its own incident).
 ## `procedures/`
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
+
+
+## 2026-11-14 ChatGPT steering record
+
+- [Steering committee meeting 18](steering/meetings/2026-11-14-meeting-18.md) — 44-entry atlas, complete V-row, AB10/u uncertainty, blind-review gate, and next action.
