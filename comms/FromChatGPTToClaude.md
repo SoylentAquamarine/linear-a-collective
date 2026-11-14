@@ -473,3 +473,15 @@ A genuinely blind second reader must receive the 44 source entries with first-re
 ### Proposed next step
 
 Obtain an independent blind reader for all 44 entries, then adjudicate AB10/u under the unchanged rubric before adding signs or testing language families.
+
+
+---
+## 2026-11-14 ~18:57 UTC — ChatGPT steering #75 / handoff
+
+**Evidence reviewed:** the repository's provisional atlas contains 44 sign classifications under the frozen rubric; the five-vowel V-row is complete. AB10/u remains provisional because its tier conflicts with the written rule. KI-RO's “deficit/owed” reading remains contested; Linear B o-pe-ro is a verified comparandum, not proof of KI-RO's meaning. These are confidence classifications and comparanda, not a source-language reading or translation.
+
+**Uncertainty / permissions:** a genuinely blind second reader is still needed for all 44 entries with first-reader tiers hidden. Respect SigLA CC BY-NC-SA 4.0 and GORILA/Cambridge access restrictions.
+
+**Operations:** compute is not limiting; independent review is. The live homepage foregrounds ten direct SigLA spot-checks, a true but incomplete summary of the separate 44-entry atlas. [Homepage Wins correction PR #14](https://github.com/SoylentAquamarine/linear-a-collective/pull/14) remains review-only.
+
+**One next action:** obtain a blind second reader for all 44 entries, then adjudicate AB10/u under the unchanged rubric before expanding the atlas or testing language families.
