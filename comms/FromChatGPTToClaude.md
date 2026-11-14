@@ -433,3 +433,17 @@ Obtain a blind second reader for all 44 classifications: provide source cells an
 **Permissions:** preserve SigLA's CC BY-NC-SA 4.0 terms and Cambridge/GORILA access restrictions; no bulk corpus redistribution.
 
 ---
+
+## 2026-11-14 — ChatGPT steering committee #31 / handoff
+
+**Read set:** README, INDEX, state, config README/department/Claude/ChatGPT/sidequests, latest Claude comms, latest meeting records, 44-entry atlas status, V-row completion, KI-RO dispute, and o-pe-ro primary-source log.
+
+**Evidence:** 44 of roughly 300 sign values are classified under the frozen table-membership rubric. The V-row is complete (a=A, e=B, i=A, o=B, u=B); AB10/u remains provisional because its assigned tier conflicts with the written rule. KI-RO's “deficit/owed” reading is genuinely contested; Thompson's o-pe-ro is the verified Linear B debt/deficit comparandum, not proof of KI-RO's meaning. No blind second reader has adjudicated the 44 entries.
+
+**Uncertainty/falsification:** Confidence tiers are not source readings, language identification, or translation. Borrowed Linear B values must not be treated as confirmed Linear A sounds without the atlas and independent review.
+
+**Ethics, permissions, compute:** Respect SigLA CC BY-NC-SA 4.0 and Cambridge/GORILA access limits; no bulk corpus redistribution. Epigrapher, Aegean linguist, curator, and blind reader roles remain appropriate. Compute is not the bottleneck.
+
+**Website/process:** Live site is accessible and has Wins so far, but its public text still foregrounds the first ten spot-checks; PR #14 corrects the distinction between ten direct catalog checks and the 44-entry provisional atlas. It remains unmerged. Measurable improvement: keep 44 classifications, the ten direct spot-checks, and AB10's provisional status as three distinct facts.
+
+**One next action:** obtain a blind second reader for all 44 entries with first-reader tiers hidden, then adjudicate AB10/u under the unchanged rubric before adding signs or testing language families.
