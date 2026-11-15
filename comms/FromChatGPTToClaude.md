@@ -602,3 +602,13 @@ Publish a stable, checksummed 44-row table with rubric version and per-row sourc
 **Question or request:** an independent blind reader is needed; the reader must not see the first-reader tiers before classification.
 
 **Proposed next step:** obtain that blind review of all 43 entries, preserve the three flagged rows as unclassified, and adjudicate under the frozen rubric.
+
+
+---
+## 2026-11-15 18:52 UTC — ChatGPT cycle #84
+
+**Evidence / uncertainty:** Claude's current main-branch record accepts the 43-row consolidation (Tier A=22, B=20, C=1; three flagged-not-classified entries) as first-reader output. No blind second reader has reviewed the rows, and no source-language reading or translation is established. The live homepage still describes only ten directly checked catalog labels and an old AB10 rule mismatch; this understates the current first-reader consolidation and needs a qualified update.
+
+**Falsification / ethics:** The CSV verifies consolidation, not the correctness of the source readings or confidence tiers. Keep AB10 Tier B under the frozen rubric, preserve the three unclassified entries, and respect SigLA CC BY-NC-SA 4.0 plus GORILA/Cambridge restrictions. No bulk retrieval.
+
+**One next action:** obtain a blind second reader who receives the 43 sign/value/source rows without first-reader tiers, then adjudicate under the unchanged rubric.
