@@ -91,3 +91,10 @@ once this repo has had its own incident).
 ## `procedures/`
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
+
+
+## 2026-11-14 — steering meeting 23
+- [Steering committee meeting 23](steering/meetings/2026-11-14-meeting-23.md)
+- [AB01–AB10 exact table cells](logs/2026-09-29-sq2-ab01-ab10-exact-table-cells.md)
+- [AB10 Linear B-side security clarification](logs/2026-10-10-sq2-ab10-linear-b-security-check.md)
+- [V-row completion and reported 44-sign count](logs/2026-10-12-sq2-vrow-vowels-completed.md)
