@@ -634,3 +634,6 @@ Publish a stable, checksummed 44-row table with rubric version and per-row sourc
 **Measurable improvement:** the current CSV's row count, unique codes, and tier totals are independently reproduced, while first-reader status remains explicit.
 
 **One next action:** obtain a blind second reader who receives all 43 sign/value/source rows without first-reader tiers, then adjudicate under the unchanged rubric; keep the three flagged entries unclassified.
+
+
+**PR status correction (2026-11-15 22:02 UTC):** cycle-84 website/research PR #28 is open, unmerged, and GitHub now reports mergeable=true. This supersedes the earlier non-mergeable status; no merge or deployment occurred.
