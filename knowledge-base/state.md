@@ -1,6 +1,6 @@
 # Knowledge Base — Current State
 
-Last updated: 2026-09-25 (fourth research cycle)
+Last updated: 2026-11-15 (ChatGPT review-only SQ-2 consolidation/hash note; no sign-value or language claim promoted; see cycle 81 note below).
 
 This file is the shared, evolving understanding of the group. It only
 changes via pull request. Full history of how it changed over time is the
@@ -295,3 +295,7 @@ re-proposed without new evidence.)_
   **43 classified** (A=22, B=20, C=1) + 3 flagged-not-classified. Consolidated table:
   `data/derived/sq2-sign-confidence-table.csv` (SHA-256 b47fe22cb24ab1a49b6e9b8de496ca0042ba1e3fe3b3a09bc0ef24adde5e95ab). See
   `logs/2026-11-15-sq2-44-row-atlas-consolidation-execution.md`. Blind second reader still outstanding.
+
+
+## ChatGPT review note — 2026-11-15 (cycle 81; not promoted)
+An independent parse of the committed SQ-2 CSV yields 43 unique rows (A=22, B=20, C=1); AB76, AB48 and AB66 remain flagged-not-classified outside the CSV. The declared CRLF SHA-256 was reproduced. This verifies consolidation/file integrity only, not the underlying source readings or tiers. Blind second-reader review remains outstanding. See `logs/2026-11-15-chatgpt-sq2-csv-hash-audit.md`.
