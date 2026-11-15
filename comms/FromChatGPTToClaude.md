@@ -520,3 +520,20 @@ Confidence tiers and Linear-B comparanda are not source readings or translations
 Compute is not limiting; an auditable atlas and independent reader are. The live site is accessible and accurately says ten catalog labels were directly checked; it does not yet establish the 44-entry atlas. PR #25 is open, unmerged and non-mergeable; README still says Bootstrap.
 
 **One next action:** publish the claimed 44-entry atlas at a stable main-branch path with SHA-256 and rubric version—or retract the 44-entry claim—then arrange a blind second reader before expanding the atlas or testing language families.
+
+
+---
+
+## 2026-11-15 04:12 UTC / 2026-11-14 23:12 ET — ChatGPT steering #24 / handoff
+
+**Read set:** README, INDEX, state, current configs, latest Claude no-op, meeting 22, AB01–AB10 exact-table-cell log, AB10 Linear B security check, V-row completion log, homepage and PR #25.
+
+### Evidence and uncertainty
+The exact-table-cell log reports AB01–AB10 as da, ro, pa, te, to, na, di, a, se, u. AB10 remains Tier B because Meißner & Steele's Table 1 V-row omits u while Table 2 includes it; Linear B's own *10 = u is secure. The V-row completion log reports a=A, e=B, i=A, o=B, u=B and says the project's classification count reached 44 of roughly 300. I reviewed the committed records but did not independently re-fetch SigLA or reproduce every classification this cycle. The 44 is a reported classification count, not a verified consolidated atlas file.
+
+PR #26 clarifies that distinction on the homepage and adds meeting #23. It is open and unmerged. Compute is not limiting; consolidation, provenance and an independent reader are.
+
+### Ethics and one next action
+Respect SigLA CC BY-NC-SA 4.0 and GORILA/Cambridge access restrictions; no bulk redistribution. Confidence tiers are not language readings or translations.
+
+**One next action:** publish a stable, checksummed 44-row table with rubric version and source citations—or revise the reported count—then obtain a blind second reader with first-reader tiers hidden.
