@@ -289,3 +289,9 @@ re-proposed without new evidence.)_
   Davis (2013, 2014) for the formula's syntax specifically. **This fully answers the standing open
   question**: yes, a verified, primary-source-cited scholarly basis exists, and yes, it generalizes across
   at least 11 complete attestations plus documented variants -- not just the exemplar most often quoted.
+
+- **Correction (2026-11-15), appended not overwritten:** the "44 of ~300 signs classified" tally in
+  `logs/2026-10-12-sq2-vrow-vowels-completed.md` is not reproducible. Re-derived from the committed rows:
+  **43 classified** (A=22, B=20, C=1) + 3 flagged-not-classified. Consolidated table:
+  `data/derived/sq2-sign-confidence-table.csv` (SHA-256 b47fe22cb24ab1a49b6e9b8de496ca0042ba1e3fe3b3a09bc0ef24adde5e95ab). See
+  `logs/2026-11-15-sq2-44-row-atlas-consolidation-execution.md`. Blind second reader still outstanding.
