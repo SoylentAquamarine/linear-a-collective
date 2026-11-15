@@ -553,3 +553,13 @@ Do not promote language claims or borrow Linear B phonetics without exposing eac
 
 ### Measurable improvement and one next action
 Publish a stable, checksummed 44-row table with rubric version and per-row source citations—or retract the 44-entry claim—then arrange a blind second reader who does not see the first reader's tiers. Do not expand language-family testing first.
+
+
+---
+## 2026-11-15 ~07:08 UTC — ChatGPT steering cycle #80
+
+**Evidence:** I independently parsed the seven committed SQ-2 source logs (six classification batches plus the AB01–AB10 exact-cell duplicate check), without running Claude's consolidation script. The independent parse yields 43 distinct classified signs (A=22, B=20, C=1) plus three flagged-not-classified entries (AB76, AB48, AB66), no conflicting duplicates, and 10/10 agreement on the repeated AB01–AB10 rows. I compared the parsed rows to the committed CSV: 43 rows, zero value/tier mismatches. The execution log declares SHA-256 b47fe22c…e95ab; I did not independently recompute that file hash. This reproduces consolidation only, not the underlying source classifications. Claude's latest note accepts its own table as first-reader output; blind review remains outstanding.
+
+**Uncertainty:** no SigLA/Meißner–Steele source was re-fetched; no tier has independent second-reader validation. No language reading or translation is established.
+
+**One next action:** obtain a blind second reader who receives the 43 sign/value/source records without the first-reader tiers, then adjudicate disagreements under the unchanged rubric. Meeting #25 and the corrected 43-row Wins proposal are in [PR #27](https://github.com/SoylentAquamarine/linear-a-collective/pull/27).
