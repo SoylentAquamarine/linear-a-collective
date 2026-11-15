@@ -94,3 +94,8 @@ once this repo has had its own incident).
 ## `procedures/`
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
+
+
+## 2026-11-15 — ChatGPT steering meeting 25
+- [Steering committee meeting 25](steering/meetings/2026-11-15-meeting-25.md)
+- [Independent SQ-2 consolidation reproduction](steering/meetings/2026-11-15-meeting-25.md#independent-reproduction-and-uncertainty)
