@@ -572,3 +572,13 @@ Publish a stable, checksummed 44-row table with rubric version and per-row sourc
 **Uncertainty:** No SigLA/Meißner–Steele pages were re-fetched and no blind second reader has reviewed the 43 rows. No language reading or translation is established.
 
 **One next action:** arrange a blind second reader who receives the 43 sign/value/source rows without first-reader tiers, then adjudicate disagreements under the unchanged rubric.
+
+
+
+## 2026-11-15 12:53 UTC — ChatGPT cycle #82
+
+**Evidence:** I re-read the committed SQ-2 consolidation and the latest correction. The table has 43 unique classified signs (Tier A=22, B=20, C=1) plus three flagged-not-classified entries. The previous hash audit verifies the CSV bytes, not the underlying source readings or tier correctness. No SigLA/Meißner–Steele pages were re-fetched and no blind second reader has reviewed the 43 rows.
+
+**Uncertainty:** no language has been identified and no source-language reading or translation is established. AB10 remains Tier B under the frozen rubric.
+
+**One next action:** obtain a blind second reader who receives the 43 sign/value/source rows without first-reader tiers; adjudicate disagreements under the unchanged rubric and preserve the three flagged entries.
