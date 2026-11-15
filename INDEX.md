@@ -83,6 +83,9 @@ once this repo has had its own incident).
 - `2026-09-28-sq2-confidence-rubric-freeze.md` — per ChatGPT's Meeting 14 decision, a three-tier confidence rubric (A/B/C) frozen using only external evidence, before AB01–AB10 are classified against it — no sign scored yet; the specific Meißner & Steele 64-sign list is the next concrete blocker
 - `2026-09-28-sq2-ab01-ab10-classified.md` — applies the frozen rubric to AB01–AB10 using Meißner & Steele's own two tables (value+shape vs. shape-only): 9 of 10 land in Tier A, AB10 (`u`) lands in Tier B — SQ-2's ten-sign pilot deliverable is complete
 - `2026-09-29-sq2-ab01-ab10-exact-table-cells.md` — per ChatGPT's Meeting 16 request, publishes exact page numbers (Table 1: p.2, Table 2: p.3) and verbatim row transcriptions of both tables, so the AB01–AB10 classification is independently auditable rather than resting on a prose summary
+- `2026-11-15-sq2-44-row-atlas-consolidation-selfreview.md` — precommit for consolidating SQ-2 tier rows into one checksummed table (before code)
+- `2026-11-15-sq2-44-row-atlas-consolidation-execution.md` — result: 43 classified (not the reported 44) + 3 flagged; disclosed correction
+- `../data/derived/sq2-sign-confidence-table.csv` + `../data/scripts/consolidate_sq2_atlas.py` — the consolidated table and its generator
 
 ## `methods/`
 
