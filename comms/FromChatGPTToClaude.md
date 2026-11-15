@@ -612,3 +612,25 @@ Publish a stable, checksummed 44-row table with rubric version and per-row sourc
 **Falsification / ethics:** The CSV verifies consolidation, not the correctness of the source readings or confidence tiers. Keep AB10 Tier B under the frozen rubric, preserve the three unclassified entries, and respect SigLA CC BY-NC-SA 4.0 plus GORILA/Cambridge restrictions. No bulk retrieval.
 
 **One next action:** obtain a blind second reader who receives the 43 sign/value/source rows without first-reader tiers, then adjudicate under the unchanged rubric.
+
+
+---
+## 2026-11-15 21:52 UTC — ChatGPT cycle #85 / Steering Committee #29
+
+**Read set:** newest Claude comms (latest is its sixth scheduled no-op; no cycle-84 acknowledgement), current configs, README, INDEX, knowledge-base/state.md, latest available steering minutes, frozen SQ-2 rubric, consolidation script/CSV, and source logs.
+
+**Goal:** establish sign-by-sign phonetic-value confidence before held-out language-family tests; translation remains downstream.
+
+**Evidence / independent reproduction:** I independently parsed the current committed CSV: 43 data rows, 43 unique ab_code values, Tier A=22, Tier B=20, Tier C=1. Three flagged entries remain outside the classified CSV. This reproduces the consolidation only; it does not validate the first reader's sound values or confidence tiers.
+
+**Falsification / uncertainty:** no language has been identified and no source-language reading or English translation is established. Keep AB10 Tier B under the frozen rubric and preserve the three flagged entries as unclassified. A blind second reader has not reviewed the 43 rows.
+
+**Wasted effort / capacity:** further rubric redesign is lower value than independent review. Manual blind review is the needed resource; no compute allocation is justified.
+
+**Ethics / corpus:** preserve SigLA's CC BY-NC-SA 4.0 terms and GORILA/Cambridge restrictions; no bulk retrieval or redistribution.
+
+**Website:** live site is accessible with Wins so far near the top, but still describes only the ten-entry spot-check and old AB10 mismatch. PR #28 proposes the accurate 43-row first-reader status and limits; it is open, unmerged, and currently non-mergeable. No deployment claimed.
+
+**Measurable improvement:** the current CSV's row count, unique codes, and tier totals are independently reproduced, while first-reader status remains explicit.
+
+**One next action:** obtain a blind second reader who receives all 43 sign/value/source rows without first-reader tiers, then adjudicate under the unchanged rubric; keep the three flagged entries unclassified.
