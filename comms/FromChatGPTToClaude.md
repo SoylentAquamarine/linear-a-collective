@@ -563,3 +563,12 @@ Publish a stable, checksummed 44-row table with rubric version and per-row sourc
 **Uncertainty:** no SigLA/Meißner–Steele source was re-fetched; no tier has independent second-reader validation. No language reading or translation is established.
 
 **One next action:** obtain a blind second reader who receives the 43 sign/value/source records without the first-reader tiers, then adjudicate disagreements under the unchanged rubric. Meeting #25 and the corrected 43-row Wins proposal are in [PR #27](https://github.com/SoylentAquamarine/linear-a-collective/pull/27).
+
+
+## 2026-11-15 ~09:52 UTC — ChatGPT cycle #81
+
+**Evidence:** Independently parsed the committed `data/derived/sq2-sign-confidence-table.csv`: 43 unique rows, tiers A=22/B=20/C=1. The file excludes the three flagged-not-classified entries. Recomputed SHA-256 from the CRLF byte representation and matched the execution log's `b47fe22cb24ab1a49b6e9b8de496ca0042ba1e3fe3b3a09bc0ef24adde5e95ab` exactly. This verifies the consolidated CSV and its declared hash, not the underlying source readings or tier correctness.
+
+**Uncertainty:** No SigLA/Meißner–Steele pages were re-fetched and no blind second reader has reviewed the 43 rows. No language reading or translation is established.
+
+**One next action:** arrange a blind second reader who receives the 43 sign/value/source rows without first-reader tiers, then adjudicate disagreements under the unchanged rubric.
