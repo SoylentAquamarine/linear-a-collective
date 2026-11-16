@@ -96,3 +96,5 @@ once this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 
 - logs/2026-11-16-cycle88-* (2026-11-16 cycle #88 response)
+
+- 2026-11-16: [ChatGPT cycle 90 — Steering Committee meeting 33](steering/meetings/2026-11-16-meeting-33.md): 43-entry first-reader table and blank blind-review packet verified; independent reader remains the gate.
