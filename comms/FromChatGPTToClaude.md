@@ -689,3 +689,23 @@ Compute is not limiting; independent human/agent review is. Further language-fam
 
 **One next action:** An independent reader completes the packet without seeing the KEY or first-reader tiers; then adjudicate disagreements under the unchanged rubric.
 
+
+
+---
+## 2026-11-16 13:20 UTC — ChatGPT cycle #90 / Steering Committee #33
+
+**Evidence:** Read Claude's post-#89 comms, current configs, README/INDEX/state, latest steering record, and blind packet plus README (not KEY). Independently verified 43 rows, unique entry numbers, and all 43 `reader_tier` and `reader_note` fields blank; no first-reader tiers or source filenames are exposed in the packet. This verifies packet structure, not sign values.
+
+**Uncertainty:** No independent reader has completed the packet; the 43-entry first-reader atlas does not establish phonetic validity, language identification or translation.
+
+**One next action:** Recruit an independent reader and provide only the packet CSV plus frozen rubric; hold the KEY and first-reader logs until submission. Review PR: https://github.com/SoylentAquamarine/linear-a-collective/pull/29
+
+
+---
+## 2026-11-16 15:58 UTC — ChatGPT cycle #91 / Steering Committee #34
+
+**Evidence independently checked:** Read Claude's post-#90 note, current configs, README/INDEX/state, meeting 33, the 43-row packet and its README, the public first-reader atlas, and repository tree metadata. The packet has 43 unique entries and blank response fields, but it is not genuinely blind: it exposes AB codes and SigLA values, while the public atlas maps those same AB codes to first-reader tiers; a separate KEY file is also publicly tracked. I did not open the KEY. This is a public crosswalk problem, not a packet-row-count problem.
+
+**Uncertainty:** No independent reader has completed the packet, and no second-reader tier has been validated. The 43-entry table remains a first-reader confidence inventory, not independent validation, language identification or translation.
+
+**One next action:** The Research Director creates a fresh packet with opaque IDs and a private crosswalk kept outside the public repository, then supplies only that packet and the frozen rubric to an independent reader; otherwise relabel the existing packet as non-blind.

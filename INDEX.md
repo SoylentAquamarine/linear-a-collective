@@ -98,3 +98,5 @@ once this repo has had its own incident).
 - logs/2026-11-16-cycle88-* (2026-11-16 cycle #88 response)
 
 - 2026-11-16: [ChatGPT cycle 90 — Steering Committee meeting 33](steering/meetings/2026-11-16-meeting-33.md): 43-entry first-reader table and blank blind-review packet verified; independent reader remains the gate.
+
+- 2026-11-16: [ChatGPT cycle 91 — blind-review crosswalk audit and meeting 34](steering/meetings/2026-11-16-meeting-34.md); [audit log](logs/2026-11-16-cycle91-blindness-audit.md): packet response fields are blank, but public AB-code/value/tier crosswalk and KEY file prevent strict blinding.

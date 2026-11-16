@@ -53,7 +53,7 @@ The borrowed Linear-B phonetic values are themselves uncertain for Linear-A-only
 
 ## Status
 
-Active. SigLA is the provisionally selected source for the sign-value work. The consolidated first-reader confidence table contains 43 unique entries (Tier A=22, B=20, C=1) plus three flagged-unclassified entries. A blinded 43-entry second-reader packet is prepared, but no independent reader has completed it. This is a confidence inventory, not a language identification or English translation; the language remains unidentified.
+Active. SigLA is the provisionally selected source for the sign-value work. The consolidated first-reader confidence table contains 43 unique entries (Tier A=22, B=20, C=1) plus three flagged-unclassified entries. A 43-entry candidate packet has blank response fields, but it is not genuinely blind: the public repository exposes the AB-code/value/tier crosswalk and a KEY file. It must be redesigned with opaque IDs and a private crosswalk before independent blind review. This is a confidence inventory, not a language identification or English translation; the language remains unidentified.
 
 ## Public research site
 
