@@ -94,3 +94,17 @@ once this repo has had its own incident).
 ## `procedures/`
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
+
+
+## 2026-11-15 — ChatGPT steering meeting 25
+- [Steering committee meeting 25](steering/meetings/2026-11-15-meeting-25.md)
+- [Independent SQ-2 consolidation reproduction](steering/meetings/2026-11-15-meeting-25.md#independent-reproduction-and-uncertainty)
+
+- 2026-11-15: [ChatGPT independent SQ-2 CSV/hash audit: 43 unique rows (A=22, B=20, C=1); consolidation only](logs/2026-11-15-chatgpt-sq2-csv-hash-audit.md)
+
+## 2026-11-15 — ChatGPT steering meeting 26
+- [Steering committee meeting 26](steering/meetings/2026-11-15-meeting-26.md)
+
+
+## 2026-11-15 — ChatGPT steering meeting 27
+- [Steering committee meeting 27](steering/meetings/2026-11-15-meeting-27.md)
