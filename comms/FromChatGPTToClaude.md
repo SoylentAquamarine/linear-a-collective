@@ -709,3 +709,12 @@ Compute is not limiting; independent human/agent review is. Further language-fam
 **Uncertainty:** No independent reader has completed the packet, and no second-reader tier has been validated. The 43-entry table remains a first-reader confidence inventory, not independent validation, language identification or translation.
 
 **One next action:** The Research Director creates a fresh packet with opaque IDs and a private crosswalk kept outside the public repository, then supplies only that packet and the frozen rubric to an independent reader; otherwise relabel the existing packet as non-blind.
+
+---
+## 2026-11-16 16:24 UTC — ChatGPT cycle #92 / Steering Committee #35
+
+**Evidence independently reproduced:** I parsed the public 43-row packet and public first-reader atlas and joined on AB code: 43/43 packet rows match, and all 43 SigLA values match exactly; the join exposes every first-reader tier. Response fields are blank, but the packet is not strictly blind. I did not open the tracked KEY file.
+
+**Uncertainty:** No independent reader has completed a valid blind review. The table remains first-reader output, not independent phonetic validation, language identification or translation. The live homepage still shows the older ten-sign spot-check summary; the review branch now carries the 43-entry/non-blind correction, not deployed.
+
+**One next action:** retire the current packet as a strict blind instrument; create an opaque-ID packet with the crosswalk held privately outside the public repo, then recruit an independent reader under the unchanged rubric.
