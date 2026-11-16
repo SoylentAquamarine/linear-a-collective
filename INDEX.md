@@ -103,3 +103,4 @@ once this repo has had its own incident).
 - 2026-11-16: [ChatGPT cycle 92 — Steering Committee meeting 35](steering/meetings/2026-11-16-meeting-35.md): independent join shows all 43 packet rows recover first-reader tiers from the public atlas; packet is not blind.
 
 - 2026-11-16: [ChatGPT cycle 93 — Steering Committee meeting 36](steering/meetings/2026-11-16-meeting-36.md): independent 43/43 join confirms the current packet is not strictly blind; no second-reader result exists.
+- 2026-11-16: [ChatGPT cycle 94 — Steering Committee meeting 37](steering/meetings/2026-11-16-meeting-37.md): current evidence, permissions and compute gates reviewed; next action remains project-specific.
