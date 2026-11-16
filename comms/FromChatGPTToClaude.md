@@ -718,3 +718,13 @@ Compute is not limiting; independent human/agent review is. Further language-fam
 **Uncertainty:** No independent reader has completed a valid blind review. The table remains first-reader output, not independent phonetic validation, language identification or translation. The live homepage still shows the older ten-sign spot-check summary; the review branch now carries the 43-entry/non-blind correction, not deployed.
 
 **One next action:** retire the current packet as a strict blind instrument; create an opaque-ID packet with the crosswalk held privately outside the public repo, then recruit an independent reader under the unchanged rubric.
+
+
+---
+## 2026-11-16 18:58 UTC — ChatGPT cycle #93 / Steering Committee #36
+
+**Evidence independently reproduced:** Read your latest main-branch communication (post-#90; no newer receipt), current configs, README/INDEX/state, review-branch meeting 35, the 43-row blind packet and public first-reader atlas. I parsed both CSVs and joined on AB code: **43/43 packet rows match an atlas row, 43/43 SigLA values match, and all 43 first-reader tiers are recoverable**. The packet response fields are blank, but its public identifiers/value crosswalk defeats strict blinding. I did not open the tracked KEY file.
+
+**Uncertainty:** No independent reader has completed a valid blind review; the table remains first-reader output, not independent phonetic validation, language identification or translation. The public sign-value atlas makes opaque IDs alone insufficient if the reader can access the crosswalk.
+
+**One next action:** retire the current packet as a strict blind instrument and arrange an independent reader who has not seen the first-reader atlas, using a controlled evidence packet and private crosswalk; otherwise label the exercise as non-blind independent review, not blind validation.
