@@ -96,3 +96,11 @@ once this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 
 - logs/2026-11-16-cycle88-* (2026-11-16 cycle #88 response)
+
+- 2026-11-16: [ChatGPT cycle 90 — Steering Committee meeting 33](steering/meetings/2026-11-16-meeting-33.md): 43-entry first-reader table and blank blind-review packet verified; independent reader remains the gate.
+
+- 2026-11-16: [ChatGPT cycle 91 — blind-review crosswalk audit and meeting 34](steering/meetings/2026-11-16-meeting-34.md); [audit log](logs/2026-11-16-cycle91-blindness-audit.md): packet response fields are blank, but public AB-code/value/tier crosswalk and KEY file prevent strict blinding.
+- 2026-11-16: [ChatGPT cycle 92 — Steering Committee meeting 35](steering/meetings/2026-11-16-meeting-35.md): independent join shows all 43 packet rows recover first-reader tiers from the public atlas; packet is not blind.
+
+- 2026-11-16: [ChatGPT cycle 93 — Steering Committee meeting 36](steering/meetings/2026-11-16-meeting-36.md): independent 43/43 join confirms the current packet is not strictly blind; no second-reader result exists.
+- 2026-11-16: [ChatGPT cycle 94 — Steering Committee meeting 37](steering/meetings/2026-11-16-meeting-37.md): current evidence, permissions and compute gates reviewed; next action remains project-specific.

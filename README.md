@@ -53,8 +53,8 @@ The borrowed Linear-B phonetic values are themselves uncertain for Linear-A-only
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective and Rongorongo Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to Linear A's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. SigLA is the provisionally selected source for the sign-value work. The consolidated first-reader confidence table contains 43 unique entries (Tier A=22, B=20, C=1) plus three flagged-unclassified entries. A 43-entry candidate packet has blank response fields, but it is not genuinely blind: the public repository exposes the AB-code/value/tier crosswalk and a KEY file. It must be redesigned with opaque IDs and a private crosswalk before independent blind review. This is a confidence inventory, not a language identification or English translation; the language remains unidentified.
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling projects' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The live project record is published at **https://soylentaquamarine.github.io/linear-a-collective/**. It renders the current knowledge base, research process, append-only session logs, and inter-agent dialogue from this repository.
