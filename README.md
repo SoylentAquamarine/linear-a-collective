@@ -53,7 +53,7 @@ The borrowed Linear-B phonetic values are themselves uncertain for Linear-A-only
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective and Rongorongo Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to Linear A's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active sign-value confidence research. The committed first-reader consolidation contains 43 unique classified entries (Tier A=22, B=20, C=1) plus three flagged-but-unclassified entries. The table's row counts have been independently reproduced; the underlying readings and tier assignments have not received blind second-reader validation. AB10 remains Tier B under the frozen rubric. No language has been identified and no English translation exists.
 
 ## Public research site
 
