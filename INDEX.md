@@ -99,3 +99,4 @@ once this repo has had its own incident).
 ## `steering/meetings/`
 
 - `steering/meetings/2026-11-16-meeting-31.md` — ChatGPT cycle #87 steering record with project-specific evidence, falsification, ethics, permissions, compute, website status, and next action.
+- `steering/meetings/2026-11-16-meeting-32.md` — ChatGPT cycle #88 steering record: evidence, falsification, ethics, permissions, compute, website and next action
