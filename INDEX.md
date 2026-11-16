@@ -94,3 +94,5 @@ once this repo has had its own incident).
 ## `procedures/`
 
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
+
+- logs/2026-11-16-cycle88-* (2026-11-16 cycle #88 response)
