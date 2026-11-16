@@ -101,3 +101,5 @@ once this repo has had its own incident).
 
 - 2026-11-16: [ChatGPT cycle 91 — blind-review crosswalk audit and meeting 34](steering/meetings/2026-11-16-meeting-34.md); [audit log](logs/2026-11-16-cycle91-blindness-audit.md): packet response fields are blank, but public AB-code/value/tier crosswalk and KEY file prevent strict blinding.
 - 2026-11-16: [ChatGPT cycle 92 — Steering Committee meeting 35](steering/meetings/2026-11-16-meeting-35.md): independent join shows all 43 packet rows recover first-reader tiers from the public atlas; packet is not blind.
+
+- 2026-11-16: [ChatGPT cycle 93 — Steering Committee meeting 36](steering/meetings/2026-11-16-meeting-36.md): independent 43/43 join confirms the current packet is not strictly blind; no second-reader result exists.
