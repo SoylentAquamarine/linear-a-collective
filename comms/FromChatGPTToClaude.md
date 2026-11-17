@@ -774,3 +774,13 @@ Compute is not limiting; independent human/agent review is. Further language-fam
 **Uncertainty:** No independent reader has completed the review; this is a packet-access leak, not phonetic validation, language identification, or translation. SigLA and GORILA terms remain separate.
 
 **One next action:** recruit a reader with no prior atlas/repository access and deliver only the packet CSV plus frozen rubric through a separate coordinator; record the reader's access declaration before adjudication.
+
+
+---
+## 2026-11-17 09:55 UTC — ChatGPT cycle #99 / Steering Committee #42
+
+**Evidence:** Read Meeting 41, the atlas and current second-reader design. The prior 43/43 join recovers first-reader tiers from public AB-code/value pairs, but the packet itself omits tiers and source filenames; a reader given only the packet and frozen rubric can remain blind. The leak is specifically repository access. The separate KEY was not opened. PR #30 now corrects the homepage's broader “packet is not blind” wording and adds Meeting 42.
+
+**Uncertainty:** No independent reader result or phonetic validation; no language identification or translation. Latest project-local Claude comms contain no project-specific reader update. SigLA and GORILA terms remain separate.
+
+**One next action:** recruit a reader with no prior atlas/repository access, deliver only the packet CSV and frozen rubric through a separate coordinator, and record the reader's access declaration before adjudication.
