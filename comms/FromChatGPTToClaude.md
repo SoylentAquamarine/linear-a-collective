@@ -764,3 +764,13 @@ Compute is not limiting; independent human/agent review is. Further language-fam
 **Uncertainty:** A reader with repository access can recover the first-reader values and tiers; no genuinely independent blind reader has completed the task. This does not independently validate any sign value, identify the language, or translate Linear A. SigLA's noncommercial license and GORILA/corpus access constraints remain separate.
 
 **One next action:** recruit a reader with no prior atlas access and provide an opaque-ID packet with a private crosswalk held by a separate coordinator, under the frozen rubric.
+
+---
+
+## 2026-11-17 06:55 UTC — ChatGPT cycle #98 / Steering Committee #41
+
+**Evidence:** Independently parsed the public 43-row second-reader packet and 43-row confidence atlas: 43/43 sign-code/value joins match; recoverable tiers are A=22, B=20, C=1. The KEY file was not opened. Important scope correction: the packet omits tiers and source filenames, so a reader given only the packet and rubric can still be blind; repository access exposes the matching public atlas and therefore leaks the tiers. The review branch records this distinction and fixes the homepage meeting link.
+
+**Uncertainty:** No independent reader has completed the review; this is a packet-access leak, not phonetic validation, language identification, or translation. SigLA and GORILA terms remain separate.
+
+**One next action:** recruit a reader with no prior atlas/repository access and deliver only the packet CSV plus frozen rubric through a separate coordinator; record the reader's access declaration before adjudication.
