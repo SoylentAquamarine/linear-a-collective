@@ -47,7 +47,8 @@
       <div class="hero">
         <div class="eyebrow"><span class="live-dot"></span> Goal #1 · Identify the language, then translate</div>
         <h1 id="overview-title">We can partly sound out Linear A.<br><em>We still can't understand it.</em></h1>
-        <p class="lede">Linear A's successor script, Linear B, was deciphered in 1952 — and because many Linear A signs share shapes with Linear B signs of known sound, we can often plausibly "sound out" Linear A sign-sequences. But the resulting sequences don't confidently match any known language. Our first goal is to test that gap rigorously. Our second is to document every step here. Our third is to publish the useful things we discover along the way — including mistakes and dead ends.</p>
+        <p class="lede">Linear A shares many sign shapes with Linear B, whose sound values are known, but the resulting sequences do not confidently match any known language. The first-reader confidence table now contains 43 classified entries. All 43 public sign-code/value pairs in the second-reader packet match the first-reader atlas. The packet's reader_tier field is blank in all 43 rows, but the public atlas makes tier recovery possible for anyone who looks it up. A separate coordinator should provide only the packet and rubric, use opaque row IDs where practical, and record a no-lookup/access declaration; this is procedural blinding, not technical access control. No independent phonetic validation, language identification, or translation is claimed. The next step is to recruit that reader through a separate coordinator.</p>
+        <p><a href="https://github.com/SoylentAquamarine/linear-a-collective/blob/chatgpt/cycle95-review-20261116/steering/meetings/2026-11-17-meeting-43.md">Read the latest steering committee record</a></p>
         <div class="hero-actions">
           <a class="button primary" href="#highlights-title">See where things stand</a>
           <a class="button secondary" href="#dialogue">Read the starting plan</a>
@@ -58,7 +59,7 @@
         <div class="highlights-intro">
           <span class="kicker">Wins so far · in plain English</span>
           <h2 id="highlights-title">What we have actually accomplished</h2>
-          <p>We confirmed how much Linear A visually overlaps Linear B, documented a recurring ritual formula, and directly spot-checked ten catalog readings. None is a translation.</p>
+          <p>We documented a recurring ritual formula and a 43-sign confidence table. The packet itself omits tiers and source filenames, so a reader given only the packet and frozen rubric can remain blind. But anyone with repository access can join the public sign-code/value pairs to the first-reader atlas and recover tiers. That is an access-control leak, not phonetic validation or translation.</p>
           <p class="mini-flow" aria-label="Research flow">
             <span class="step">Signs we can partly sound out</span><span class="arrow" aria-hidden="true">→</span>
             <span class="step">Honest confidence per sign</span><span class="arrow" aria-hidden="true">→</span>
@@ -70,7 +71,7 @@
           <article class="highlight-card">
             <span class="highlight-number">01</span>
             <h3>About 72% of the reference signs look the same</h3>
-            <p>A peer-reviewed source gives 64 of 89 reference signs as shape-identical between Linear A and Linear B. That is visual identity, not proof that the signs kept the same sounds. The next task is a sign-by-sign confidence table rather than applying Linear B values wholesale.</p>
+            <p>A peer-reviewed source gives 64 of 89 reference signs as shape-identical between Linear A and Linear B. That is visual identity, not proof that the signs kept the same sounds. We have now compiled a 43-sign confidence table: 22 Tier A, 20 Tier B and 1 Tier C, plus three flagged-not-classified entries. These are first-reader classifications, not independently validated phonetic readings; a genuinely independent second-reader review remains the next test.</p>
             <a class="read-more" href="#confirmed-findings">See the source and caution →</a>
           </article>
           <article class="highlight-card">
@@ -190,5 +191,7 @@
     <p>Content refreshes from the public repository. <a href="https://github.com/SoylentAquamarine/linear-a-collective">Source and history ↗</a></p>
   </footer>
   <script src="app.js" defer></script>
+
+  <footer class="site-footer"><p><strong>Latest steering review:</strong> <a href="https://github.com/SoylentAquamarine/linear-a-collective/blob/chatgpt/cycle95-review-20261116/steering/meetings/2026-11-17-meeting-43.md">Cycle #100 meeting record (review pending)</a>.</p></footer>
 </body>
 </html>

@@ -96,3 +96,15 @@ once this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 
 - logs/2026-11-16-cycle88-* (2026-11-16 cycle #88 response)
+
+## Steering committee records
+- `steering/meetings/2026-11-16-meeting-38.md` — Cycle #95 review: independently reproduced 43/43 public packet-to-atlas joins; strict blinding fails.
+
+- `steering/meetings/2026-11-17-meeting-39.md` — Cycle #96: independently reproduced 43/43 public packet-to-atlas joins; strict blinding remains invalid.
+
+- steering/meetings/2026-11-17-meeting-40.md — Cycle #97: 43/43 public packet-to-atlas joins reproduced; strict blinding remains invalid.
+- `steering/meetings/2026-11-17-meeting-41.md` — Cycle #98: 43/43 public packet-to-atlas join; clarify the repository-access leak versus controlled external blindness.
+
+- `steering/meetings/2026-11-17-meeting-42.md` — Cycle #99: clarify the packet's controlled external-blindness versus repository-access tier leak and preserve independent-reader gate.
+
+- steering/meetings/2026-11-17-meeting-43.md — Cycle #100: reproduce the 43/43 packet-atlas join and disclose procedural-only blinding because the atlas is public.
