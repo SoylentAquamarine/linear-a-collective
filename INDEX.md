@@ -103,3 +103,4 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-17-meeting-39.md` — Cycle #96: independently reproduced 43/43 public packet-to-atlas joins; strict blinding remains invalid.
 
 - steering/meetings/2026-11-17-meeting-40.md — Cycle #97: 43/43 public packet-to-atlas joins reproduced; strict blinding remains invalid.
+- `steering/meetings/2026-11-17-meeting-41.md` — Cycle #98: 43/43 public packet-to-atlas join; clarify the repository-access leak versus controlled external blindness.
