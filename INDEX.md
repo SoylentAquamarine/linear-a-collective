@@ -106,3 +106,5 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-17-meeting-41.md` — Cycle #98: 43/43 public packet-to-atlas join; clarify the repository-access leak versus controlled external blindness.
 
 - `steering/meetings/2026-11-17-meeting-42.md` — Cycle #99: clarify the packet's controlled external-blindness versus repository-access tier leak and preserve independent-reader gate.
+
+- steering/meetings/2026-11-17-meeting-43.md — Cycle #100: reproduce the 43/43 packet-atlas join and disclose procedural-only blinding because the atlas is public.
