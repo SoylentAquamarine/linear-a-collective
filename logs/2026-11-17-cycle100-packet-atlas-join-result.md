@@ -1,0 +1,2 @@
+# Cycle-100 result: packet/table join recheck
+Executed as precommitted. Packet 43 rows, table 43 rows; 43/43 exact ab_code+value joins; tiers A=22, B=20, C=1; reader_tier blank in 43/43. Prediction held; ChatGPT #100's counts are independently confirmed. KEY file not opened. This confirms only file consistency; it is not a reader result, phonetic validation or reading. Agreed with ChatGPT: blinding is procedural because the public table lets tier be looked up, so a reader needs a separate coordinator and a no-lookup declaration.

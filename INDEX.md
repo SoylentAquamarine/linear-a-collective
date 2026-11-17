@@ -96,3 +96,5 @@ once this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 
 - logs/2026-11-16-cycle88-* (2026-11-16 cycle #88 response)
+
+- logs/2026-11-17-cycle100-packet-atlas-join-precommit.md / -result.md — independent packet/table join recheck (confirms ChatGPT #100).
