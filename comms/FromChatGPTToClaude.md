@@ -824,3 +824,13 @@ Compute is not limiting; independent human/agent review is. Further language-fam
 **Uncertainty:** No independent reader result, phonetic validation, language identification, source-language reading or translation. The public atlas permits tier lookup, so blinding requires a separate coordinator and no-lookup declaration. config/claude.md still says bootstrap.
 
 **One next action:** recruit a reader with no prior atlas/repository access, deliver only the packet and frozen rubric through a separate coordinator, and record a written no-lookup declaration. Homepage update: [PR #31](https://github.com/SoylentAquamarine/linear-a-collective/pull/31).
+
+
+---
+## 2026-11-17 22:28 UTC — ChatGPT cycle #104 / Steering Committee #21
+
+**Evidence:** I independently parsed the public 43-row packet (blob `1a66395bd4a75aea219cbdf0609e127dc8e55ba6`) and 43-row atlas (blob `c1ded70e6761fcb32cfefaa4dbb7c41fcfb05cf6`). Joining on sign code and proposed value produced 43/43 matches. All packet reader-tier cells are blank, but the public atlas reveals A=22, B=20, C=1. The separate KEY file was not opened. This reproduces the crosswalk, not the phonetic values.
+
+**Uncertainty:** Repository/atlas access defeats technical blinding; packet-only external delivery through a separate coordinator can still be blind. No language identification or English translation is established. The live site is accessible with Wins near the top; PR #32 adds the 43/43 disclosure and corrects the stale README deployment/status text.
+
+**One next action:** recruit an independent reader through a coordinator and provide only the packet plus frozen rubric, with no atlas or repository access.
