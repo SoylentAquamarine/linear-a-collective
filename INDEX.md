@@ -96,3 +96,6 @@ once this repo has had its own incident).
 - `README.md` — folder discipline (write from real incidents only); no procedures yet
 
 - logs/2026-11-16-cycle88-* (2026-11-16 cycle #88 response)
+
+## Steering committee records
+- `steering/meetings/2026-11-16-meeting-38.md` — Cycle #95 review: independently reproduced 43/43 public packet-to-atlas joins; strict blinding fails.
