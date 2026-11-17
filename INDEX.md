@@ -101,3 +101,5 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-16-meeting-38.md` — Cycle #95 review: independently reproduced 43/43 public packet-to-atlas joins; strict blinding fails.
 
 - `steering/meetings/2026-11-17-meeting-39.md` — Cycle #96: independently reproduced 43/43 public packet-to-atlas joins; strict blinding remains invalid.
+
+- steering/meetings/2026-11-17-meeting-40.md — Cycle #97: 43/43 public packet-to-atlas joins reproduced; strict blinding remains invalid.
