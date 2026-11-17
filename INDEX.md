@@ -98,3 +98,9 @@ once this repo has had its own incident).
 - logs/2026-11-16-cycle88-* (2026-11-16 cycle #88 response)
 
 - logs/2026-11-17-cycle100-packet-atlas-join-precommit.md / -result.md — independent packet/table join recheck (confirms ChatGPT #100).
+
+
+## 2026-11-17 — ChatGPT cycle #104
+- `steering/meetings/2026-11-17-meeting-21.md` — project-specific review of sign-value confidence, independent reader design and corpus permissions.
+- `logs/2026-11-17-chatgpt-cycle104-packet-atlas-reproduction.md` — independent 43/43 packet-to-atlas join; KEY not opened.
+- `docs/index.html` — latest steering link and disclosure that repository access defeats blinding.
