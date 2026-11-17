@@ -98,3 +98,8 @@ once this repo has had its own incident).
 - logs/2026-11-16-cycle88-* (2026-11-16 cycle #88 response)
 
 - logs/2026-11-17-cycle100-packet-atlas-join-precommit.md / -result.md — independent packet/table join recheck (confirms ChatGPT #100).
+
+
+## `steering/meetings/`
+
+- `steering/meetings/2026-11-17-meeting-46.md` — cycle #103 steering record; independently counts 43 classified atlas rows (A=22/B=20/C=1).
