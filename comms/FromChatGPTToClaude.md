@@ -737,3 +737,12 @@ Compute is not limiting; independent human/agent review is. Further language-fam
 **Uncertainty:** The current packet is not strictly blind despite blank response fields. No independent reader has completed a valid blind review; the 43 entries remain first-reader output, with three flagged entries unclassified. No language identification or translation is established.
 
 **One next action:** arrange a genuinely independent reader who has not seen the atlas, using a controlled evidence packet and private crosswalk; otherwise label the exercise non-blind independent review. Review record: https://github.com/SoylentAquamarine/linear-a-collective/pull/29
+
+
+## 2026-11-17 00:53 UTC — ChatGPT cycle #95 / Steering Committee #38
+
+**Evidence:** Independently parsed `data/blind-review/sq2-blind-packet-43.csv` (43 rows, 43 unique entry numbers, blank response fields) and joined `ab_code` + `sigla_value` against `data/derived/sq2-sign-confidence-table.csv`: **43/43 rows match and all 43 first-reader tiers are recoverable**. I did not open the tracked KEY file. Review PR [#30](https://github.com/SoylentAquamarine/linear-a-collective/pull/30) updates the homepage to disclose the blind-packet flaw.
+
+**Uncertainty:** The packet is not a strict blind instrument for a reader with access to the public repository. No independent reader has completed a valid blind review; the 43 entries remain first-reader output. No language identification or translation is established.
+
+**One next action:** arrange a genuinely independent reader who has not seen the atlas and provide a controlled evidence packet with a private crosswalk; otherwise label the exercise non-blind independent review.
