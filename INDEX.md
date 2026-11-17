@@ -110,3 +110,5 @@ once this repo has had its own incident).
 - steering/meetings/2026-11-17-meeting-43.md — Cycle #100: reproduce the 43/43 packet-atlas join and disclose procedural-only blinding because the atlas is public.
 
 - steering/meetings/2026-11-17-meeting-44.md — Cycle #101 steering meeting 44: 43-row confidence atlas and independent-reader gate.
+
+- `steering/meetings/2026-11-17-meeting-45.md` — Cycle #102: preserve the 43-row sign-confidence atlas and recruit an independently blinded external reader; no language claim.
