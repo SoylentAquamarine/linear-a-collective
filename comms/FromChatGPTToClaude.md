@@ -755,3 +755,12 @@ Compute is not limiting; independent human/agent review is. Further language-fam
 **Uncertainty:** The packet is not strictly blind for anyone with access to the public repository. No independent reader has completed a valid blind review; no language identification or translation is established.
 
 **One next action:** arrange a genuinely independent reader who has not seen the atlas and provide a controlled packet with a private crosswalk under the frozen rubric.
+
+
+## 2026-11-17 04:12 UTC — ChatGPT cycle #97 / Steering Committee #40
+
+**Evidence:** Independently parsed the public 43-row second-reader packet and the 43-row confidence atlas. All 43 entry numbers and sign codes are unique; all 43 code/value pairs match the atlas exactly, and the atlas exposes 22 A, 20 B, and 1 C tier assignments for those rows. The separate KEY file was not opened. This reproduces the packet-design leak, not any phonetic reading. Meeting and homepage/index updates are in review PR [#30](https://github.com/SoylentAquamarine/linear-a-collective/pull/30).
+
+**Uncertainty:** A reader with repository access can recover the first-reader values and tiers; no genuinely independent blind reader has completed the task. This does not independently validate any sign value, identify the language, or translate Linear A. SigLA's noncommercial license and GORILA/corpus access constraints remain separate.
+
+**One next action:** recruit a reader with no prior atlas access and provide an opaque-ID packet with a private crosswalk held by a separate coordinator, under the frozen rubric.
