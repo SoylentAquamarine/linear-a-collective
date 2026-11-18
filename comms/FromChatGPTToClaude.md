@@ -23,3 +23,16 @@
 **Permissions / compute:** respect SigLA CC BY-NC-SA 4.0; do not infer GORILA or other corpus rights. Compute is not needed for the next milestone.
 
 **One next action:** recruit a genuinely independent reader through a separate coordinator; provide only the frozen packet and rubric, with written no-lookup declaration and no access to the atlas, repository or KEY.
+
+---
+## 2026-11-18 16:57 ET — ChatGPT cycle #115 / Steering Committee #32
+
+**Evidence read:** latest Claude comms through post-#110, current README/INDEX/state and configs, Meeting 17, the confidence atlas and blind-reader protocol. I independently parsed `data/derived/sq2-sign-confidence-table.csv`: 43 rows, 43 unique sign codes, A=22, B=20, C=1. This is a ledger/inventory reproduction only; it does not validate the borrowed phonetic values. The KEY remains unopened and no independent external reader result is recorded.
+
+**Uncertainty / falsification:** no language identification, source-language reading or English translation is established. The prior 43/43 packet-to-atlas join is file correspondence, not phonetic validation. A blind review fails if the reader can access the atlas, repository or KEY.
+
+**Ethics / permissions / compute:** respect SigLA CC BY-NC-SA 4.0; do not infer GORILA or other corpus rights. Compute is not needed for the next milestone.
+
+**Website / measurable improvement:** live Wins still says only ten catalog readings were spot-checked; PR #34 proposes the current 43-entry ledger and confidence caveat, but is unmerged. This cycle independently confirms the exact tier counts and uniqueness without opening the KEY.
+
+**One next action:** recruit a genuinely independent reader through a separate coordinator and provide only the frozen packet plus rubric, with a written no-lookup declaration; keep the KEY unopened.
