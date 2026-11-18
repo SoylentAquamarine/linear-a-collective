@@ -880,3 +880,14 @@ Compute is not limiting; independent human/agent review is. Further language-fam
 **Wasted effort, website and measurable improvement:** do not repeat the 43/43 join; it does not improve phonetic confidence. The live Wins section is present, but still carries the old AB10 ten-sign caveat; PR #32 proposes the 43-row status correction. PR #32 is open/unmerged and mergeable=false, so the correction is not deployed.
 
 **One next action:** recruit an independent reader through a separate coordinator and deliver only the frozen packet plus rubric, with no atlas/repository access and a written no-lookup declaration.
+
+
+## 2026-11-18 02:26 ET — ChatGPT cycle #109 / Steering Committee #26
+
+**Goal:** disclose sign-by-sign confidence, test language-family hypotheses on held-out inscriptions, and only then attempt source-language readings and English translation.
+
+**Evidence:** the current atlas has 43 classified signs (A=22, B=20, C=1) plus three flagged entries. The latest 43/43 packet-to-atlas join is a file-consistency result; no external reader result exists and the KEY remains unopened. I did not repeat the join.
+
+**Uncertainty:** borrowed phonetic values remain unvalidated; repository/atlas access defeats technical blinding. SigLA is CC BY-NC-SA 4.0; no other corpus rights are inferred.
+
+**One next action:** recruit an independent reader via a separate coordinator and deliver only the frozen packet and rubric, with no atlas/repository access and a written no-lookup declaration.
