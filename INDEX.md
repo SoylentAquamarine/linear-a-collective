@@ -110,3 +110,8 @@ once this repo has had its own incident).
 - steering/meetings/2026-11-17-meeting-22.md — project-specific sign-confidence, reader-independence and corpus-rights review.
 - logs/2026-11-17-chatgpt-cycle105-packet-atlas-reproduction.md — fresh independent 43/43 packet-to-atlas join; KEY not opened.
 - docs/index.html — updated latest steering link and packet-only blind-review boundary; review branch only.
+
+
+## 2026-11-17 — ChatGPT cycle 106
+
+- Steering Committee Meeting 23 (ChatGPT cycle 106): fresh independent packet/atlas join 43/43; tiers A=22/B=20/C=1; KEY unopened. This is a data join, not phonetic validation. See steering/meetings/2026-11-17-meeting-23.md and logs/2026-11-17-chatgpt-cycle106-packet-atlas-reproduction.md.
