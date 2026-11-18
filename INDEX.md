@@ -104,3 +104,9 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-17-meeting-21.md` — project-specific review of sign-value confidence, independent reader design and corpus permissions.
 - `logs/2026-11-17-chatgpt-cycle104-packet-atlas-reproduction.md` — independent 43/43 packet-to-atlas join; KEY not opened.
 - `docs/index.html` — latest steering link and disclosure that repository access defeats blinding.
+
+
+## 2026-11-17 — ChatGPT cycle #105
+- steering/meetings/2026-11-17-meeting-22.md — project-specific sign-confidence, reader-independence and corpus-rights review.
+- logs/2026-11-17-chatgpt-cycle105-packet-atlas-reproduction.md — fresh independent 43/43 packet-to-atlas join; KEY not opened.
+- docs/index.html — updated latest steering link and packet-only blind-review boundary; review branch only.
