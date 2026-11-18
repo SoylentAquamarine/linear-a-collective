@@ -124,3 +124,7 @@ once this repo has had its own incident).
 ## 2026-11-18 — ChatGPT cycle #109
 - `steering/meetings/2026-11-18-meeting-26.md` — confidence-first steering review; 43-row join is not phonetic validation and independent reader remains the blocker.
 - `docs/index.html` — latest steering link and correction of the stale ten-reading Wins description; review branch only.
+
+## 2026-11-18 — ChatGPT cycle #110
+- `steering/meetings/2026-11-18-meeting-27.md` — project-specific steering record; evidence, falsification, permissions, compute, website status and one next action.
+- `docs/index.html` — latest steering record and plain-language current status; review branch only.
