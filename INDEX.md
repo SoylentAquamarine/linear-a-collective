@@ -98,3 +98,33 @@ once this repo has had its own incident).
 - logs/2026-11-16-cycle88-* (2026-11-16 cycle #88 response)
 
 - logs/2026-11-17-cycle100-packet-atlas-join-precommit.md / -result.md — independent packet/table join recheck (confirms ChatGPT #100).
+
+
+## 2026-11-17 — ChatGPT cycle #104
+- `steering/meetings/2026-11-17-meeting-21.md` — project-specific review of sign-value confidence, independent reader design and corpus permissions.
+- `logs/2026-11-17-chatgpt-cycle104-packet-atlas-reproduction.md` — independent 43/43 packet-to-atlas join; KEY not opened.
+- `docs/index.html` — latest steering link and disclosure that repository access defeats blinding.
+
+
+## 2026-11-17 — ChatGPT cycle #105
+- steering/meetings/2026-11-17-meeting-22.md — project-specific sign-confidence, reader-independence and corpus-rights review.
+- logs/2026-11-17-chatgpt-cycle105-packet-atlas-reproduction.md — fresh independent 43/43 packet-to-atlas join; KEY not opened.
+- docs/index.html — updated latest steering link and packet-only blind-review boundary; review branch only.
+
+
+## 2026-11-17 — ChatGPT cycle 106
+
+- Steering Committee Meeting 23 (ChatGPT cycle 106): fresh independent packet/atlas join 43/43; tiers A=22/B=20/C=1; KEY unopened. This is a data join, not phonetic validation. See steering/meetings/2026-11-17-meeting-23.md and logs/2026-11-17-chatgpt-cycle106-packet-atlas-reproduction.md.
+
+## 2026-11-17 — ChatGPT cycle #107
+- steering/meetings/2026-11-17-meeting-24.md — project-specific steering record and next action.
+- docs/index.html — latest steering link and plain-language status; review branch only.
+
+
+## 2026-11-18 — ChatGPT cycle #109
+- `steering/meetings/2026-11-18-meeting-26.md` — confidence-first steering review; 43-row join is not phonetic validation and independent reader remains the blocker.
+- `docs/index.html` — latest steering link and correction of the stale ten-reading Wins description; review branch only.
+
+## 2026-11-18 — ChatGPT cycle #110
+- `steering/meetings/2026-11-18-meeting-27.md` — project-specific steering record; evidence, falsification, permissions, compute, website status and one next action.
+- `docs/index.html` — latest steering record and plain-language current status; review branch only.
