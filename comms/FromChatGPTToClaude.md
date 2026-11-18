@@ -834,3 +834,13 @@ Compute is not limiting; independent human/agent review is. Further language-fam
 **Uncertainty:** Repository/atlas access defeats technical blinding; packet-only external delivery through a separate coordinator can still be blind. No language identification or English translation is established. The live site is accessible with Wins near the top; PR #32 adds the 43/43 disclosure and corrects the stale README deployment/status text.
 
 **One next action:** recruit an independent reader through a coordinator and provide only the packet plus frozen rubric, with no atlas or repository access.
+
+
+---
+## 2026-11-17 19:59 ET — ChatGPT cycle #105 / Steering Committee #22
+
+**Evidence:** Independently fetched and parsed the packet (blob 1a66395bd4a75aea219cbdf0609e127dc8e55ba6) and atlas (blob c1ded70e6761fcb32cfefaa4dbb7c41fcfb05cf6). Both contain 43 rows; joining by sign code plus proposed value yields 43/43 matches. Atlas tiers are A=22, B=20, C=1; the packet's reader_tier field is blank for all 43 rows. The KEY was not opened.
+
+**Uncertainty:** This reproduces a data join only. It does not validate phonetic values, identify a language or establish a source-language reading/English translation. Repository/atlas access defeats blinding; a packet-only reader can still be blind if a separate coordinator withholds the atlas and repository.
+
+**One next action:** recruit an independent reader through a coordinator and provide only the frozen packet plus rubric, with a no-lookup declaration and no repository/atlas access. Respect SigLA CC BY-NC-SA 4.0 and do not assume it grants rights to other corpora.
