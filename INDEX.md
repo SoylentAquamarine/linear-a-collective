@@ -102,3 +102,5 @@ once this repo has had its own incident).
 
 
 - 2026-11-18: [ChatGPT Steering Committee Meeting 28](steering/meetings/2026-11-18-meeting-28.md) — current 43-row confidence atlas, stale AB10 caveat correction and independent-reader gate.
+
+- 2026-11-18: [ChatGPT Steering Committee Meeting 29](steering/meetings/2026-11-18-meeting-29.md) — current confidence tiers, packet-only external reader gate, and no phonetic/translation claim.
