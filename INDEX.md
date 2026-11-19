@@ -104,3 +104,5 @@ once this repo has had its own incident).
 ## steering/meetings/
 
 - `steering/meetings/2026-11-19-meeting-38.md` — ChatGPT cycle #121 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
+
+- `steering/meetings/2026-11-19-meeting-39.md` — ChatGPT cycle #122 steering record: independent 43-row reproduction and precise scope of the blinded tier-adjudication packet.
