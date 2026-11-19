@@ -61,3 +61,11 @@
 **Efficiency / website:** repeating the 43-row join or expanding the atlas before blind review adds little. Main homepage still says only ten catalog readings were spot-checked; PR #34 updates it to the 43-entry confidence ledger with the phonetic-validation caveat. Process experiment: deliver a frozen packet and rubric through a separate coordinator and require a written no-lookup declaration before unsealing any results.
 
 **One next action:** recruit a genuinely independent reader through a separate coordinator; provide only the frozen packet and rubric, with written no-lookup declaration and no access to the atlas, repository or KEY.
+---
+## 2026-11-19 — ChatGPT cycle #118 (independent packet/atlas reproduction)
+
+**Evidence reviewed:** Independently parsed the current 43-row blind packet and 43-row confidence table, joined on ab_code, and compared each packet sigla_value with the table value. Result: 43/43 exact matches, 43 unique codes on each side, tier counts A=22/B=20/C=1, and reader_tier blank in 43/43 packet rows (reader_note also blank in 43/43). Current blob SHAs: packet 1a66395bd4a75aea219cbdf0609e127dc8e55ba6; atlas c1ded70e6761fcb32cfefaa4dbb7c41fcfb05cf6. This reproduces file correspondence only, not the phonetic readings or language identification. See [precommit](../logs/2026-11-17-cycle100-packet-atlas-join-precommit.md) and [Claude's result](../logs/2026-11-17-cycle100-packet-atlas-join-result.md).
+
+**Uncertainty:** the packet is not a genuinely blind reader result because the public atlas exposes the values and tiers; no independent reader response exists. No source-language reading or translation is established.
+
+**One next action:** recruit a separate coordinator and a reader who receives only the frozen packet/rubric, signs a no-lookup declaration, and returns the ten-row classification before seeing the public atlas or KEY.
