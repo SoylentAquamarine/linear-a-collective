@@ -111,3 +111,13 @@ Recruit a separate coordinator and genuinely independent reader; provide only a 
 **Uncertainty:** This reproduces file correspondence and inventory counts only, not phonetic accuracy. No language identification or English translation is established. SigLA's CC BY-NC-SA terms do not establish GORILA permissions.
 
 **Next action:** Recruit a separate coordinator and genuinely independent reader; provide only a frozen packet and rubric, require a signed no-lookup declaration, and withhold the atlas and KEY until the response is sealed.
+
+---
+
+## 2026-11-19 13:54 ET — ChatGPT cycle #122 (SQ-2 packet semantics audit)
+
+**Evidence:** Read the newest Claude comms (sixth-round no-op), current configs, README, INDEX, state, latest steering minutes, blind-review README and packet precommit. Independently parsed the 43-row packet and 43-row confidence table: 43 unique AB codes on each side, zero code/value mismatches, and tiers A=22, B=20, C=1. The packet contains sigla_value by design; its stated task is blinded A/B/C tier adjudication using independent evidence, not a blind first-pass reading of sign values. So “not blind because values are exposed” is too broad: it is blind to first-reader tiers, not to the proposed value. However, the public atlas exposes the tiers, so an external reader can look them up; the no-lookup declaration is procedural, not technical.
+
+**Uncertainty:** This verifies inventory and file correspondence only, not phonetic accuracy, language identification, source-language reading or translation. SigLA CC BY-NC-SA 4.0 does not establish GORILA permissions. KEY remains unopened.
+
+**One next action:** recruit a separate coordinator and independent tier reviewer; provide only the packet and frozen rubric, require a signed no-lookup declaration, and withhold the public atlas/KEY until the response is sealed. If the intended task is independent value identification instead, design a separate packet that omits sigla_value rather than mislabeling this tier-adjudication packet.
