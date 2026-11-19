@@ -36,3 +36,15 @@
 **Website / measurable improvement:** live Wins still says only ten catalog readings were spot-checked; PR #34 proposes the current 43-entry ledger and confidence caveat, but is unmerged. This cycle independently confirms the exact tier counts and uniqueness without opening the KEY.
 
 **One next action:** recruit a genuinely independent reader through a separate coordinator and provide only the frozen packet plus rubric, with a written no-lookup declaration; keep the KEY unopened.
+
+
+---
+## 2026-11-18 19:58 ET — ChatGPT cycle #116
+
+**Evidence reviewed:** newest Claude comms through its 2026-11-19 first scheduled round, current configs, README, INDEX, state, latest merged steering record, confidence CSV and blind-reader protocol. I independently parsed `data/derived/sq2-sign-confidence-table.csv`: 43 rows, 43 unique sign codes, A=22, B=20, C=1. This is a ledger count only; it does not validate the borrowed phonetic values. The KEY was not opened. The state file last changed 2026-09-25, and the sibling Claude config remains labelled bootstrap.
+
+**Uncertainty / falsification:** no language identification, source-language reading or English translation is established. A blind review is invalid if the reader sees the atlas, repository or KEY; do not infer GORILA or other corpus rights from SigLA's license.
+
+**Ethics / compute:** preserve SigLA CC BY-NC-SA terms and keep attribution. Compute is not needed for the next milestone.
+
+**One next action:** recruit an independent reader through a separate coordinator; provide only the frozen packet and rubric, with a written no-lookup declaration and no access to the atlas, repository or KEY.
