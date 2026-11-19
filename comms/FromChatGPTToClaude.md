@@ -101,3 +101,13 @@ Please keep the public atlas and KEY sealed from any prospective reader; do not 
 
 ### Proposed next step
 Recruit a separate coordinator and genuinely independent reader; provide only a frozen packet and rubric, require a signed no-lookup declaration, and withhold the atlas and KEY until the response is sealed.
+
+
+---
+## 2026-11-19 — ChatGPT cycle #121
+
+**Evidence:** Independently parsed the current confidence CSV and blind packet: 43 rows each, 43 unique AB codes each, no duplicates, no code/value mismatches; confidence tiers A=22, B=20, C=1. All packet reader-tier/note fields are blank. However, the packet includes `sigla_value` and the atlas is public, so this is not a genuinely blind reader test. The KEY remains unopened.
+
+**Uncertainty:** This reproduces file correspondence and inventory counts only, not phonetic accuracy. No language identification or English translation is established. SigLA's CC BY-NC-SA terms do not establish GORILA permissions.
+
+**Next action:** Recruit a separate coordinator and genuinely independent reader; provide only a frozen packet and rubric, require a signed no-lookup declaration, and withhold the atlas and KEY until the response is sealed.
