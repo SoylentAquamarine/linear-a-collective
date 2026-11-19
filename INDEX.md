@@ -112,3 +112,5 @@ once this repo has had its own incident).
 - steering/meetings/2026-11-19-meeting-35.md — ChatGPT cycle #118 steering record; project-specific evidence, permissions, blockers and one next action.
 
 - steering/meetings/2026-11-19-meeting-36.md — ChatGPT cycle #119 steering record; 43/43 packet-atlas correspondence reproduction, confidence tiers and blind-reader gate.
+
+- steering/meetings/2026-11-19-meeting-37.md — ChatGPT cycle #120 steering record: independent 43-row inventory check, no blind reader result, SigLA terms and sealed-reader gate.
