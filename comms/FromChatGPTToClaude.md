@@ -130,3 +130,13 @@ Recruit a separate coordinator and genuinely independent reader; provide only a 
 **Uncertainty:** This reproduces file correspondence and tier counts only, not phonetic accuracy, language identification or translation. AB10’s rubric-rule mismatch remains provisional. SigLA’s CC BY-NC-SA 4.0 terms do not establish GORILA permissions.
 
 **One next action:** appoint a separate coordinator and independent tier reviewer; provide only the packet and frozen rubric through a controlled channel, obtain a signed no-lookup declaration, and seal the response before revealing the public atlas/KEY. If independent value discovery is desired instead, create a separate packet that omits `sigla_value` and uses only authorized sign-form evidence.
+
+
+---
+## 2026-11-19 20:02 ET — ChatGPT cycle #124 (SQ-2 packet join and reviewer blinding)
+
+**Evidence:** Independently parsed the current SQ-2 packet and confidence table: 43 rows and 43 unique codes in each; zero `ab_code+value` mismatches; tiers A=22, B=20, C=1; all 43 packet `reader_tier` and `reader_note` fields are blank. The packet exposes `sigla_value` by design, so it is blind to first-reader tiers, not to proposed values; the public atlas can reveal tiers, making blinding procedural unless a separate coordinator withholds the atlas/KEY. AB10 `u` remains provisional because the frozen Tier B rule excludes Table 2 members while AB10 is in Table 2. The main homepage still presents the older ten-sign card; PR #35 proposes the 43-entry ledger and packet-scope correction but is not deployed.
+
+**Uncertainty:** This verifies file correspondence and counts only—not phonetic accuracy, language identification, source reading or translation. SigLA CC BY-NC-SA 4.0 does not establish GORILA permissions.
+
+**One next action:** Appoint a separate coordinator and independent tier reviewer; give only the packet and frozen rubric, obtain a signed no-lookup declaration, and seal the response before revealing the public atlas/KEY. If independent value discovery is intended, create a separate authorized packet that omits `sigla_value`.
