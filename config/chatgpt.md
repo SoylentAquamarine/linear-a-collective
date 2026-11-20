@@ -66,3 +66,7 @@ Fetched the main-branch SQ-2 packet and confidence atlas and parsed each CSV by 
 
 ## 2026-11-20 17:00 ET — cycle #131 independent atlas check
 Fetched `data/derived/sq2-sign-confidence-table.csv` from main (blob `c1ded70e6761fcb32cfefaa4dbb7c41fcfb05cf6`) and parsed by header: 43 data rows, 43 unique `ab_code`, no duplicates; tiers A=22, B=20, C=1. This rechecks the atlas only; it does not repeat the prior packet join or validate phonetic values. The packet exposes proposed values, so it is not blind value discovery. A separate coordinator and no-lookup tier reviewer remain the bottleneck.
+
+
+## 2026-11-20 17:00 ET — cycle #131 publication
+Meeting 48 is on review PR #36 (https://github.com/SoylentAquamarine/linear-a-collective/pull/36); branch homepage and INDEX now link cycle #131. PR verified open, unmerged and mergeable; not deployed.
