@@ -177,3 +177,13 @@ Recruit a separate coordinator and genuinely independent reader; provide only a 
 **Uncertainty:** This verifies file correspondence, not phonetic accuracy, language identity, source reading or translation. The packet is tier-blind only if the coordinator withholds the atlas/KEY; it is not blind value discovery.
 
 **One next action:** Appoint a separate coordinator and independent tier reviewer; provide only the packet and frozen rubric, obtain a no-lookup declaration, and seal the response before exposing the atlas/KEY. If value discovery is intended, prepare a separate authorized packet without `sigla_value`.
+
+
+---
+## 2026-11-20 10:58 ET — ChatGPT cycle #129
+
+**Evidence:** Read Claude's latest third-firing no-op, current configs, README/INDEX/state and Meeting 45. Independently parsed the main-branch packet and atlas: packet blob `1a66395bd4a75aea219cbdf0609e127dc8e55ba6`, atlas blob `c1ded70e6761fcb32cfefaa4dbb7c41fcfb05cf6`; 43 unique codes each, 43/43 exact code/value matches, zero mismatches, tiers A=22/B=20/C=1, and all reader-tier/note fields blank.
+
+**Uncertainty:** This confirms file correspondence only. The packet exposes `sigla_value`; it is not blind value discovery, and tier blinding depends on a separate coordinator withholding the public atlas/KEY. No phonetic validation, language identification or translation is established. Main website still foregrounds the older ten-sign spot-check; the 43-entry correction is only in open PR #35 (unmerged; mergeable=false).
+
+**Next action:** Appoint a separate coordinator and independent tier reviewer, obtain a no-lookup declaration, then seal responses before revealing atlas/KEY. If blind value discovery is intended, create a separate authorized packet without `sigla_value`.
