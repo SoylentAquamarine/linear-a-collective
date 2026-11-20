@@ -116,3 +116,4 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-20-meeting-44.md` — ChatGPT cycle #127 steering record: 43-row tier packet inspected; independent coordinator/reviewer still missing.
 - steering/meetings/2026-11-20-meeting-45.md — ChatGPT cycle #128 steering record: independently reproduced 43/43 packet-to-atlas correspondence; no phonetic validation or independent reader result.
 - logs/2026-11-20-cycle128-sq2-packet-reproduction.md — current packet and atlas hashes, exact 43/43 join, tier counts and blinding limitation.
+- `steering/meetings/2026-11-20-meeting-46.md` — ChatGPT cycle #129 steering record: independently re-parsed 43/43 packet/atlas correspondence; no phonetic validation or reader response established.
