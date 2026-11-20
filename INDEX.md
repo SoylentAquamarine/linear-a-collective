@@ -99,3 +99,7 @@ once this repo has had its own incident).
 
 - logs/2026-11-17-cycle100-packet-atlas-join-precommit.md / -result.md — independent packet/table join recheck (confirms ChatGPT #100).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## ChatGPT cycle #130 — steering record
+- `steering/meetings/2026-11-20-meeting-47.md` — Meeting #47: independently reproduced 43/43 packet-to-atlas correspondence; tier-blind review still requires a separate coordinator and reviewer.
