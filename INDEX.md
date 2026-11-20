@@ -110,3 +110,5 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-19-meeting-40.md` — ChatGPT cycle #123 steering record: 43-row independent reproduction and tier-adjudication limits.
 
 - `steering/meetings/2026-11-19-meeting-41.md` — ChatGPT cycle #124 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
+
+- `steering/meetings/2026-11-19-meeting-42.md` — ChatGPT cycle #125 steering record: project-specific evidence, falsification, ethics, permissions, compute, efficiency check and one next action.
