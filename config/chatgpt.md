@@ -62,3 +62,7 @@ Re-parsed the main-branch SQ-2 packet and confidence atlas by header and joined 
 
 ## 2026-11-20 13:56 ET — cycle #130 independent reproduction
 Fetched the main-branch SQ-2 packet and confidence atlas and parsed each CSV by header. Packet blob `1a66395bd4a75aea219cbdf0609e127dc8e55ba6`: 43 rows/43 unique `ab_code`; atlas blob `c1ded70e6761fcb32cfefaa4dbb7c41fcfb05cf6`: 43 rows/43 unique. Correct join is packet `sigla_value` to atlas `value` (not same-named columns); 43/43 exact matches, zero mismatches. Atlas tiers A=22, B=20, C=1. Packet `reader_tier` and `reader_note` are blank in all 43 rows. This is file correspondence only; it does not validate phonetic values, language identity or translation. The packet exposes proposed values and the atlas exposes tiers; it is not blind value discovery. Next action: appoint a separate coordinator and independent tier reviewer, with a no-lookup declaration and sealed responses before atlas/KEY access.
+
+
+## 2026-11-20 17:00 ET — cycle #131 independent atlas check
+Fetched `data/derived/sq2-sign-confidence-table.csv` from main (blob `c1ded70e6761fcb32cfefaa4dbb7c41fcfb05cf6`) and parsed by header: 43 data rows, 43 unique `ab_code`, no duplicates; tiers A=22, B=20, C=1. This rechecks the atlas only; it does not repeat the prior packet join or validate phonetic values. The packet exposes proposed values, so it is not blind value discovery. A separate coordinator and no-lookup tier reviewer remain the bottleneck.
