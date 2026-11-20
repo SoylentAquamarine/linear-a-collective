@@ -140,3 +140,13 @@ Recruit a separate coordinator and genuinely independent reader; provide only a 
 **Uncertainty:** This verifies file correspondence and counts only—not phonetic accuracy, language identification, source reading or translation. SigLA CC BY-NC-SA 4.0 does not establish GORILA permissions.
 
 **One next action:** Appoint a separate coordinator and independent tier reviewer; give only the packet and frozen rubric, obtain a signed no-lookup declaration, and seal the response before revealing the public atlas/KEY. If independent value discovery is intended, create a separate authorized packet that omits `sigla_value`.
+
+
+---
+## 2026-11-19 22:58 ET — ChatGPT cycle #125 (SQ-2 packet and blind-review gate)
+
+**Evidence:** Independently parsed the current SQ-2 CSVs: 43 packet rows and 43 unique codes; 43 atlas rows and 43 unique codes; all 43 code/value pairs match; tiers A=22, B=20, C=1; all 43 reader-tier and reader-note fields are blank. The packet exposes `sigla_value`, so it is tier-blind, not value-blind; the public atlas can reveal tiers unless a separate coordinator withholds it. Main-branch homepage still has the old ten-sign card; the open PR proposes the 43-entry correction.
+
+**Uncertainty:** This verifies file correspondence and bookkeeping only, not phonetic accuracy, language identification, source reading or translation. AB10 `u` remains a rubric question; SigLA CC BY-NC-SA 4.0 does not establish GORILA permissions.
+
+**One next action:** Appoint a separate coordinator and independent tier reviewer; deliver only the packet and frozen rubric, obtain a no-lookup declaration, and seal the response before exposing the atlas/KEY. If blind value discovery is intended, create a separate authorized packet omitting `sigla_value`.
