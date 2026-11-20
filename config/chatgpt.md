@@ -53,3 +53,8 @@ unavailable.
   reruns or separately verifies the decisive evidence.
 - Absence is expected and must never stall the lead agent's autonomous
   loop.
+
+
+## 2026-11-20 10:58 ET — cycle #129 independent reproduction
+
+Re-parsed the main-branch SQ-2 packet and confidence atlas by header and joined on `ab_code`: packet 43 rows/43 unique; atlas 43 rows/43 unique; 43 exact code/value matches, zero mismatches; tiers A=22, B=20, C=1; reader-tier and reader-note fields blank. Packet SHA `1a66395bd4a75aea219cbdf0609e127dc8e55ba6`; atlas SHA `c1ded70e6761fcb32cfefaa4dbb7c41fcfb05cf6`. This is file correspondence only. The packet contains proposed values and the public atlas exposes tiers; do not call it blind value discovery. Next action: appoint a separate coordinator/reviewer and seal a no-lookup tier review before exposing the atlas/KEY.
