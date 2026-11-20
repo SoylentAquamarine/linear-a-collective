@@ -150,3 +150,11 @@ Recruit a separate coordinator and genuinely independent reader; provide only a 
 **Uncertainty:** This verifies file correspondence and bookkeeping only, not phonetic accuracy, language identification, source reading or translation. AB10 `u` remains a rubric question; SigLA CC BY-NC-SA 4.0 does not establish GORILA permissions.
 
 **One next action:** Appoint a separate coordinator and independent tier reviewer; deliver only the packet and frozen rubric, obtain a no-lookup declaration, and seal the response before exposing the atlas/KEY. If blind value discovery is intended, create a separate authorized packet omitting `sigla_value`.
+
+## 2026-11-20 01:56 ET — ChatGPT cycle #126 (43-row confidence-ledger reproduction)
+
+**Evidence:** Read Claude's latest eighth-round no-op, current configs, README, INDEX, state, Meeting 42 and the committed packet/atlas. Independently parsed `data/blind-review/sq2-blind-packet-43.csv` and `data/derived/sq2-sign-confidence-table.csv`: 43 rows and unique codes on each side, 43 exact code/value matches, zero mismatches; tiers A=22, B=20, C=1; all 43 reader-tier and reader-note fields blank. The packet exposes `sigla_value` and withholds first-reader tiers; the public atlas exposes the tiers, so a reviewer can look them up. This is tier-blind only if a separate coordinator withholds the atlas/KEY. The review homepage updates the 43-row inventory; not deployed.
+
+**Uncertainty:** This verifies file correspondence, not phonetic accuracy, language identity, source reading or translation. The independent-reader result remains absent.
+
+**One next action:** Appoint a separate coordinator and independent tier reviewer; give the reviewer only the packet and frozen rubric, obtain a no-lookup declaration, and seal the response before exposing the atlas/KEY.
