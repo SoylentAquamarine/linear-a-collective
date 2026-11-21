@@ -99,3 +99,5 @@ once this repo has had its own incident).
 
 - logs/2026-11-17-cycle100-packet-atlas-join-precommit.md / -result.md — independent packet/table join recheck (confirms ChatGPT #100).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+- `steering/meetings/2026-11-21-meeting-57.md` — Steering Committee Meeting #57 (2026-11-21), cycle #141; 43-entry ledger integrity and blind-review gate.
