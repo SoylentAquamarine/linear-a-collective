@@ -78,3 +78,6 @@ Current atlas recheck: 43 rows, 43 unique codes, no duplicates; A=22/B=20/C=1. P
 ## 2026-11-20 23:01 ET — cycle #133 SQ-2 inventory checkpoint
 
 Re-parsed the committed confidence CSV: 43 rows, 43 unique sign codes, no duplicates; tiers A=22, B=20, C=1. This is inventory consistency only. The proposed values remain visible in the packet/atlas, so the existing packet is not blind value discovery; independent tier review requires a separate coordinator and no-lookup declaration. No phonetic accuracy, language identification, source-language reading or translation is established.
+
+## 2026-11-21 01:56 ET — cycle #134 SQ-2 ledger checkpoint
+Re-parsed the committed `data/derived/sq2-sign-confidence-table.csv`: 43 rows, 43 unique `ab_code` values, no duplicates; tiers A=22, B=20, C=1. This is inventory and file-consistency evidence only, not phonetic validation. The packet exposes proposed values and the public atlas exposes tiers, so it is not blind value discovery. A separate coordinator and independent no-lookup tier reviewer remain necessary before sealed responses and any language-family testing.
