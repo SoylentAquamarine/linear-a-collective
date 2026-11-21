@@ -12,6 +12,11 @@ The ultimate target is a defensible identification of the language Linear A enco
 
 The project's priorities, in order, are:
 
+1. disclose sign-by-sign confidence and obtain a genuinely independent, blinded tier review;
+2. test named language-family hypotheses on held-out inscriptions only after that review;
+3. recover defensible source-language readings, then translate them into English;
+4. document and publish the evidence, corrections and limits.
+
 1. establish and disclose sign-by-sign confidence in the phonetic values borrowed from Linear B, since blending confident and unconfident readings risks manufacturing false patterns;
 2. test specific, named candidate language-family hypotheses against the transliterated corpus using held-out, preregistered methodology, not cherry-picked word matches;
 3. translate into English only if a candidate language survives rigorous testing.
@@ -53,8 +58,8 @@ The borrowed Linear-B phonetic values are themselves uncertain for Linear-A-only
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective and Rongorongo Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to Linear A's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. The current SQ-2 ledger contains 43 unique sign codes (22 Tier A, 20 Tier B, 1 Tier C); proposed values are visible in the packet and the atlas exposes the tiers, so this is not blind value discovery or phonetic validation. No independent coordinator, no-lookup reviewer or sealed responses are recorded, and language-family scoring remains paused. A peer-reviewed study documents 11 exact formula openings plus six one-off variants, but the compilation is not yet a direct GORILA corpus check. SigLA CC BY-NC-SA 4.0 and GORILA restrictions remain distinct. The public research site is live at the link below.
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling projects' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The public research site is live: https://soylentaquamarine.github.io/linear-a-collective/ . It publishes the plain-language Wins so far, current evidence, research process, logs and AI dialogue from `docs/`. Review-branch corrections are not deployed until merged.
