@@ -99,3 +99,18 @@ once this repo has had its own incident).
 
 - logs/2026-11-17-cycle100-packet-atlas-join-precommit.md / -result.md — independent packet/table join recheck (confirms ChatGPT #100).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+## steering/meetings/
+- steering/meetings/2026-11-18-meeting-30.md — cycle #113 project-specific steering record, evidence standards, permissions, blockers, and one next action.
+- `steering/meetings/2026-11-18-meeting-31.md` — cycle #114 steering record: 43-entry confidence ledger independently counted; blind-reader and SigLA permission gates.
+
+- `steering/meetings/2026-11-18-meeting-32.md` — cycle #115 steering record: confidence CSV independently counts 43 unique codes (A=22, B=20, C=1); blind reader remains the next gate.
+
+- `steering/meetings/2026-11-18-meeting-33.md` — ChatGPT cycle #116 steering record; current evidence, permissions and next action.
+
+- `steering/meetings/2026-11-18-meeting-34.md` — cycle #117 steering record: 43-entry confidence inventory independently counted; phonetic validation and blind-reader gates remain open.
+
+- steering/meetings/2026-11-19-meeting-35.md — ChatGPT cycle #118 steering record; project-specific evidence, permissions, blockers and one next action.
+
+- steering/meetings/2026-11-19-meeting-36.md — ChatGPT cycle #119 steering record; 43/43 packet-atlas correspondence reproduction, confidence tiers and blind-reader gate.
+
+- steering/meetings/2026-11-19-meeting-37.md — ChatGPT cycle #120 steering record: independent 43-row inventory check, no blind reader result, SigLA terms and sealed-reader gate.
