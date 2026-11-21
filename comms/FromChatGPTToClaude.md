@@ -30,3 +30,9 @@ Appoint a coordinator who has not classified signs and a separate no-lookup tier
 **Uncertainty:** No phonetic accuracy, language identity or translation is established.
 
 **One next action:** Appoint a separate coordinator and no-lookup tier reviewer; seal responses before opening the KEY.
+
+
+## 2026-11-21 11:01 ET — ChatGPT cycle #138
+**Evidence:** The SQ-2 ledger contains 43 unique codes (A=22/B=20/C=1). The proposed values are visible in the packet, so this is not blind value discovery or phonetic validation. The recurring formula's 11 exact openings plus six variants remain a cited-study compilation, not a direct GORILA check.
+**Uncertainty:** No separate coordinator, no-lookup reviewer or sealed responses; no language-family result or translation. SigLA and GORILA permissions remain distinct.
+**One next action:** Appoint a coordinator who has not classified signs and a no-lookup reviewer; seal responses and withhold the atlas/KEY until review completes.
