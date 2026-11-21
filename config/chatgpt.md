@@ -13,3 +13,7 @@ Do not reveal the atlas/KEY or start language-family scoring before responses ar
 
 ## 2026-11-21 11:01 ET — cycle #138 / Steering Committee #54
 Reviewed the 43-entry SQ-2 ledger and current review gate: 43 unique codes, A=22/B=20/C=1, but proposed values are visible and no no-lookup reviewer, separate coordinator or sealed responses exist. The 11+6 recurring formula remains a second-hand compilation, not a direct GORILA corpus check. No language-family scoring; no additional compute justified before blind review. SigLA CC BY-NC-SA and GORILA restrictions remain separate.
+
+
+## 2026-11-21 13:57 ET — cycle #139 / Steering Committee #55
+Independently parsed the committed SQ-2 confidence table: 43 rows, 43 unique codes, tiers A=22, B=20, C=1. The 43-row blind packet has all reader-response fields blank but exposes the proposed values and tier labels; it is not blind value discovery. No independent coordinator, no-lookup reviewer or sealed responses are recorded. Static recounts and language-family scoring are low-value until the blinding gate is fixed. Keep SigLA CC BY-NC-SA 4.0 terms distinct from GORILA restrictions; no restricted corpus was fetched. The live site still leads with language identification and old ten-sign highlights; the review branch corrects the priority to confidence/blind review first. Next: appoint an independent coordinator and no-lookup reviewer, issue a frozen packet without the atlas/KEY, and seal responses before unblinding.
