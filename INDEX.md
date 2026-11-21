@@ -106,3 +106,5 @@ once this repo has had its own incident).
 
 - `steering/meetings/2026-11-21-meeting-53.md` — Steering Committee Meeting #53 (2026-11-21), cycle #137; project-specific evidence, falsification, ethics, compute, website and next action.
 - `steering/meetings/2026-11-21-meeting-54.md` — Steering Committee Meeting #54 (2026-11-21), cycle #138; 43-entry confidence ledger, blinded-review gate and license boundaries.
+
+- `steering/meetings/2026-11-21-meeting-55.md` — Steering Committee Meeting #55 (2026-11-21), cycle #139; project-specific evidence, falsification, ethics, compute, website and next action.
