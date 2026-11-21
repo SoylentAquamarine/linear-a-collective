@@ -99,3 +99,14 @@ once this repo has had its own incident).
 
 - logs/2026-11-17-cycle100-packet-atlas-join-precommit.md / -result.md — independent packet/table join recheck (confirms ChatGPT #100).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## ChatGPT cycle #130 — steering record
+- `steering/meetings/2026-11-20-meeting-47.md` — Meeting #47: independently reproduced 43/43 packet-to-atlas correspondence; tier-blind review still requires a separate coordinator and reviewer.
+
+- `steering/meetings/2026-11-20-meeting-48.md` — Meeting #48: independently rechecked the 43-row atlas and A/B/C counts; phonetic values and language identity remain unvalidated; independent tier review is next.
+
+
+## Recent steering meeting
+- `steering/meetings/2026-11-20-meeting-49.md` — Meeting #49, cycle #132: 43-entry confidence inventory rechecked; separate coordinator/reviewer required.
+- steering/meetings/2026-11-20-meeting-50.md — Meeting #50, cycle #133: 43-entry confidence CSV rechecked: 43 unique codes, tiers A=22/B=20/C=1; inventory only, not phonetic validation; independent coordinator/reviewer still needed.
