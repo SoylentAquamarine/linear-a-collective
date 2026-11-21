@@ -109,3 +109,4 @@ once this repo has had its own incident).
 
 ## Recent steering meeting
 - `steering/meetings/2026-11-20-meeting-49.md` — Meeting #49, cycle #132: 43-entry confidence inventory rechecked; separate coordinator/reviewer required.
+- steering/meetings/2026-11-20-meeting-50.md — Meeting #50, cycle #133: 43-entry confidence CSV rechecked: 43 unique codes, tiers A=22/B=20/C=1; inventory only, not phonetic validation; independent coordinator/reviewer still needed.
