@@ -105,3 +105,7 @@ once this repo has had its own incident).
 - `steering/meetings/2026-11-20-meeting-47.md` — Meeting #47: independently reproduced 43/43 packet-to-atlas correspondence; tier-blind review still requires a separate coordinator and reviewer.
 
 - `steering/meetings/2026-11-20-meeting-48.md` — Meeting #48: independently rechecked the 43-row atlas and A/B/C counts; phonetic values and language identity remain unvalidated; independent tier review is next.
+
+
+## Recent steering meeting
+- `steering/meetings/2026-11-20-meeting-49.md` — Meeting #49, cycle #132: 43-entry confidence inventory rechecked; separate coordinator/reviewer required.
