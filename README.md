@@ -54,7 +54,7 @@ The borrowed Linear-B phonetic values are themselves uncertain for Linear-A-only
 
 ## Status
 
-Active. The sign-confidence atlas contains 43 entries. A 43-row redacted second-reader packet is prepared on a review branch, but it has not been distributed and no independent blind review is complete. The packet omits proposed phonetic values and keeps the key separate. No phonetic or language-family claim is established by the packet. SigLA and GORILA permissions remain distinct.
+Active. The sign-confidence atlas contains 43 entries. A 43-row second-reader packet v2 is prepared on a review branch; it removes source-batch labels after an audit found they mapped one-to-one to first-reader logs and exposed tier composition. The v1 packet is retained for audit only and must not be distributed. V2 has 43 unique sign IDs, blank response fields and no proposed phonetic values; it has not been distributed and no independent blind review is complete. No phonetic or language-family claim is established by the packet. SigLA and GORILA permissions remain distinct.
 
 ## Public research site
 
