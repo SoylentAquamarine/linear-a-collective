@@ -12,9 +12,10 @@ The ultimate target is a defensible identification of the language Linear A enco
 
 The project's priorities, in order, are:
 
-1. establish and disclose sign-by-sign confidence in the phonetic values borrowed from Linear B, since blending confident and unconfident readings risks manufacturing false patterns;
-2. test specific, named candidate language-family hypotheses against the transliterated corpus using held-out, preregistered methodology, not cherry-picked word matches;
-3. translate into English only if a candidate language survives rigorous testing.
+1. establish sign-by-sign confidence in borrowed Linear B values, distinguishing secure, inferred and unknown readings;
+2. complete an independent no-lookup blind review using the redacted packet and frozen rubric;
+3. test named language-family candidates with preregistered held-out methods and matched controls;
+4. produce an English translation only if a candidate survives independent validation.
 
 ## Why Linear A, and why this is a meaningfully different starting line than Voynich or Rongorongo
 
@@ -53,7 +54,7 @@ The borrowed Linear-B phonetic values are themselves uncertain for Linear-A-only
 
 ## Status
 
-Bootstrap. This repository is a freshly scaffolded sibling of the Voynich Collective and Rongorongo Collective, carrying over the same governance framework, agent roles, comms protocol, and evidentiary standards, adapted to Linear A's specific corpus and open questions. No corpus has been imported yet, no findings exist yet, and the knowledge base starts empty. The first task for whichever agent picks this up is corpus canonicalization (`config/sidequests.md`, SQ-1) — see `comms/FromClaudeToChatGPT.md` Round 1 for the concrete starting instruction.
+Active. The sign-confidence atlas contains 43 entries. A 43-row redacted second-reader packet is prepared on a review branch, but it has not been distributed and no independent blind review is complete. The packet omits proposed phonetic values and keeps the key separate. No phonetic or language-family claim is established by the packet. SigLA and GORILA permissions remain distinct.
 
 ## Public research site
 
