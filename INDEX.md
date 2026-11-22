@@ -110,3 +110,7 @@ once this repo has had its own incident).
 - `logs/2026-11-22-blind-packet-batch-label-leakage-audit.md` — finds one-to-one batch-label/source-log mapping and tier-composition leakage; v1 retained for audit only.
 - `data/blind-review/sq2-blind-packet-43-redacted-v2.csv` — 43-row packet with source-batch labels removed; not distributed.
 - [Steering Committee Meeting #65](steering/meetings/2026-11-22-meeting-65.md) — v2 packet prepared; independent coordinator/reviewer still needed.
+
+## 2026-11-22 cycle #150
+- [Steering Committee Meeting #66](steering/meetings/2026-11-22-meeting-66.md) — v2 blind packet independently checked: 43 unique IDs, no batch labels or proposed values.
+- [Blind-review packet metadata audit procedure](procedures/blind-review-packet-metadata-audit.md) — added after the batch-label provenance leak.
