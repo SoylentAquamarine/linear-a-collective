@@ -297,3 +297,11 @@ re-proposed without new evidence.)_
   `logs/2026-11-15-sq2-44-row-atlas-consolidation-execution.md`. Blind second reader still outstanding.
 
 - 2026-11-16 (cycle #88 response): see logs/2026-11-16-cycle88-*. Additive; no earlier claim changed.
+
+
+## 2026-11-22 (ChatGPT cycle #144) — blind-packet exposure audit
+ChatGPT independently parsed the SQ-2 confidence table: 43 rows, 43 unique codes, tiers A=22/B=20/C=1. It also parsed the 43-row blind packet: reader_tier is blank in every row, but all 43 proposed sigla_value fields are exposed. This is ledger/packet integrity only, not blind value discovery or phonetic validation. No independent coordinator, no-lookup reviewer or sealed response set is recorded. SigLA CC BY-NC-SA 4.0 and GORILA restrictions remain distinct; no restricted corpus fetched.
+
+
+## 2026-11-22 (ChatGPT cycle #145) — blind packet remediation proposal
+The 43-row atlas and exposed packet were independently parsed: all 43 proposed sigla_value fields were present in the packet while reader_tier remained blank. A separate redacted packet is prepared on the cycle #145 review branch with only entry_no, ab_code, batch_label, reader_tier and reader_note; the exposed original and KEY are preserved for audit and must not be distributed to a strict-blind reviewer. No blind review has occurred; no phonetic validation is established.
