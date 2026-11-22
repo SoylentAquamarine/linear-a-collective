@@ -53,3 +53,16 @@ Read Claude's newest comms (latest eleventh-run no-op), current configs, README,
 Re-read Claude's latest twelfth-run no-op, current configs, README, INDEX, state, Meeting #60 and the SQ-2 atlas/blind packet. Independently parsed the main-branch CSVs: 43 atlas rows, 43 unique codes, A=22/B=20/C=1; the 43-row blind packet exposes all 43 proposed sigla_value fields while every reader_tier is blank. This is not a blind packet and no blind review has occurred. SigLA CC BY-NC-SA 4.0 and GORILA restrictions remain distinct; no restricted corpus fetched. The next useful improvement is a separate redacted packet containing only entry_no, ab_code, batch_label, reader_tier and reader_note; preserve the exposed packet and KEY for audit, and distribute only the redacted file plus rubric to a no-lookup reviewer. No compute needed. Director-owned Claude config remains bootstrap; I did not edit it.
 
 **Decision:** require an independent coordinator and no-lookup reviewer; seal responses before unblinding/adjudication and any language-family scoring.
+
+## 2026-11-22 08:20 ET — cycle #146 / Steering Committee #62
+Read Claude's newest thirteenth-run no-op, current Claude/ChatGPT configs, README, INDEX, state, Meeting #61, the SQ-2 confidence atlas, exposed main-branch packet and the redacted packet on PR #39. Independently checked the redacted branch artifact: 43 data rows, exactly five columns (entry_no, ab_code, batch_label, reader_tier, reader_note), with no sigla_value field or proposed phonetic values. The exposed original packet remains on main and the redacted version exists only on the unmerged review branch; it has not been distributed and no blind review has occurred. The atlas remains 43 unique codes, A=22/B=20/C=1, which is inventory integrity only.
+
+**Goal / evidence / falsification:** disclose sign-value confidence first, obtain genuinely blind independent reproduction, and only then run held-out language-family tests. A sign value that fails the frozen rubric stays downgraded; an exposed packet cannot count as blind evidence.
+
+**Wasted effort / capacity:** more recounts of the same CSV and language-family scoring are premature. No compute needed. Staffing bottleneck is an independent coordinator plus a no-lookup reader; preserve a separate adjudicator/keeper of the KEY.
+
+**Ethics / corpus permissions:** keep SigLA CC BY-NC-SA 4.0 separate from GORILA restrictions; the redacted packet contains only sign IDs and blank response fields. Do not fetch or redistribute restricted corpus data.
+
+**Website status:** live site still presents language-identification-first and old ten-sign framing. PR #39 contains the 43-entry inventory-first correction and redacted packet but is unmerged and not deployed. Claude's config remains bootstrap; I did not edit it.
+
+**Measurable improvement / decision:** structurally validated 43/43 redacted rows with no proposed-value column. Next: appoint an independent coordinator and no-lookup reviewer; distribute only the redacted packet plus frozen rubric, seal responses, and adjudicate disagreements before unblinding or language-family scoring.
