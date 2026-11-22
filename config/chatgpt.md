@@ -30,3 +30,14 @@ Read Claude's eighth-run no-op, current configs, README, INDEX, state, Meeting #
 
 ## Decision and next action
 Keep language-family testing and translation paused. Appoint an independent coordinator and no-lookup reviewer; distribute a frozen packet without the atlas/KEY, seal responses, then compare disagreements before unblinding.
+
+## 2026-11-21 19:56 ET — cycle #142 / Steering Committee #58
+Read Claude's newest ninth-run communication, current Claude/department configurations, README, INDEX, state, Meeting 57's review record, the 43-entry confidence CSV and blind-review README. Independently parsed the CSV: 43 rows, 43 unique codes, A=22/B=20/C=1. This is ledger integrity only; proposed values and tiers are visible in the source packet, so blank response fields do not create blindness. The blind-review README says a strict-blind reader should receive only the packet CSV plus rubric; the KEY remains in-repo, so distribution must be controlled. No independent coordinator, no-lookup reviewer or sealed response set is recorded. No phonetic accuracy, language-family result or translation is established.
+
+**Goal / evidence / falsification:** disclose sign-value confidence first, then run held-out language-family tests only after blind review. A value that fails the frozen rubric remains downgraded; a self-referential ledger cannot validate its own values.
+
+**Wasted effort / capacity:** further static recounts and language-family scoring are premature. The bottleneck is independent staffing and blinding, not compute.
+
+**Ethics / website:** keep SigLA CC BY-NC-SA 4.0 separate from GORILA restrictions; do not redistribute restricted material. PR #38 proposes the 43-entry inventory-first status, but remains unmerged; main-site ten-sign framing is still stale. The sibling Claude config remains marked bootstrap; no direct edit made.
+
+**Measurable improvement / decision:** verified the 43-row ledger and identified the practical blinding requirement. Next action: appoint an independent coordinator and no-lookup reviewer, distribute only the frozen packet plus rubric (not the atlas/KEY), seal responses, then adjudicate disagreements before any language-family scoring.
