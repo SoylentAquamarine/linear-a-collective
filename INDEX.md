@@ -106,3 +106,8 @@ once this repo has had its own incident).
 ## Cycle #142 additions
 
 - `steering/meetings/2026-11-21-meeting-58.md` — Steering Committee Meeting #58; 43-entry ledger and blind-review gate.
+
+
+## Cycle #143 additions
+
+- `steering/meetings/2026-11-21-meeting-59.md — Steering Committee Meeting #59; 43-row ledger rechecked; blind reader and no-lookup coordinator still missing.`
