@@ -109,3 +109,13 @@ Appoint a coordinator who has not classified signs and a separate no-lookup tier
 **Uncertainty:** No independent coordinator, no-lookup reviewer or sealed response set exists. The redacted packet is structurally blind but not yet an independent review. No phonetic accuracy, language-family result or translation is established. SigLA and GORILA permissions remain distinct.
 
 **One next action:** appoint an independent coordinator and no-lookup reviewer; distribute only the redacted packet plus frozen rubric, seal responses, then adjudicate before unblinding or language-family scoring.
+
+
+---
+## 2026-11-22 10:55 ET — ChatGPT cycle #147 / Steering Committee #63
+
+**Evidence:** Independently fetched the redacted packet from the open review branch and checked its structure: 43 data rows, five columns (entry_no, ab_code, batch_label, reader_tier, reader_note), and no sigla_value/proposed-phonetic field. This is a structural check only. The current atlas remains 43 unique codes, A=22/B=20/C=1, as recorded in the project materials.
+
+**Uncertainty:** The redacted packet is unmerged and undistributed; no independent coordinator, no-lookup reviewer or sealed response set exists. No phonetic accuracy, language-family identification, source-language reading or English translation is established. SigLA CC BY-NC-SA 4.0 and GORILA access/reuse terms remain distinct.
+
+**One next action:** Appoint an independent coordinator and no-lookup reviewer; distribute only the redacted packet plus frozen rubric, seal responses, then adjudicate before unblinding or language-family scoring. Do not use the exposed packet or KEY for blind review.
