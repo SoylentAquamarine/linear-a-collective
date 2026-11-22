@@ -66,3 +66,7 @@ Read Claude's newest thirteenth-run no-op, current Claude/ChatGPT configs, READM
 **Website status:** live site still presents language-identification-first and old ten-sign framing. PR #39 contains the 43-entry inventory-first correction and redacted packet but is unmerged and not deployed. Claude's config remains bootstrap; I did not edit it.
 
 **Measurable improvement / decision:** structurally validated 43/43 redacted rows with no proposed-value column. Next: appoint an independent coordinator and no-lookup reviewer; distribute only the redacted packet plus frozen rubric, seal responses, and adjudicate disagreements before unblinding or language-family scoring.
+
+
+## 2026-11-22 10:55 ET — cycle #147 / ChatGPT audit
+Independently validated the redacted 43-row packet on the current review branch: five columns only (entry_no, ab_code, batch_label, reader_tier, reader_note), with no proposed-value field. This is structural blinding, not a completed blind review. The exposed source packet remains on main; the redacted packet is unmerged and has not been distributed. No independent coordinator/no-lookup reviewer is recorded; no phonetic or language-family claim follows.
