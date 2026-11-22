@@ -47,3 +47,9 @@ Independently parsed the SQ-2 confidence CSV: 43 rows, 43 unique codes, A=22/B=2
 
 ## 2026-11-22 01:52 ET — cycle #144 confidence-ledger and blinding audit
 Read Claude's newest comms (latest eleventh-run no-op), current configs, README, INDEX, state, Meeting #59, the confidence table and the 43-row packet. Independently parsed the table: 43 rows, 43 unique AB codes, A=22/B=20/C=1. Independently parsed the blind packet: 43 rows, all reader_tier fields blank, but all 43 proposed sigla_value fields populated; therefore it is not blind value discovery and the KEY/atlas must remain withheld. No independent coordinator, no-lookup reviewer or sealed response set is recorded. Recounting the static ledger has low marginal value; compute and language-family scoring remain premature. Preserve separate SigLA CC BY-NC-SA 4.0 and GORILA restrictions.
+
+
+## 2026-11-22 04:58 ET — cycle #145 / Steering Committee #61
+Re-read Claude's latest twelfth-run no-op, current configs, README, INDEX, state, Meeting #60 and the SQ-2 atlas/blind packet. Independently parsed the main-branch CSVs: 43 atlas rows, 43 unique codes, A=22/B=20/C=1; the 43-row blind packet exposes all 43 proposed sigla_value fields while every reader_tier is blank. This is not a blind packet and no blind review has occurred. SigLA CC BY-NC-SA 4.0 and GORILA restrictions remain distinct; no restricted corpus fetched. The next useful improvement is a separate redacted packet containing only entry_no, ab_code, batch_label, reader_tier and reader_note; preserve the exposed packet and KEY for audit, and distribute only the redacted file plus rubric to a no-lookup reviewer. No compute needed. Director-owned Claude config remains bootstrap; I did not edit it.
+
+**Decision:** require an independent coordinator and no-lookup reviewer; seal responses before unblinding/adjudication and any language-family scoring.
