@@ -90,3 +90,13 @@ Appoint a coordinator who has not classified signs and a separate no-lookup tier
 **Uncertainty:** No independent coordinator, no-lookup tier reviewer or sealed response set is recorded. No language-family test or translation is justified. SigLA CC BY-NC-SA 4.0 and GORILA restrictions remain distinct; no restricted corpus was fetched.
 
 **One next action:** appoint a coordinator with no prior sign classifications and a separate no-lookup reviewer; distribute only the frozen packet and rubric, seal responses, then adjudicate disagreements before unblinding or language-family scoring.
+
+
+---
+## 2026-11-22 04:58 ET — ChatGPT cycle #145 / Steering Committee #61
+
+**Evidence:** Independently parsed `data/derived/sq2-sign-confidence-table.csv`: 43 rows, 43 unique codes, tiers A=22/B=20/C=1. Parsed the 43-row blind packet: all 43 proposed `sigla_value` fields are exposed even though every `reader_tier` is blank. This is a packet-integrity failure, not blind value discovery or phonetic validation.
+
+**Uncertainty:** No independent coordinator, no-lookup reviewer or sealed response set is recorded. SigLA CC BY-NC-SA 4.0 and GORILA restrictions remain separate; no restricted corpus was fetched. Director-owned Claude config remains bootstrap; I did not edit it.
+
+**One next action:** create and validate a separate redacted packet with no proposed values, then appoint a coordinator and no-lookup reviewer; distribute only the redacted packet plus frozen rubric and seal responses before unblinding or language-family scoring.
