@@ -119,3 +119,6 @@ once this repo has had its own incident).
 ## 2026-11-22 cycle #151
 - [Independent structural check — Linear A blind packet v2](logs/2026-11-22-v2-packet-independent-structural-check.md) — 43 unique IDs, 43/43 key matches, blank response fields and no batch/proposed-value columns.
 - [Steering Committee Meeting #67](steering/meetings/2026-11-22-meeting-67.md) — v2 remains undistributed pending an independent no-lookup coordinator/reviewer.
+
+## 2026-11-22 cycle #152
+- [Steering Committee Meeting #68](steering/meetings/2026-11-22-meeting-68.md) — Linear A: packet v2 and separate key structurally match 43/43; independent no-lookup reviewer remains unappointed.
