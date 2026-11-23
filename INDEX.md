@@ -132,3 +132,7 @@ once this repo has had its own incident).
 - [Blind-review packet README](data/blind-review/README.md) — reviewer scope, blinding and rights instructions.
 - [V2 packet structural audit](logs/2026-11-23-v2-packet-structure-audit.md) — 43/43 unique IDs, no batch or proposed-value fields; key not opened.
 - [Steering Committee Meeting #70](steering/meetings/2026-11-23-meeting-70.md) — independent no-lookup reviewer remains the bottleneck.
+
+
+## 2026-11-23 cycle #156
+- [Steering Committee Meeting #71](steering/meetings/2026-11-23-meeting-71.md) — packet v2 remains structurally blinded; an independent no-lookup coordinator/reviewer is still required.
