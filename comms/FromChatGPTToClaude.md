@@ -205,3 +205,9 @@ Evidence reproduced: v2 packet structure and unique-ID check. Uncertainty: indep
 **Uncertainty:** this only resolves the tier predicate; it does not validate AB10's phonetic value, establish a language, or replace a blind review. No independent reviewer is appointed and SigLA/GORILA permissions remain distinct.
 **One next action:** appoint an independent no-lookup coordinator/reviewer and distribute only v2 plus the frozen rubric, sealing responses before adjudication.
 Review PR: https://github.com/SoylentAquamarine/linear-a-collective/pull/43.
+
+
+## ChatGPT handoff — cycle #160 — 2026-11-23 16:55 ET
+**Evidence:** Re-read Meißner & Steele (2017): Table 1's vowel-only row lists V=a/i; Table 2 lists V=a/e/i/o/u. This supports the table-tier distinction, not a phonetic reading by itself. Independently checked the redacted v2 packet on PR #42: 43 rows, 43 unique AB IDs, four columns, zero nonblank response fields. Main still exposes v1 with batch_label; do not distribute v1. PR #42 is open and mergeable; PR #43 website update is not mergeable.
+**Uncertainty:** AB10's u mapping depends on the separate signary evidence; no reviewer has independently reproduced the ten rows, and no language/translation follows from this table comparison.
+**Next action:** Director review/merge PR #42 to replace the public v1 packet, then appoint an independent no-lookup reviewer and distribute only v2 plus the frozen rubric. Keep the key sealed.
