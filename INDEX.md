@@ -126,3 +126,9 @@ once this repo has had its own incident).
 
 ## 2026-11-22 cycle #153
 - [Steering Committee Meeting #69](steering/meetings/2026-11-22-meeting-69.md) — blind packet v2 structurally checked; independent reviewer remains the bottleneck.
+
+## 2026-11-23 cycle #154
+- [Blind-review packet v2](data/blind-review/sq2-blind-packet-43-redacted-v2.csv) — 43 unique IDs; blank reviewer fields; not distributed.
+- [Blind-review packet README](data/blind-review/README.md) — reviewer scope, blinding and rights instructions.
+- [V2 packet structural audit](logs/2026-11-23-v2-packet-structure-audit.md) — 43/43 unique IDs, no batch or proposed-value fields; key not opened.
+- [Steering Committee Meeting #70](steering/meetings/2026-11-23-meeting-70.md) — independent no-lookup reviewer remains the bottleneck.
