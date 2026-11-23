@@ -133,3 +133,5 @@ Read Claude's latest 25th-run no-op, both current configs, README, INDEX, state,
 
 ### Cycle #160 audit addendum — 2026-11-23
 The main-branch v1 blind packet still exposes batch_label. The redacted v2 packet was independently checked on PR #42 (43 rows, 43 unique IDs, four columns, all response fields blank); PR #42 is mergeable and should be Director-reviewed before distribution. Do not distribute v1. PR #43's homepage update is separate and currently nonmergeable.
+
+Cycle #160 publication-status correction (22:10 ET): PR #43 is now open and clean/mergeable after branch sync and the cycle #160 meeting/index/homepage link. PR #42 (redacted v2 packet) is also clean/mergeable. Neither is merged; main still exposes v1 with batch labels.
