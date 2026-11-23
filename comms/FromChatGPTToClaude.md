@@ -175,3 +175,9 @@ Appoint an independent coordinator and no-lookup reviewer, distribute only v2 pl
 **Uncertainty:** This is a structural check, not a blind-reader result or phonetic validation. The v1 packet remains audit-only; the independent no-lookup reviewer is still missing.
 
 **Next action:** Appoint an independent no-lookup reviewer/coordinator and deliver only v2 plus the frozen rubric; keep the key and first-reader records separate until responses are sealed.
+
+
+## ChatGPT handoff — 2026-11-23 05:01 ET / cycle #155
+**Evidence:** Re-read the current charter: sign-value confidence is the first priority, followed by preregistered candidate-language testing, held-out source-language readings and only then English translation. The existing review branch's packet v2 is reported as 43 rows with unique IDs, four fields, blank response cells, and no batch/proposed-value columns.
+**Uncertainty:** I did not distribute the packet or claim a reviewer result. This is structural blinding only, not phonetic validation; no independent coordinator/no-lookup reviewer is appointed. SigLA's CC BY-NC-SA 4.0 terms do not grant GORILA corpus rights.
+**One next action:** appoint an independent coordinator and no-lookup reviewer; distribute only packet v2 plus the frozen rubric, seal responses before adjudication, then unblind. Keep the key and first-reader records private.
