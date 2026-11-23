@@ -99,3 +99,10 @@ once this repo has had its own incident).
 
 - logs/2026-11-17-cycle100-packet-atlas-join-precommit.md / -result.md — independent packet/table join recheck (confirms ChatGPT #100).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## ChatGPT independent steering
+- [2026-11-23 cycle #158](steering/meetings/chatgpt-2026-11-23-cycle-158.md) — v2 blind packet rechecked: 43/43 unique IDs, blank response fields, undistributed; independent no-lookup reviewer remains the bottleneck; prior ChatGPT review archive: [PR #42](https://github.com/SoylentAquamarine/linear-a-collective/pull/42).
+- [2026-11-23 cycle #159](steering/meetings/chatgpt-2026-11-23-cycle-159.md) — AB10 u independently checked as Table-2-only Tier B under the dated correction; v2 blind packet remains undistributed; Director minutes: [#17](steering/meetings/2026-09-29-meeting-17.md); review PR: [#43](https://github.com/SoylentAquamarine/linear-a-collective/pull/43).
+
+- [ChatGPT steering cycle #160](`steering/meetings/chatgpt-2026-11-23-cycle-160.md`) — 43-row redacted v2 packet independently checked; v1 batch labels remain public until PR #42 merges.

@@ -45,14 +45,15 @@
   <main id="content">
     <section id="overview" class="route active" aria-labelledby="overview-title">
       <div class="hero">
-        <div class="eyebrow"><span class="live-dot"></span> Goal #1 · Identify the language, then translate</div>
+        <div class="eyebrow"><span class="live-dot"></span> Goal #1 · Establish sign-by-sign confidence</div>
         <h1 id="overview-title">We can partly sound out Linear A.<br><em>We still can't understand it.</em></h1>
-        <p class="lede">Linear A's successor script, Linear B, was deciphered in 1952 — and because many Linear A signs share shapes with Linear B signs of known sound, we can often plausibly "sound out" Linear A sign-sequences. But the resulting sequences don't confidently match any known language. Our first goal is to test that gap rigorously. Our second is to document every step here. Our third is to publish the useful things we discover along the way — including mistakes and dead ends.</p>
+        <p class="lede">Linear A's successor script, Linear B, was deciphered in 1952 — and because many Linear A signs share shapes with Linear B signs of known sound, we can often plausibly "sound out" Linear A sign-sequences. But the resulting sequences don't confidently match any known language. Our first task is to establish which borrowed Linear B sign values are secure, inferred or unknown, using an independent blind review and a frozen rubric. Only then will we test named language families with held-out methods; an English translation follows only if a candidate survives. We publish the evidence, failures and limits in plain language.</p>
         <div class="hero-actions">
           <a class="button primary" href="#highlights-title">See where things stand</a>
           <a class="button secondary" href="#dialogue">Read the starting plan</a>
         </div>
       </div>
+      <p class="latest-meeting"><a href="https://github.com/SoylentAquamarine/linear-a-collective/blob/main/steering/meetings/2026-09-29-meeting-17.md">Latest Research Director meeting: #17</a> · <a href="https://github.com/SoylentAquamarine/linear-a-collective/blob/chatgpt/cycle158-20261123-linear-a/steering/meetings/chatgpt-2026-11-23-cycle-160.md">Latest ChatGPT steering: cycle #160</a></p>
 
       <section class="highlights-section" aria-labelledby="highlights-title">
         <div class="highlights-intro">
@@ -75,15 +76,21 @@
           </article>
           <article class="highlight-card">
             <span class="highlight-number">02</span>
+            <h3>The blind-review packet now hides source batches</h3>
+            <p>An audit found that the first packet's batch labels mapped one-to-one to first-reader logs and exposed the old tier mix. Packet v2 removes those labels while keeping 43 unique sign IDs and blank response fields. It is prepared but not distributed; no phonetic values have been independently validated.</p>
+            <a class="read-more" href="https://github.com/SoylentAquamarine/linear-a-collective/blob/main/data/blind-review/README.md">See the corrected blind-review procedure →</a>
+          </article>
+          <article class="highlight-card">
+            <span class="highlight-number">03</span>
             <h3>A recurring formula is now mapped across 17 inscriptions</h3>
             <p>A single peer-reviewed study documents 11 exact occurrences of the standard opening and six one-off variants, all retaining the core <code>-i-*301-</code>. Our table is a second-hand compilation from that study, not yet a direct GORILA corpus check and not an English reading.</p>
             <a class="read-more" href="#confirmed-findings">See what is verified and what remains open →</a>
           </article>
           <article class="highlight-card">
-            <span class="highlight-number">03</span>
+            <span class="highlight-number">04</span>
             <h3>The first ten SigLA readings are now independently spot-checked</h3>
-            <p>SigLA's own sign list directly gives AB01–AB10 as <em>da, ro, pa, te, to, na, di, a, se, u</em>. We reproduced that list and verified the dataset's CC BY-NC-SA 4.0 license. This confirms catalog labels—not whether each sound value is securely borrowed, inferred, or contested. A later ten-sign confidence table has a rule mismatch for AB10 (<em>u</em>), so its tier count remains provisional until the frozen rules are applied consistently.</p>
-            <a class="read-more" href="../comms/meetings/2026-09-28-steering-committee-11.md">See the direct check and evidence boundary →</a>
+            <p>SigLA's own sign list directly gives AB01–AB10 as <em>da, ro, pa, te, to, na, di, a, se, u</em>. We reproduced that list and verified the dataset's CC BY-NC-SA 4.0 license. This confirms catalog labels—not whether each sound value is securely borrowed, inferred, or contested. The dated correction makes the rule explicit: Table 1 is Tier A, Table 2 only is Tier B, and neither/contested is Tier C. AB10 (<em>u</em>) is Table-2-only and Tier B. This resolves a wording mismatch, not the sound value or language.</p>
+            <a class="read-more" href="../logs/2026-09-28-sq2-confidence-rubric-freeze.md">See the direct check and evidence boundary →</a>
           </article>
         </div>
       </section>
