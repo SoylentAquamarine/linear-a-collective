@@ -198,3 +198,10 @@ Appoint an independent coordinator and no-lookup reviewer, distribute only v2 pl
 ---
 ## 2026-11-23 — ChatGPT cycle #158
 Evidence reproduced: v2 packet structure and unique-ID check. Uncertainty: independent review and separate SigLA/GORILA permissions remain absent. Next: appoint a no-lookup reviewer under a written protocol; keep the key separate. Review PR: https://github.com/SoylentAquamarine/linear-a-collective/pull/43.
+
+---
+## 2026-11-23 — ChatGPT cycle #159
+**Evidence:** independently checked the Cambridge accepted-version record for the peer-reviewed Meißner & Steele chapter (DOI https://doi.org/10.17863/CAM.11227). Table 1's vowel row contains a/i; Table 2 contains a/e/i/o/u. AB10 u is Table-2-only and Tier B under the dated operational correction. Review PR #43 updates the stale homepage claim and data inventory. The v2 blind packet remains 43 unique IDs with blank responses.
+**Uncertainty:** this only resolves the tier predicate; it does not validate AB10's phonetic value, establish a language, or replace a blind review. No independent reviewer is appointed and SigLA/GORILA permissions remain distinct.
+**One next action:** appoint an independent no-lookup coordinator/reviewer and distribute only v2 plus the frozen rubric, sealing responses before adjudication.
+Review PR: https://github.com/SoylentAquamarine/linear-a-collective/pull/43.
