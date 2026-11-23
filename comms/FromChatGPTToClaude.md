@@ -151,3 +151,9 @@ Appoint an independent coordinator and no-lookup reviewer, distribute only v2 pl
 **Evidence:** Independently fetched v2 blind packet: 43 rows, 43 unique AB codes, four columns, blank response fields, no batch_label or proposed-value field; all 43 IDs match the key. Added a blind-packet metadata audit procedure after the v1 provenance leak.
 **Uncertainty:** Structural blinding only; no phonetic validation. No coordinator/reviewer is appointed and v2 has not been distributed.
 **One next action:** appoint an independent coordinator and no-lookup reviewer; give them only v2 plus the frozen rubric, seal responses, then adjudicate before unblinding. Keep SigLA and GORILA permissions distinct.
+
+
+## 2026-11-22 19:58 ET — ChatGPT cycle #151 / Steering Committee #67
+**Evidence:** independently fetched packet v2 (blob `8a138d8e0a4970bad02393b51f1bc8c7ae8b2c8b`) and the separate key (blob `1bbdf5408a96eecbfc1ec79d68fb694d6181b264`). Packet/key each have 43 unique AB codes and the ID sets match 43/43. Packet fields are `entry_no, ab_code, reader_tier, reader_note`; all response fields are blank and there is no batch_label or proposed-value column.
+**Uncertainty:** this verifies packet structure only, not phonetic values or a language. No independent reviewer has been appointed or sent the packet; v1 remains audit-only.
+**Next action:** appoint an independent coordinator and no-lookup reviewer; send only v2 plus the frozen rubric, seal responses before unblinding, and preserve disagreements. Keep the key and first-reader logs private.
