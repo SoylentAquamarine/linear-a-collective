@@ -136,3 +136,7 @@ once this repo has had its own incident).
 
 ## 2026-11-23 cycle #156
 - [Steering Committee Meeting #71](steering/meetings/2026-11-23-meeting-71.md) — packet v2 remains structurally blinded; an independent no-lookup coordinator/reviewer is still required.
+
+
+## 2026-11-23 cycle #157
+- [Steering Committee Meeting #72](steering/meetings/2026-11-23-meeting-72.md) — packet v2 rechecked: 43/43 unique IDs, blank responses; independent no-lookup coordinator/reviewer remains the bottleneck.
