@@ -5,9 +5,10 @@ reproducible.
 
 ## Present
 
-Nothing yet. See `config/sidequests.md` SQ-1 (corpus canonicalization) and
-SQ-2 (sign-value confidence atlas) — both are required first groundwork
-before any statistical or linguistic analysis can begin.
+- `derived/sq2-sign-confidence-table.csv` — 43 classified entries (A=22, B=20, C=1) consolidated from the project’s first-reader logs. This is a confidence ledger, not independent phonetic validation, language identification or translation.
+- `scripts/consolidate_sq2_atlas.py` — deterministic consolidation of already-recorded tier rows; it does not fetch sources or validate values.
+- No canonical transliterated GORILA corpus is present or rights-cleared. SQ-1 remains open.
+- The redacted v2 blind-review packet is proposed in PR #43; it is not yet distributed and is not a substitute for a canonical corpus.
 
 ## Needed
 
