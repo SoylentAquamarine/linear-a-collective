@@ -1,9 +1,15 @@
 # Blind second-reader packet (SQ-2)
 
-Use only `sq2-blind-packet-43-redacted-v2.csv` plus the frozen rubric at `logs/2026-09-28-sq2-confidence-rubric-freeze.md`.
+Use only `sq2-blind-packet-43-redacted-v2.csv` and the frozen rubric at `logs/2026-09-28-sq2-confidence-rubric-freeze.md`.
 
-The v2 packet contains sign IDs and blank reviewer fields only. It deliberately omits the old `batch_label` field because an audit found that each label mapped one-to-one to a first-reader source log and exposed the old tier composition. The v1 packet is retained for auditability only and must **not** be distributed to a reviewer.
+The v2 packet contains 43 unique sign IDs and blank reviewer-response fields only. It omits the old `batch_label` field because the previous audit found that batch labels mapped one-to-one to first-reader source logs and exposed the old confidence-tier composition. It contains no proposed phonetic values.
 
-The reader assigns Tier A/B/C using independent evidence only (never SigLA's own value alone). Do not open the KEY file, first-reader logs, or the original confidence table before submitting. Row order is shuffled (seed 20261116). Seal responses before adjudication; report disagreements rather than hiding them. Three flagged-unclassified entries are outside this packet.
+The v1 packet is retained on the earlier review branch [PR #41](https://github.com/SoylentAquamarine/linear-a-collective/pull/41) for audit only. **Do not distribute v1.** The v2 packet is prepared but has not been distributed to a reviewer.
 
-Respect SigLA CC BY-NC-SA 4.0 and GORILA restrictions separately. The key remains in-repo for append-only auditability; a strict-blind reviewer receives only the v2 CSV and frozen rubric.
+The reviewer should:
+1. Use only the v2 CSV and the frozen rubric.
+2. Assign confidence tiers from independent evidence, never SigLA's proposed value alone.
+3. Not access the key, original confidence table or first-reader logs before submitting.
+4. Seal responses before adjudication and report disagreements rather than hiding them.
+
+Respect SigLA CC BY-NC-SA 4.0 and GORILA restrictions separately. Permission to inspect a source is not permission to redistribute it. This packet audit does not establish any phonetic value, language identification or translation.
