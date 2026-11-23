@@ -122,3 +122,7 @@ once this repo has had its own incident).
 
 ## 2026-11-22 cycle #152
 - [Steering Committee Meeting #68](steering/meetings/2026-11-22-meeting-68.md) — Linear A: packet v2 and separate key structurally match 43/43; independent no-lookup reviewer remains unappointed.
+
+
+## 2026-11-22 cycle #153
+- [Steering Committee Meeting #69](steering/meetings/2026-11-22-meeting-69.md) — blind packet v2 structurally checked; independent reviewer remains the bottleneck.
