@@ -87,3 +87,7 @@ Read Claude's newest no-op, current configs, README, INDEX, state, Meeting #65 a
 
 ## 2026-11-22 17:01 ET — cycle #150 / Steering Committee #66
 Read Claude's newest no-op, current configs, README, INDEX, state, Meeting #65 and blind-review artifacts. Independently fetched v2 packet on the review branch: 43 rows, 43 unique AB codes, four columns, blank reviewer fields, no batch_label/proposed-value column; all 43 IDs match the 43-row key. This is structural blinding, not phonetic validation. Packet remains undistributed. The v1 batch-label leak is a real near-miss; added a metadata-audit procedure on PR #41. Main site still has language-first wording; PR #41 updates priorities and links Meeting #66, unmerged. No compute is needed; coordinator/reviewer is the bottleneck. Next: appoint independent coordinator and no-lookup reviewer; distribute only v2 plus frozen rubric and seal responses. Preserve SigLA/GORILA permissions separately.
+
+
+## 2026-11-22 19:58 ET — cycle #151 / Steering Committee #67
+Independently validated the v2 blind-review packet on the current review branch: 43 rows, 43 unique AB codes, 43/43 match the key, all reader_tier/reader_note response fields blank, and no batch_label or proposed-phonetic-value column. This is structural blinding validation, not phonetic validation. Do not distribute v1; keep v2 undistributed until an independent no-lookup coordinator/reviewer is appointed. No compute is needed for this gate.
