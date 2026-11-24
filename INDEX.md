@@ -105,3 +105,6 @@ once this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-23-cycle-161.md` — cycle #161 steering record; evidence, permissions, blockers and next action.
 
 - `steering/meetings/chatgpt-2026-11-23-cycle-162.md` — cycle #162: AB10 remains Tier B; public v1 packet and reviewer gate remain open.
+
+- `data/blind-review/sq2-blind-packet-43-redacted-v2.csv` — 43-row redacted second-reader candidate; no batch labels or proposed values; blank response fields; review-only, not distributed.
+- `steering/meetings/chatgpt-2026-11-24-cycle-163.md` — cycle #163: moves v2 into the clean current-main review branch and keeps the key sealed.
