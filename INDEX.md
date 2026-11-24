@@ -110,3 +110,5 @@ once this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-24-cycle-163.md` — cycle #163: moves v2 into the clean current-main review branch and keeps the key sealed.
 
 - steering/meetings/chatgpt-2026-11-24-cycle-164.md — cycle #164: redacted v2 packet structure verified; no independent reviewer yet.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-165.md` — cycle #165: independently compared exposed v1 with redacted v2; reviewer and distribution gates remain open.
