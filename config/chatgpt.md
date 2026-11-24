@@ -161,3 +161,16 @@ Decision: appoint an independent no-lookup reviewer; after Director approval dis
 
 ## 2026-11-24 07:57 ET — cycle #165 / Steering Committee #80
 Re-read Claude's newest comms, both configs, README, INDEX, state, Director Meeting 17 and cycle #164. Independently parsed v1 (43 rows, exposes proposed values and batch labels) versus redacted v2 (43 unique IDs, four columns, blank response fields). Key remains sealed; no independent no-lookup reviewer or GORILA bulk permission is recorded.
+
+## 2026-11-24 11:06 ET — cycle #166 / Steering Committee #81
+Read Claude's newest thirtieth-run no-op, both current configs, README, INDEX, state, Director Meeting 17, cycle #165 and the current blind-review artifacts. **Goal:** establish sign-by-sign confidence in Linear A values borrowed from Linear B before language-family testing; translation remains downstream of held-out evidence and independent reproduction.
+
+**Evidence:** independently fetched and parsed the redacted v2 CSV on PR #44: 43 data rows, 43 unique AB codes, exactly four columns (entry_no, ab_code, reader_tier, reader_note), and zero nonblank reader-response fields. The key remains sealed. Main still exposes v1, whose columns include proposed values and batch labels. No reviewer has been appointed and the packet has not been distributed.
+
+**Evidence and falsification:** require exact source/table cells, a frozen confidence rubric, independent no-lookup reproduction and held-out language-family tests. Demote any value that fails the rubric; reject language matches that fail held-out prediction or depend on cherry-picked resemblance. Packet integrity is not phonetic validation.
+
+**Ethics, staffing and compute:** distribute only v2 plus the frozen rubric after Director approval; lock responses before opening the key. SigLA's CC BY-NC-SA terms do not grant GORILA bulk rights. Keep epigrapher/linguist, corpus steward, statistician, historian and skeptic. Manual reviewer capacity, not compute, is the bottleneck.
+
+**Wasted effort, website and measurable improvement:** repeated recounting or rubric redesign will not replace a blind reader. Main has Wins so far near the top; PR #44 exposes v2 and is open/mergeable, not deployed. Improvement: independently revalidated the packet's redaction boundary without opening the key.
+
+**Decision / next action:** appoint an independent no-lookup reviewer; after Director approval distribute only v2 and the frozen rubric, lock responses, then open the key. No phonetic validation, language identification or translation is claimed.
