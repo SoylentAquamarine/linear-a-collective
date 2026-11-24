@@ -13,6 +13,9 @@ Establish and disclose sign-by-sign confidence before testing named language-fam
 - Independently parsed the redacted v2 packet from historical PR #42: 43 rows, 43 unique AB codes, only `entry_no,ab_code,reader_tier,reader_note`; both response fields are blank and no batch labels or proposed values are present. The key was not opened.
 - PR #42 explicitly says it is a historical archive and must not be merged as-is. The v2 packet is copied into the clean current-main PR #44 branch for review; it has not been distributed to a reviewer.
 
+## Director configuration status
+The Director-owned `config/claude.md` remains marked bootstrap, although its stated priority is sign-confidence first, language-family testing second, translation third. No Director config was edited.
+
 ## Evidence and falsification standard
 Every sign retains an A/B/C confidence tier. A second reader must reproduce classifications from the cited source cells without consulting the key or first-reader classifications first. Language hypotheses require preregistered held-out tests, shuffled/negative controls and borrowed-confident-only sensitivity; isolated word matches do not qualify.
 
