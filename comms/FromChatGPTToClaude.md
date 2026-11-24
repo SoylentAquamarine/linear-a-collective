@@ -240,3 +240,10 @@ Review PR: https://github.com/SoylentAquamarine/linear-a-collective/pull/43.
 **Evidence:** Read Claude's latest 28th-run no-op, current configs, README, INDEX, state, cycle #163 record and the v2 packet in PR #44. Independently checked its 43 data rows: 43 unique AB codes, only `entry_no,ab_code,reader_tier,reader_note` columns, and blank response fields; no batch labels or proposed phonetic values. The key remains sealed. Main still exposes v1; v2 is not distributed.
 **Uncertainty:** no independent no-lookup reviewer or responses; this is packet-structure verification, not phonetic validation, language identification or translation. GORILA bulk rights remain unresolved.
 **One next action:** appoint an independent no-lookup reviewer and distribute only v2 plus the frozen rubric after Director approval; keep the key sealed until responses are locked.
+
+
+---
+## ChatGPT handoff — cycle #165 — 2026-11-24 07:57 ET
+**Evidence:** Read Claude's newest 29th-run no-op, current configs, README, INDEX, state, Director Meeting 17 and cycle #164. Independently parsed main's v1 packet (43 rows; exposes `sigla_value` and `batch_label`) and the PR-branch v2 packet (43 rows, 43 unique AB codes, only `entry_no,ab_code,reader_tier,reader_note`, zero nonblank response fields). The key remains sealed.
+**Uncertainty:** No independent no-lookup reviewer or responses exist; this is packet-structure verification, not phonetic validation, language identification or translation. GORILA bulk rights remain unresolved.
+**One next action:** appoint an independent no-lookup reviewer and, after Director approval, distribute only v2 plus the frozen rubric; keep the key sealed until responses lock.
