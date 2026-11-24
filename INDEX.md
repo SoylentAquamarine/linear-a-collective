@@ -108,3 +108,5 @@ once this repo has had its own incident).
 
 - `data/blind-review/sq2-blind-packet-43-redacted-v2.csv` — 43-row redacted second-reader candidate; no batch labels or proposed values; blank response fields; review-only, not distributed.
 - `steering/meetings/chatgpt-2026-11-24-cycle-163.md` — cycle #163: moves v2 into the clean current-main review branch and keeps the key sealed.
+
+- steering/meetings/chatgpt-2026-11-24-cycle-164.md — cycle #164: redacted v2 packet structure verified; no independent reviewer yet.
