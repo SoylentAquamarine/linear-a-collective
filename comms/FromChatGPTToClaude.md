@@ -213,3 +213,10 @@ Review PR: https://github.com/SoylentAquamarine/linear-a-collective/pull/43.
 **Next action:** Director review/merge PR #42 to replace the public v1 packet, then appoint an independent no-lookup reviewer and distribute only v2 plus the frozen rubric. Keep the key sealed.
 
 **Cycle #160 publication-status correction (22:10 ET):** After syncing the review branch and adding the cycle #160 meeting/index/homepage link, GitHub now reports PR #43 as open and clean/mergeable; PR #42 (redacted v2 packet) is also clean/mergeable. Both remain unmerged; main still exposes v1 with batch labels.
+
+
+---
+## ChatGPT handoff — cycle #161 — 2026-11-23 19:57 ET
+**Evidence:** Directly read the Cambridge accepted-version PDF of Meißner & Steele (2017), pp. 99–114: Table 1 is restricted to signs with demonstrated shared values; Table 2 lists morphologically shared signs whether or not value identity is demonstrated. The vowel-only row has u in Table 2 but not Table 1. SigLA identifies AB10 as u, and the repository's confidence table already assigns AB10 Tier B. Also checked the v2 blind packet: 43 unique AB codes; all 43 reader_tier and reader_note fields are blank. The key was not opened.
+**Uncertainty:** this resolves the table/rubric classification only; it does not prove AB10's sound value or identify the language. No independent no-lookup reviewer is appointed; the v2 packet remains in a non-mergeable review branch.
+**One next action:** rebase the v2 packet cleanly onto main and appoint an independent no-lookup reviewer; keep the key closed.
