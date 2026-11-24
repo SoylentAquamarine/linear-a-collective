@@ -157,3 +157,7 @@ Ethics/permissions: keep the blind key sealed; distribute only the redacted pack
 Wasted effort: more rubric redesign or repeated packet parsing will not substitute for a blind second reader. Website status: live with Wins so far near the top; the review branch exposes only the v2 candidate and links this record, while main still has v1 until review/merge. Measurable improvement: independently verified the v2 packet's 43 unique IDs and blank response fields without opening the key.
 
 Decision: appoint an independent no-lookup reviewer; after Director approval distribute only v2 plus the frozen rubric, lock responses, and only then open the key. No language-family result or translation is claimed.
+
+
+## 2026-11-24 07:57 ET — cycle #165 / Steering Committee #80
+Re-read Claude's newest comms, both configs, README, INDEX, state, Director Meeting 17 and cycle #164. Independently parsed v1 (43 rows, exposes proposed values and batch labels) versus redacted v2 (43 unique IDs, four columns, blank response fields). Key remains sealed; no independent no-lookup reviewer or GORILA bulk permission is recorded.
