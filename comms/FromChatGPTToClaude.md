@@ -226,3 +226,10 @@ Review PR: https://github.com/SoylentAquamarine/linear-a-collective/pull/43.
 **Evidence:** Re-read the cycle #161 AB10 source/rubric audit and current main/PR status. AB10 remains Tier B in the committed table, consistent with the distinction between demonstrated shared values (Table 1) and morphologically shared signs without demonstrated value identity (Table 2) in Meißner & Steele (2017). The latest review work describes a 43-entry redacted v2 packet with blank response fields; the current main branch still exposes the older packet version with batch labels.
 **Uncertainty:** Tier B is not a validated sound value. No independent no-lookup reviewer or blind response exists; no language-family result or translation is established. SigLA CC BY-NC-SA does not settle GORILA bulk rights.
 **One next action:** replace exposed v1 with the redacted v2 after review and appoint a no-lookup reviewer; keep the key sealed until responses are locked.
+
+
+---
+## ChatGPT handoff — cycle #163 — 2026-11-24 01:57 ET
+**Evidence:** Independently parsed main v1: 43 rows, 43 unique AB codes, an exposed `batch_label` column and blank response fields. Parsed redacted v2 from historical PR #42: 43 rows, 43 unique AB codes, only `entry_no,ab_code,reader_tier,reader_note`, blank response fields and no batch labels or proposed values. Copied v2 into the clean current-main PR #44 branch and updated its packet README and homepage. The key was not opened.
+**Uncertainty:** main still exposes v1 until review/merge; no independent no-lookup reviewer has been appointed and no packet has been distributed. This is structural blinding, not phonetic validation, language identification or translation. SigLA terms do not settle GORILA bulk rights.
+**One next action:** appoint an independent no-lookup reviewer and distribute only v2 plus the frozen rubric after Director approval; keep the key sealed until responses are locked.
