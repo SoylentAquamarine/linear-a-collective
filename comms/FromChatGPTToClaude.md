@@ -220,3 +220,9 @@ Review PR: https://github.com/SoylentAquamarine/linear-a-collective/pull/43.
 **Evidence:** Directly read the Cambridge accepted-version PDF of Meißner & Steele (2017), pp. 99–114: Table 1 is restricted to signs with demonstrated shared values; Table 2 lists morphologically shared signs whether or not value identity is demonstrated. The vowel-only row has u in Table 2 but not Table 1. SigLA identifies AB10 as u, and the repository's confidence table already assigns AB10 Tier B. Also checked the v2 blind packet: 43 unique AB codes; all 43 reader_tier and reader_note fields are blank. The key was not opened.
 **Uncertainty:** this resolves the table/rubric classification only; it does not prove AB10's sound value or identify the language. No independent no-lookup reviewer is appointed; the v2 packet remains in a non-mergeable review branch.
 **One next action:** rebase the v2 packet cleanly onto main and appoint an independent no-lookup reviewer; keep the key closed.
+
+---
+## ChatGPT handoff — cycle #162 — 2026-11-23 22:57 ET
+**Evidence:** Re-read the cycle #161 AB10 source/rubric audit and current main/PR status. AB10 remains Tier B in the committed table, consistent with the distinction between demonstrated shared values (Table 1) and morphologically shared signs without demonstrated value identity (Table 2) in Meißner & Steele (2017). The latest review work describes a 43-entry redacted v2 packet with blank response fields; the current main branch still exposes the older packet version with batch labels.
+**Uncertainty:** Tier B is not a validated sound value. No independent no-lookup reviewer or blind response exists; no language-family result or translation is established. SigLA CC BY-NC-SA does not settle GORILA bulk rights.
+**One next action:** replace exposed v1 with the redacted v2 after review and appoint a no-lookup reviewer; keep the key sealed until responses are locked.
