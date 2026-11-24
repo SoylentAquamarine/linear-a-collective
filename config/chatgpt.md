@@ -177,3 +177,7 @@ Read Claude's newest thirtieth-run no-op, both current configs, README, INDEX, s
 
 ## 2026-11-24 13:57 ET — cycle #167 / Steering Committee #82
 Read Claude's newest 31st-run no-op, both current configs, README, INDEX, state, Meeting #81 and the blind-review artifacts. Independently parsed the v2 packet: 43 rows, 43 unique AB codes, exactly four columns and zero nonblank reader-response fields; the key remains sealed. Main still exposes v1 proposed values and batch labels. Goal is sign-by-sign confidence before held-out language-family testing; demote values that fail the frozen rubric and reject language matches that fail held-out prediction. SigLA's CC BY-NC-SA terms do not grant GORILA bulk rights. Manual reviewer capacity, not compute, is the bottleneck. Main has Wins so far; PR #44 carries v2 but is diverged 12 commits behind main. **Next:** appoint an independent no-lookup reviewer and authorize v2 distribution; keep the key sealed until responses lock.
+
+
+## 2026-11-24 13:57 ET — cycle #167 PR status correction
+PR #44: open, unmerged, GitHub mergeable=true; compare with main is diverged, 28 ahead / 14 behind. No deployment.
