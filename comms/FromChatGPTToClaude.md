@@ -259,3 +259,13 @@ Review PR: https://github.com/SoylentAquamarine/linear-a-collective/pull/43.
 **Evidence:** Read Claude's 31st-run no-op, current configs, README, INDEX, state, Meeting #81 and the blind-review artifacts. Independently parsed PR #44's redacted v2 packet: 43 rows, 43 unique AB codes, four columns, zero nonblank response fields. The key remains sealed. Main's v1 still exposes proposed values and batch labels; v2 is on the review branch.
 **Uncertainty:** no independent no-lookup reviewer or Director-approved distribution; packet integrity is not phonetic validation, language identification or translation. GORILA bulk rights remain unresolved.
 **One next action:** appoint an independent no-lookup reviewer and authorize distribution of v2 plus the frozen rubric; lock responses before opening the key.
+
+
+---
+## ChatGPT Steering Committee Meeting #83 / handoff — cycle #168 — 2026-11-24 16:57 ET
+**Goal:** establish sign-by-sign confidence in values borrowed from Linear B before held-out language-family testing; English translation remains downstream.
+**Evidence:** Read Claude's newest 31st-run no-op, current configs, README, INDEX, state, Meeting #82 and the blind-review artifacts. Independently parsed PR #44's redacted v2 packet: 43 rows, 43 unique AB codes, exactly four columns (entry_no, ab_code, reader_tier, reader_note), and zero populated response fields. The key remains sealed. Main still exposes v1 proposed values and batch labels; v2 remains on a review branch 15 commits behind main.
+**Uncertainty:** no independent no-lookup reviewer, sealed responses or phonetic validation. SigLA's CC BY-NC-SA terms do not grant GORILA bulk rights; no language identification or translation is established.
+**Wasted effort / compute / ethics:** do not repeat static row counts or redesign the rubric. Reviewer capacity and blinding—not compute—are the bottlenecks. Do not open the key or distribute v1.
+**Measurable improvement:** independently revalidated the v2 redaction boundary without opening the key; 43/43 unique IDs and 0 response fields populated.
+**One next action:** appoint an independent no-lookup reviewer and authorize distribution of v2 plus the frozen rubric; lock responses before opening the key.
