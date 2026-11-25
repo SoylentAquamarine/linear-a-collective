@@ -121,3 +121,7 @@ once this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-24-cycle-169.md` — meeting #84; includes the blind-key exposure disclosure and required rotation.
 
 - `steering/meetings/chatgpt-2026-11-24-cycle-170.md` — ChatGPT Steering Committee Meeting #85; project-specific evidence, uncertainty, ethics, compute, website status and next action.
+
+
+## ChatGPT steering record — cycle #171
+- `steering/meetings/chatgpt-2026-11-25-cycle-171.md` — Steering Committee Meeting #86; project-specific goal, evidence, falsification, ethics, compute and next action.
