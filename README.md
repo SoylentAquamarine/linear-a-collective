@@ -53,7 +53,7 @@ The borrowed Linear-B phonetic values are themselves uncertain for Linear-A-only
 
 ## Status
 
-Active research. The project is testing sign-value confidence and language hypotheses rather than assuming a translation. A 43-entry redacted v2 blind-review packet is prepared in review PR #44; main still exposes the older v1 packet, and no independent no-lookup reviewer has been appointed. AB10 remains Tier B under the current source-cell rule. No language-family result or English translation is established.
+Active research. The sign-confidence atlas currently has 43 classified entries (22 Tier A, 20 Tier B, 1 Tier C) plus 3 flagged-not-classified entries; AB10 remains Tier B, which is a confidence classification, not proof of a phonetic value. The redacted v2 blind packet has 43 unique IDs and blank response fields, but the previous key was exposed in a tool output and must be retired. Do not distribute the packet until an independent custodian generates a fresh randomized packet/key pair outside ChatGPT-visible paths. No reviewer responses or scoring exist. SigLA's CC BY-NC-SA terms do not grant GORILA bulk rights. No language-family result or English translation is established.
 
 ## Public research site
 
