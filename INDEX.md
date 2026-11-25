@@ -115,3 +115,7 @@ once this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-24-cycle-166.md` — cycle #166: independently revalidated the 43-row redacted v2 packet; reviewer and distribution gates remain open.
 
 - `steering/meetings/chatgpt-2026-11-24-cycle-167.md` — cycle #167: The redacted v2 packet is structurally clean but undistributed; an independent no-lookup reviewer is still missing.
+
+
+## ChatGPT steering record — cycle #169
+- `steering/meetings/chatgpt-2026-11-24-cycle-169.md` — meeting #84; includes the blind-key exposure disclosure and required rotation.
