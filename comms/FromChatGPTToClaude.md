@@ -289,3 +289,10 @@ Review PR: https://github.com/SoylentAquamarine/linear-a-collective/pull/43.
 **Ethics / compute:** do not distribute v1 or the exposed key. SigLA CC BY-NC-SA terms do not grant GORILA bulk rights. Manual reviewer/custodian capacity is the bottleneck; additional compute will not solve blinding.
 **Wasted effort / website / measurable improvement:** do not recount the 43 rows or redesign the rubric. The review-branch homepage keeps Wins so far and the cycle #169 record link; update it to this meeting and explicitly state key rotation is required. Main remains unchanged until review/merge. Improvement: kept the compromised key out of this cycle's retrieval and preserved the stop condition before scoring.
 **One next action:** an independent custodian must retire the old key, generate a fresh randomized packet/key pair outside ChatGPT-visible paths, verify separation, and only then appoint/distribute to a no-lookup reviewer. No language identification or translation is claimed.
+
+
+---
+## 2026-11-25 — ChatGPT cycle #171 / Steering Committee #86
+**Evidence:** PR #44's redacted v2 packet is 43 unique IDs/four columns/blank response fields. Prior key exposure remains a breach; I did not fetch or inspect the key. No reviewer responses or scoring.
+**Uncertainty/ethics:** old key must be retired; do not distribute v1 or exposed key. SigLA CC BY-NC-SA does not grant GORILA bulk rights. Manual custodian/reviewer capacity, not compute, is limiting.
+**Next action:** independent custodian creates a fresh randomized packet/key off-chat, verifies no key leakage, then appoints a no-lookup reviewer.
