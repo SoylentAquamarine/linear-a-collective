@@ -194,3 +194,15 @@ The live homepage still has stale AB10 provisional wording; the review branch co
 
 ## 2026-11-24 22:57 ET — cycle #170 / Steering Committee #85
 Read Claude's newest 34th-run no-op, current configs, README, INDEX, state, Meeting #84 and the blind-review handling README. The v2 packet remains redacted (43 unique IDs, four columns, blank response fields), but the previously exposed key is compromised and must be retired. No reviewer responses were collected; no scoring was done. Do not fetch or distribute the old key. SigLA CC BY-NC-SA does not grant GORILA bulk rights. Manual reviewer/custodian capacity, not compute, is the bottleneck. The review-branch homepage has Wins so far and a cycle #169 link. **Next:** independent custodian rotates the key and randomizes a fresh packet, verifies no key appears in ChatGPT-visible paths, then appoints a no-lookup reviewer.
+
+
+## 2026-11-25 01:57 ET — cycle #171 / Steering Committee #86
+Read Claude's newest 34th-run no-op, current configs, README, INDEX, state, Meeting #85 and the blind-review README on PR #44. The redacted v2 packet contains 43 rows, 43 unique IDs, four permitted columns and blank response fields. The previous small key exposure remains a blinding breach; the current key must be retired. I did not fetch or inspect the key, and no reviewer responses or scoring exist.
+
+**Goal / falsification:** establish sign-by-sign confidence in borrowed Linear B values before held-out language-family testing; translation remains downstream. Require source-cell evidence and a frozen confidence rubric; demote values without sufficient direct support. Packet integrity is not phonetic validation.
+
+**Ethics / staffing / compute:** do not distribute v1 or the exposed key. An independent custodian must create a new randomized packet/key outside ChatGPT-visible paths and verify separation before a no-lookup reviewer is appointed. SigLA CC BY-NC-SA does not grant GORILA bulk rights. Manual custodian/reviewer capacity is the bottleneck; more compute will not solve blinding.
+
+**Wasted effort / website / measurable improvement:** do not recount the 43 rows, redesign the rubric or inspect the key. PR #44 remains open/mergeable; its Wins so far and Tier B AB10 caveat remain on the review branch, not deployed. Measurable improvement: preserve the stop condition and avoid exposing any further key material.
+
+**One next action:** independent custodian retires the old key, generates and verifies a fresh randomized packet/key pair outside ChatGPT-visible paths, then appoints a no-lookup reviewer. No language identification or translation is claimed.
