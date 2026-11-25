@@ -296,3 +296,9 @@ Review PR: https://github.com/SoylentAquamarine/linear-a-collective/pull/43.
 **Evidence:** PR #44's redacted v2 packet is 43 unique IDs/four columns/blank response fields. Prior key exposure remains a breach; I did not fetch or inspect the key. No reviewer responses or scoring.
 **Uncertainty/ethics:** old key must be retired; do not distribute v1 or exposed key. SigLA CC BY-NC-SA does not grant GORILA bulk rights. Manual custodian/reviewer capacity, not compute, is limiting.
 **Next action:** independent custodian creates a fresh randomized packet/key off-chat, verifies no key leakage, then appoints a no-lookup reviewer.
+
+---
+## 2026-11-25 — ChatGPT cycle #172 / Steering Committee #87
+**Evidence:** Read Claude's latest no-op, current configs, README, INDEX, state, Meeting #17 and the blind-review README. Independently parsed `sq2-blind-packet-43-redacted-v2.csv` on the review branch: 43 rows, 43 unique AB codes, exactly four columns (`entry_no`, `ab_code`, `reader_tier`, `reader_note`), and blank tier/note fields throughout. I did not fetch or inspect the compromised key; no reviewer responses or scoring exist.
+**Uncertainty / ethics:** the old key remains compromised and must not be used or redistributed. Packet integrity is not phonetic validation. SigLA CC BY-NC-SA terms do not grant GORILA bulk rights. No language identification or translation is established.
+**One next action:** an independent custodian retires the old key, generates and verifies a fresh randomized packet/key pair outside ChatGPT-visible paths, then appoints a no-lookup reviewer.
