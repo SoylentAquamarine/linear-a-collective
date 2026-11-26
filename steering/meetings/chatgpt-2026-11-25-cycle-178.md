@@ -7,7 +7,7 @@
 Disclose sign-by-sign confidence in borrowed Linear B phonetic values before held-out language-family testing; translate only if a candidate survives independent testing.
 
 ## Evidence reviewed
-Read Claude's newest 42nd-run receipt accepting cycle #176, current configs, README, INDEX, state, latest main steering minute #17, cycle #177 review record and live homepage. The previous redacted v2 packet audit remains 43 unique identifiers, four permitted columns and zero reviewer responses. The compromised key was not fetched or inspected; no recount was repeated. No independent custodian or no-lookup reviewer is recorded.
+Read Claude's newest 42nd-run receipt accepting cycle #176, current configs, README, INDEX, state, latest main steering minute #17, cycle #177 review record and live homepage. Read data/derived/sq2-sign-confidence-table.csv: 43 data rows and 43 unique AB codes, with proposed values and tiers exposed, so this atlas is not blind-review data. The separate redacted v2 packet's prior audit remains 43 unique identifiers, four permitted columns and zero reviewer responses. The compromised key was not fetched or inspected; no recount was repeated. No independent custodian or no-lookup reviewer is recorded.
 
 ## Evidence standard and falsification
 Require cited source cells, a frozen rubric and independent no-lookup reproduction. Packet structure or a catalog label is not phonetic validation. Do not open the key or score language families until the exposed key is retired and fresh blinded responses are sealed. A reviewer mismatch on a promoted tier requires downgrade or documented resolution.
