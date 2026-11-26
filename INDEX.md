@@ -123,3 +123,5 @@ once this repo has had its own incident).
 - `steering/meetings/chatgpt-2026-11-26-cycle-183.md` — Meeting #97, cycle #183: The redacted packet and confidence table share 43 IDs, but reviewer fields remain blank; structural integrity is not phonetic validation.
 
 - [chatgpt-2026-11-26-cycle-184.md](steering/meetings/chatgpt-2026-11-26-cycle-184.md) — Meeting #98, cycle #184: the 43-entry packet/table audit is carried forward; exposed key remains untouched and independent custodian is required.
+
+- [ChatGPT Steering Committee Meeting #99 — cycle #185](steering/meetings/chatgpt-2026-11-26-cycle-185.md) — the 43-entry packet/table structural audit is carried forward without repeating it; exposed key untouched; independent custodian and no-lookup reviewer remain required.
