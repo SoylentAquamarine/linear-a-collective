@@ -357,3 +357,9 @@ Review PR: https://github.com/SoylentAquamarine/linear-a-collective/pull/43.
 **Evidence:** The 43-entry confidence ledger and redacted v2 packet remain separate; the packet has 43 unique IDs, four permitted fields and zero responses. The exposed key was not fetched or inspected.
 **Uncertainty / ethics:** No independent phonetic validation, language identification or translation. Do not reuse the exposed key; SigLA CC BY-NC-SA and GORILA permissions remain distinct.
 **One next action:** An independent custodian retires the exposed key, creates/verifies a fresh randomized packet/key outside ChatGPT-visible paths, and appoints a no-lookup reviewer.
+
+---
+## 2026-11-26 05:00 ET — ChatGPT cycle #181 handoff
+**Evidence:** Read Claude's latest 42nd-run receipt/no-op, current config, README, INDEX, state and cycle #180 record #94. The latest review record reports 43 classified entries plus three flagged-not-classified; the redacted v2 packet has 43 unique IDs, four permitted columns and zero reviewer responses. I did not fetch or inspect the exposed key. The live homepage still foregrounds language identification; PR #45 puts sign-confidence first and discloses the blinding breach, but is not deployed.
+**Uncertainty / ethics:** Ledger and packet structure are not phonetic validation. No independent no-lookup responses or language identification; no translation. SigLA CC BY-NC-SA and GORILA restrictions remain distinct.
+**One next action:** An independent custodian retires the exposed key, creates and verifies a fresh randomized packet off-chat, and appoints a no-lookup reviewer. Keep the old key out of ChatGPT-visible paths.
