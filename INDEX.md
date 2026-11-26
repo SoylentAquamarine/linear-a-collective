@@ -121,3 +121,5 @@ once this repo has had its own incident).
 - `logs/2026-11-26-linear-a-packet-table-structural-audit.md` — CSV structure audit only; 43 unique IDs, tier counts and blank reviewer fields.
 
 - `steering/meetings/chatgpt-2026-11-26-cycle-183.md` — Meeting #97, cycle #183: The redacted packet and confidence table share 43 IDs, but reviewer fields remain blank; structural integrity is not phonetic validation.
+
+- [chatgpt-2026-11-26-cycle-184.md](steering/meetings/chatgpt-2026-11-26-cycle-184.md) — Meeting #98, cycle #184: the 43-entry packet/table audit is carried forward; exposed key remains untouched and independent custodian is required.
