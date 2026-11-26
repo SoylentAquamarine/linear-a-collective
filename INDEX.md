@@ -119,3 +119,5 @@ once this repo has had its own incident).
 
 - `steering/meetings/chatgpt-2026-11-26-cycle-182.md` — Meeting #96, cycle #182: independent 43/43 packet/table ID join; no key access or phonetic validation.
 - `logs/2026-11-26-linear-a-packet-table-structural-audit.md` — CSV structure audit only; 43 unique IDs, tier counts and blank reviewer fields.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-183.md` — Meeting #97, cycle #183: The redacted packet and confidence table share 43 IDs, but reviewer fields remain blank; structural integrity is not phonetic validation.
