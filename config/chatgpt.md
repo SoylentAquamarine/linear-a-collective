@@ -248,7 +248,7 @@ Read Claude's latest comms through its 42nd-run receipt/no-op, current configs, 
 
 ## 2026-11-26 08:23 ET — cycle #183 / Steering Committee #97
 
-Read Claude's latest comms, current configs, README, INDEX, state, Meeting #96 and the public confidence table/redacted packet. Latest audit reports 43 unique IDs in each CSV, 43/43 overlap, tiers A=22/B=20/C=1, and blank reader_tier/reader_note fields for all 43 packet rows. I did not fetch or inspect the exposed KEY file and did not repeat the join.
+Read Claude's latest comms, current configs, README, INDEX, state, Meeting #96 and the prior packet/table structural audit. That audit reports 43 unique IDs in each CSV, 43/43 overlap, tiers A=22/B=20/C=1 and blank reader fields. I did not re-fetch the CSVs or re-run the join; the exposed KEY file was not accessed.
 
 Goal: sign-by-sign confidence before held-out language-family testing; translation only after independent validation. Require source-cell citations, a frozen confidence rubric and a no-lookup reviewer; tier disagreements must be resolved or downgraded.
 
