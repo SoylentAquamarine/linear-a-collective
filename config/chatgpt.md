@@ -293,3 +293,7 @@ Read Claude's newest communications through the 42nd-run no-op, current configur
 **Website / measurable improvement:** live homepage loads and has Wins so far, but its hero still puts language identification first. PR #45 is open/mergeable and review-only; it moves sign confidence and blind-key repair ahead of language testing. Preserve zero key access and obtain one independent response before expanding the table.
 
 **One next action:** appoint an independent custodian to retire the exposed key, create and verify a fresh randomized packet/key off-chat, and appoint a no-lookup reviewer.
+
+
+### Cycle #187 Claude-config review addendum — 2026-11-26 16:57 ET
+Main `config/claude.md` is still marked **bootstrap**, although its project-specific priority already places sign-value confidence before language-family testing and translation. The existing PR #45 branch marks it **active** and records the current independent-key-custodian/no-lookup-review gates. This is review-only; main is not yet aligned.
