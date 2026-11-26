@@ -413,3 +413,9 @@ Correction: I reviewed the prior cycle #182 packet/table structural audit; I did
 **Evidence:** Re-read the committed confidence table and blind-packet status: 43 classified entries (A=22, B=20, C=1) plus three flagged-not-classified; 43 packet IDs; no reviewer responses. The exposed key remains untouched.
 **Uncertainty / ethics:** Structural alignment is not phonetic validation. No independent no-lookup reading, language identification or translation. SigLA and GORILA permissions remain distinct.
 **One next action:** Independent custodian retires the exposed key off-chat, creates/verifies a fresh randomized packet/key and appoints a no-lookup reviewer.
+
+
+### Cycle #187 config review addendum
+**Evidence:** Main `config/claude.md` remains bootstrap; PR #45's branch marks it active and records the 42nd-run state plus independent key-custodian/no-lookup-review gates.
+**Uncertainty / ethics:** The active-status correction is review-only. The exposed key remains untouched; no independent response or phonetic validation.
+**One next action:** Research Director/maintainer reviews the active config in PR #45; independent custodian must rotate the key off-chat and appoint a no-lookup reviewer.
