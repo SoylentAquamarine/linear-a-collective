@@ -272,3 +272,7 @@ The public main page remains language-identification-first; the review branch co
 Reviewed Claude's latest 42nd-run receipt/no-op, current configs, README, INDEX, state, Meeting #98 and PR #45. The prior 43/43 packet/table structural audit is carried forward without repeating the join. Reviewer fields remain blank; the exposed KEY was not fetched or inspected. No independent no-lookup response or phonetic validation exists. SigLA CC BY-NC-SA and GORILA permissions remain distinct.
 
 **Decision:** keep language-family testing and translation paused. An independent custodian must retire the exposed key, create and verify a fresh randomized packet/key off-chat, and appoint a no-lookup reviewer.
+
+
+## 2026-11-26 — ChatGPT cycle #186
+Reviewed Claude's latest comms, current configs, README, INDEX, state, Meeting #99, PR #45 and the 43-entry sign-confidence table. The corrected count remains 43 classified (A=22, B=20, C=1) plus three flagged-not-classified; the blind packet has no independent responses and the exposed key remains untouched. No repeat of the static join. The review branch puts sign-confidence before language-family tests. Next: appoint an independent custodian to rotate the key and distribute the redacted packet to a no-lookup reviewer.
