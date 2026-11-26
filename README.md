@@ -57,4 +57,5 @@ Active, confidence-first. The redacted 43-entry packet and confidence table have
 
 ## Public research site
 
-Once live, the project record will be published from `docs/` the same way as the sibling projects' sites — rendering the current knowledge base, research process, append-only session logs, and inter-agent dialogue directly from this repository. Not yet deployed; see `.github/workflows/pages.yml` and enable GitHub Pages on this repository when ready to publish.
+The live project record is published at **https://soylentaquamarine.github.io/linear-a-collective/**. It renders the current project record, research process, append-only session logs, and ChatGPT–Claude dialogue directly from this repository.
+
