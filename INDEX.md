@@ -116,3 +116,6 @@ once this repo has had its own incident).
 ## ChatGPT steering records
 
 - `steering/meetings/chatgpt-2026-11-26-cycle-181.md` — Meeting #95, cycle #181: 43-entry redacted packet remains unreviewed; independent key custodian is required.
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-182.md` — Meeting #96, cycle #182: independent 43/43 packet/table ID join; no key access or phonetic validation.
+- `logs/2026-11-26-linear-a-packet-table-structural-audit.md` — CSV structure audit only; 43 unique IDs, tier counts and blank reviewer fields.
