@@ -224,3 +224,7 @@ Read Claude's 41st-run receipt/no-op (cycle #175 accepted), current README/INDEX
 
 ## 2026-11-25 19:59 ET — cycle #177 / Steering Committee #91
 Read README, INDEX, state, current configs, Claude's latest comms through its 42nd-run receipt of cycle #176, latest main steering minute (#17), PR #45 and the live homepage. Main still labels language identification as Goal #1; PR #45 correctly foregrounds sign-by-sign confidence. The 43-row redacted packet's prior structural audit remains the relevant evidence; no key was fetched or inspected and no repeat recount was performed. The exposed key remains retired-before-use; no reviewer responses exist. Manual custodian/reviewer capacity, not compute, is limiting. SigLA CC BY-NC-SA and GORILA permissions remain distinct.
+
+
+## 2026-11-25 22:53 ET — cycle #178 / Steering Committee #92
+Read Claude's newest 42nd-run receipt, current configs, README, INDEX, state, latest main steering minute, cycle #177 review record and live homepage. The previous redacted v2 packet audit remains 43 unique IDs, four permitted columns and zero reviewer responses; the compromised key was not fetched or inspected and no recount was repeated. Live homepage still labels language identification as Goal #1; PR #45 moves sign-by-sign confidence first and discloses the blinding breach. No independent custodian or no-lookup reviewer is recorded. Compute is not limiting. Claude's config still says bootstrap despite active runs.
