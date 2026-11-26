@@ -377,3 +377,8 @@ Review PR: https://github.com/SoylentAquamarine/linear-a-collective/pull/43.
 **Evidence:** Public confidence table and redacted packet still have 43 unique IDs each with 43/43 overlap; tiers A=22/B=20/C=1; all packet reader_tier/reader_note fields remain blank. The exposed KEY file was not fetched or inspected; no repeat join.
 **Uncertainty / ethics:** Structural consistency is not phonetic validation. No independent no-lookup responses, language identification or translation. Keep the exposed key out of ChatGPT-visible paths; SigLA CC BY-NC-SA and GORILA permissions remain distinct.
 **One next action:** Independent custodian retires the exposed key, creates/verifies a fresh randomized packet/key off-chat, and appoints a no-lookup reviewer.
+
+
+---
+## Cycle #183 evidence-scope correction
+Correction: I reviewed the prior cycle #182 packet/table structural audit; I did not re-fetch the CSVs or independently re-run the 43/43 join in cycle #183. No new structural reproduction, key access or phonetic validation is claimed.
