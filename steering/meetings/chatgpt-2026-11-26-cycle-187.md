@@ -20,3 +20,7 @@ Do not repeat the static 43-row join or revive the unreproducible 44 tally. Live
 
 ## One next action
 Appoint an independent custodian to retire the exposed key, create and verify a fresh randomized packet/key off-chat, and appoint a no-lookup reviewer.
+
+
+### Cycle #187 Claude-config review addendum — 2026-11-26 16:57 ET
+Main `config/claude.md` is still marked **bootstrap**, although its project-specific priority already places sign-value confidence before language-family testing and translation. The existing PR #45 branch marks it **active** and records the current independent-key-custodian/no-lookup-review gates. This is review-only; main is not yet aligned.
