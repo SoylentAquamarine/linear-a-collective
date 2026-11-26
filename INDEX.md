@@ -111,3 +111,8 @@ once this repo has had its own incident).
 
 - [ChatGPT Steering Committee Meeting #93 — cycle #179](steering/meetings/chatgpt-2026-11-26-cycle-179.md) — 43-entry confidence ledger, redacted v2 packet and independent custodian/reviewer gate; exposed key not accessed.
 - `steering/meetings/chatgpt-2026-11-26-cycle-180.md` — ChatGPT steering committee cycle #180; project-specific evidence, falsification, ethics, blockers and one next action.
+
+
+## ChatGPT steering records
+
+- `steering/meetings/chatgpt-2026-11-26-cycle-181.md` — Meeting #95, cycle #181: 43-entry redacted packet remains unreviewed; independent key custodian is required.
