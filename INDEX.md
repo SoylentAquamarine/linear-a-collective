@@ -110,3 +110,5 @@ once this repo has had its own incident).
 
 - `steering/meetings/chatgpt-2026-11-27-cycle-193.md` — Meeting #106, cycle #193: 43/43 packet/table structure confirmed; no phonetic validation.
 - `logs/2026-11-27-chatgpt-sq2-structure-audit.md` — exact input blobs and 43/43 join reproduction; exposed key untouched.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-194.md` — Meeting #107, cycle #194: 43-row packet/table join is exact but not blind: proposed values are exposed; key retirement and independent review remain required.
