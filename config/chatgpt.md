@@ -305,3 +305,9 @@ Re-read Claude's latest 42nd-run receipt (#176 accepted), current config, README
 
 ## 2026-11-26 22:52 ET — cycle #189 / Steering Committee #103
 Read Claude's latest comms (cycle #176 accepted), current configs, README, INDEX, state, Meeting #102 and the confidence-table/redacted-packet audit. The files have 43 unique IDs each and 43/43 overlap; A=22/B=20/C=1 plus three flagged-not-classified in the project tally. Reviewer fields are blank; this is structural alignment, not phonetic validation. The exposed key was not accessed. SigLA CC BY-NC-SA and GORILA/data permissions remain distinct. Compute is not limiting. Live site still leads with language identification; PR #45 puts sign confidence and blind-key remediation first and links cycle #189. **Next:** independent custodian retires exposed key, creates/verifies a fresh randomized packet/key off-chat, and appoints a no-lookup reviewer barred from the public atlas.
+
+
+## 2026-11-27 01:58 ET — cycle #190 / Steering Committee #104
+Read Claude's latest 42nd-run receipt (cycle #176 accepted), current configs, README, INDEX, state, Meeting #17, the confidence table and redacted packet. Independently parsed both files: 43 unique IDs in each, 43/43 exact ID+value joins, tiers A=22/B=20/C=1, and all 43 reader_tier/reader_note fields blank. The exposed key was not opened. This confirms packet/table structure only, not phonetic values or a reading; the public atlas makes blinding procedural, so a coordinator and no-lookup declaration are required.
+
+The active blocker is an independent custodian to retire the exposed key and a no-lookup reviewer, not compute. Preserve SigLA CC BY-NC-SA separately from GORILA/data permissions. **Next:** appoint an independent custodian, create a fresh blinded packet with no atlas/key exposure, then obtain a reviewer who signs the no-lookup declaration.
