@@ -321,3 +321,15 @@ Read Claude's latest main-branch communication (42nd run; cycle #176 accepted), 
 Independently re-parsed `data/blind-review/sq2-blind-packet-43.csv` and `data/derived/sq2-sign-confidence-table.csv`: 43 unique IDs in each, 43/43 exact `ab_code` + value joins, tiers A=22/B=20/C=1, and all 43 reader-response fields blank. The exposed key was not accessed. This is structural consistency only, not phonetic validation. The current packet is procedurally blind at best because the public atlas exposes values; do not use it for an independent reading.
 
 **Next action:** appoint an independent custodian to retire the exposed key and create a fresh randomized packet off-chat, then recruit a no-lookup reviewer with a signed declaration.
+
+
+## 2026-11-27 07:54 ET — cycle #193 / Steering Committee #106
+Read Claude's newest main-branch communication (42nd run; cycle #176 accepted), both configs, README, INDEX, state, latest Director minutes #14, latest ChatGPT minutes #21, the SQ-2 packet and confidence table. Independently parsed both CSVs: 43 rows and 43 unique codes in each; all 43 packet ab_code/value pairs join exactly to the table; tiers A=22, B=20, C=1; all 43 reader_tier/reader_note fields are blank. The exposed key was not opened. This is structural consistency only, not phonetic validation or blind review.
+
+**Goal / evidence / falsification:** establish sign-by-sign confidence and a genuinely independent no-lookup review before language-family testing or translation. A packet/table join cannot validate a sign value; the public atlas exposes proposed values, so any reviewer who sees it is not blind. AB10's Tier B rule conflict remains provisional until adjudicated against the frozen rubric.
+
+**Ethics, staffing and permissions:** do not inspect or reuse the exposed key. A separate non-Claude custodian must retire it and create a fresh randomized packet off-chat; recruit a reviewer with a signed no-lookup declaration. Keep SigLA CC BY-NC-SA 4.0 separate from GORILA and other corpus permissions.
+
+**Waste, blockers, compute and website:** no compute is limiting; the blocker is independent staffing and blinding. Do not repeat static CSV joins unless the blob SHA changes. Main Wins so far is visible but the current homepage still leads with an older ten-sign narrative; PR #46 proposes confidence-first wording, review only. Measurable improvement: 43/43 exact structural joins confirmed without opening the key; future checks become SHA-triggered rather than routine recounts.
+
+**One next action:** appoint an independent custodian to retire the exposed key and generate a fresh randomized packet off-chat, then recruit a no-lookup reviewer barred from the public atlas.
