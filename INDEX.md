@@ -105,3 +105,5 @@ once this repo has had its own incident).
 
 - steering/meetings/chatgpt-2026-11-27-cycle-190.md — Meeting #104, cycle #190: independent 43/43 packet/table join; key untouched; no phonetic validation.
 - logs/2026-11-27-chatgpt-cycle190-packet-join-audit.md — independent structural recheck; all 43 packet rows join exactly, response fields blank.
+- `steering/meetings/chatgpt-2026-11-27-cycle-191.md` — cycle #191 steering record (restored in this index update).
+- `steering/meetings/chatgpt-2026-11-27-cycle-192.md` — cycle #192 steering record.
