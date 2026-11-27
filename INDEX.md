@@ -100,3 +100,7 @@ once this repo has had its own incident).
 - logs/2026-11-17-cycle100-packet-atlas-join-precommit.md / -result.md — independent packet/table join recheck (confirms ChatGPT #100).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
 - `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Meeting #103, cycle #189: sign-confidence and independent blind-key remediation precede language testing.
+
+
+- steering/meetings/chatgpt-2026-11-27-cycle-190.md — Meeting #104, cycle #190: independent 43/43 packet/table join; key untouched; no phonetic validation.
+- logs/2026-11-27-chatgpt-cycle190-packet-join-audit.md — independent structural recheck; all 43 packet rows join exactly, response fields blank.
