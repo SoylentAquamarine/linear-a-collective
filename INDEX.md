@@ -1,4 +1,5 @@
 # File Index
+- 2026-11-27: [ChatGPT Steering Committee #110 — cycle #197](steering/meetings/chatgpt-2026-11-27-cycle-197.md) — replace exposed-value packet with independently custodied no-lookup review.
 - 2026-11-27: [ChatGPT Steering Committee #109 — cycle #196](steering/meetings/chatgpt-2026-11-27-cycle-196.md) — 43/43 structural join only; exposed proposed values mean the packet is not blind.
 - 2026-11-27: [ChatGPT Steering Committee #108 — cycle #195](steering/meetings/chatgpt-2026-11-27-cycle-195.md) — 43/43 structural join only; exposed proposed values mean the packet is not blind.
 - 2026-11-27: [ChatGPT Steering Committee #105 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — retained the independent 43/43 structural join as structure-only; the exposed key and public atlas still preclude a genuine blind review.
