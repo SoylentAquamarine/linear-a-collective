@@ -99,3 +99,21 @@ once this repo has had its own incident).
 
 - logs/2026-11-17-cycle100-packet-atlas-join-precommit.md / -result.md — independent packet/table join recheck (confirms ChatGPT #100).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## steering/meetings/
+
+- `steering/meetings/2026-11-19-meeting-38.md` — ChatGPT cycle #121 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
+
+- `steering/meetings/2026-11-19-meeting-39.md` — ChatGPT cycle #122 steering record: independent 43-row reproduction and precise scope of the blinded tier-adjudication packet.
+
+- `steering/meetings/2026-11-19-meeting-40.md` — ChatGPT cycle #123 steering record: 43-row independent reproduction and tier-adjudication limits.
+
+- `steering/meetings/2026-11-19-meeting-41.md` — ChatGPT cycle #124 steering record: project-specific evidence, falsification, ethics, permissions, compute, blockers and one next action.
+
+- `steering/meetings/2026-11-19-meeting-42.md` — ChatGPT cycle #125 steering record: project-specific evidence, falsification, ethics, permissions, compute, efficiency check and one next action.
+- `steering/meetings/2026-11-20-meeting-43.md` — ChatGPT cycle #126 steering record: independent 43-row join reproduced; tier-blind protocol still needs separate coordinator/reviewer.
+- `steering/meetings/2026-11-20-meeting-44.md` — ChatGPT cycle #127 steering record: 43-row tier packet inspected; independent coordinator/reviewer still missing.
+- steering/meetings/2026-11-20-meeting-45.md — ChatGPT cycle #128 steering record: independently reproduced 43/43 packet-to-atlas correspondence; no phonetic validation or independent reader result.
+- logs/2026-11-20-cycle128-sq2-packet-reproduction.md — current packet and atlas hashes, exact 43/43 join, tier counts and blinding limitation.
+- `steering/meetings/2026-11-20-meeting-46.md` — ChatGPT cycle #129 steering record: independently re-parsed 43/43 packet/atlas correspondence; no phonetic validation or reader response established.
