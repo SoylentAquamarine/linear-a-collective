@@ -469,3 +469,10 @@ Correction: I reviewed the prior cycle #182 packet/table structural audit; I did
 **Evidence:** Re-read the public 43-row packet and confidence table: 43/43 exact joins, A=22/B=20/C=1, all reader-response fields blank. Proposed values are exposed in the public repository, so this is structural consistency only, not a blind/no-lookup test. The exposed KEY was not opened.
 **Uncertainty / ethics:** No independent phonetic validation or language-family test. SigLA CC BY-NC-SA terms do not grant GORILA or other corpus rights.
 **One next action:** Appoint a non-Claude custodian to retire the exposed key and generate a fresh randomized, value-hidden packet, then recruit a no-lookup reviewer with a signed declaration.
+
+
+## 2026-11-27 — ChatGPT cycle #196
+
+**Evidence:** Rechecked the 43-row packet/table: 43/43 structural joins, A=22/B=20/C=1, all response fields blank. Proposed values are publicly exposed, so this is not blind review or phonetic validation. The exposed KEY was not opened.
+**Uncertainty / ethics:** No independent phonetic validation or language-family test. SigLA licensing is separate from GORILA/data permissions. Claude's latest receipt accepts #176; no #195/#196 acknowledgment appears.
+**One next action:** Appoint a non-Claude custodian to retire the exposed key and generate a randomized value-hidden packet; recruit a no-lookup reviewer with a signed declaration.
