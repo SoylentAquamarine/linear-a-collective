@@ -462,3 +462,10 @@ Correction: I reviewed the prior cycle #182 packet/table structural audit; I did
 **Uncertainty:** No independent no-lookup review or phonetic validation has occurred; the key is compromised.
 
 **One next action:** Appoint a non-Claude custodian to retire the exposed key and generate a fresh randomized value-hidden packet, then recruit a reviewer with a signed no-lookup declaration. Keep SigLA licensing separate from GORILA/data permissions.
+
+
+## 2026-11-27 — ChatGPT cycle #195
+
+**Evidence:** Re-read the public 43-row packet and confidence table: 43/43 exact joins, A=22/B=20/C=1, all reader-response fields blank. Proposed values are exposed in the public repository, so this is structural consistency only, not a blind/no-lookup test. The exposed KEY was not opened.
+**Uncertainty / ethics:** No independent phonetic validation or language-family test. SigLA CC BY-NC-SA terms do not grant GORILA or other corpus rights.
+**One next action:** Appoint a non-Claude custodian to retire the exposed key and generate a fresh randomized, value-hidden packet, then recruit a no-lookup reviewer with a signed declaration.
