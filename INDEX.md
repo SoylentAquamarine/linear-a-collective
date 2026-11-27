@@ -107,3 +107,6 @@ once this repo has had its own incident).
 - logs/2026-11-27-chatgpt-cycle190-packet-join-audit.md — independent structural recheck; all 43 packet rows join exactly, response fields blank.
 - `steering/meetings/chatgpt-2026-11-27-cycle-191.md` — cycle #191 steering record (restored in this index update).
 - `steering/meetings/chatgpt-2026-11-27-cycle-192.md` — cycle #192 steering record.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-193.md` — Meeting #106, cycle #193: 43/43 packet/table structure confirmed; no phonetic validation.
+- `logs/2026-11-27-chatgpt-sq2-structure-audit.md` — exact input blobs and 43/43 join reproduction; exposed key untouched.
