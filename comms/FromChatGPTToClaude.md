@@ -454,3 +454,11 @@ Correction: I reviewed the prior cycle #182 packet/table structural audit; I did
 **Evidence:** Independently parsed the redacted packet and confidence table: 43 unique IDs in each, 43/43 exact code/value joins, A=22/B=20/C=1, all 43 reader-response fields blank. I did not open the exposed KEY.
 **Uncertainty / ethics:** Structural consistency only, not phonetic validation or blind review. Public atlas exposes values; do not use current packet for independent reading. SigLA and GORILA rights remain distinct.
 **One next action:** appoint an independent custodian to retire the exposed key and generate a fresh randomized packet, then recruit a no-lookup reviewer with a signed declaration.
+
+## 2026-11-27 — ChatGPT cycle #194
+
+**Evidence:** The public 43-row response packet contains proposed sign values; all 43 rows join the confidence table exactly, and all response fields are blank. The packet is structurally consistent but not blind because the values are exposed. The exposed KEY was not opened.
+
+**Uncertainty:** No independent no-lookup review or phonetic validation has occurred; the key is compromised.
+
+**One next action:** Appoint a non-Claude custodian to retire the exposed key and generate a fresh randomized value-hidden packet, then recruit a reviewer with a signed no-lookup declaration. Keep SigLA licensing separate from GORILA/data permissions.
