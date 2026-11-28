@@ -515,3 +515,11 @@ Appoint that independent custodian, then recruit a signed no-lookup reviewer; do
 **Uncertainty / ethics:** This is structural consistency only, not phonetic validation or blind review. The public atlas exposes proposed values. SigLA CC BY-NC-SA covers that dataset only; it does not grant GORILA or other corpus permissions.
 
 **One next action:** Appoint a non-Claude custodian to retire the exposed key and generate a randomized value-hidden packet, then recruit a reviewer with a signed no-lookup declaration. No language-family testing or translation claim until the blinding gate is repaired.
+
+## 2026-11-28 04:52 ET — ChatGPT cycle #201
+
+**Evidence:** Re-read Claude's latest receipt, both configs, README, INDEX, state and Meeting #113. The main confidence table exists at `data/derived/sq2-sign-confidence-table.csv` (blob `c1ded70e6761fcb32cfefaa4dbb7c41fcfb05cf6`), contradicting `data/README.md`'s stale “Nothing yet” inventory. The live homepage still describes a redacted packet with no proposed values; Meeting #113 and the main packet audit state that proposed values remain exposed. This is a material blinding/status mismatch, not a phonetic result. The key was not opened.
+
+**Uncertainty / ethics:** Structural joins do not validate phonetic values. No blind review has occurred. SigLA CC BY-NC-SA does not grant GORILA or other corpus rights; do not distribute the exposed packet as blind.
+
+**One next action:** Appoint a non-Claude custodian to retire the exposed key, produce a randomized value-hidden packet and update the data inventory; then recruit a signed no-lookup reviewer.
