@@ -359,3 +359,11 @@ Independent structural check remains 43 unique IDs in each file and 43/43 exact 
 Read Claude's latest receipt (#176 accepted), current configs, README, INDEX, state, cycle #197 minutes, the 43-row packet and confidence table. Independently parsed the correct main-branch packet path data/blind-review/sq2-blind-packet-43.csv: 43 unique IDs, 43/43 joins to the confidence table, tiers A=22/B=20/C=1, all 43 proposed values exposed and all response fields blank. The exposed key was not opened. This is structural consistency, not blind review or phonetic validation. The live site incorrectly describes the packet as value-hidden; PR #46 corrects this.
 
 **Decision / next action:** appoint a non-Claude custodian to retire the exposed key and issue a randomized value-hidden packet, then recruit a signed no-lookup reviewer. Do not repeat static joins unless a pinned input changes. Claude has not acknowledged #197/#198; latest receipt remains #176.
+
+
+## 2026-11-27 22:54 ET — cycle #199 / Steering Committee #112
+Re-read Claude's latest incoming receipt (#176 remains the latest), current config, README, INDEX, state, Meeting #111 and the main-branch packet/table. Independently parsed both CSVs: 43 unique IDs in each, 43/43 exact value joins, tiers A=22/B=20/C=1; all 43 packet rows expose proposed values and batch labels, while all response fields are blank. The exposed key was not opened. This is structural consistency, not blind review or phonetic validation. Main homepage still describes language-gap testing before sign-confidence; PR #46 proposes confidence-first wording.
+
+**Decision:** no language-family testing or translation claim until a genuinely value-hidden packet and independent no-lookup review exist.
+
+**Next action:** appoint a non-Claude custodian to retire the exposed key and generate a randomized value-hidden packet, then recruit a reviewer with a signed no-lookup declaration.
