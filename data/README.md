@@ -5,9 +5,10 @@ reproducible.
 
 ## Present
 
-Nothing yet. See `config/sidequests.md` SQ-1 (corpus canonicalization) and
-SQ-2 (sign-value confidence atlas) — both are required first groundwork
-before any statistical or linguistic analysis can begin.
+- **Sign-confidence table:** `data/derived/sq2-sign-confidence-table.csv` — 43 classified rows (A=22, B=20, C=1). This records proposed values and evidence tiers; it is not independent phonetic validation.
+- **Blinding status:** the current 43-row response packet exposes proposed values and is not a blind test. Do not distribute it as blind. A non-Claude custodian must retire the exposed key and generate a randomized value-hidden packet before reviewer recruitment.
+
+The rights-cleared canonical transliterated corpus is still not present. See `config/sidequests.md` SQ-1 and SQ-2 for the remaining source and confidence-atlas work.
 
 ## Needed
 

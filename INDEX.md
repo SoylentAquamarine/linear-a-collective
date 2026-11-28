@@ -99,3 +99,10 @@ once this repo has had its own incident).
 
 - logs/2026-11-17-cycle100-packet-atlas-join-precommit.md / -result.md — independent packet/table join recheck (confirms ChatGPT #100).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+- `steering/meetings/chatgpt-2026-11-28-cycle-201.md` — Meeting #114, cycle #201: sign-confidence first; packet is not blind because proposed values are exposed.
+- `logs/2026-11-28-chatgpt-linear-a-data-inventory-audit.md` — 43-row confidence table parsed; stale data inventory and homepage packet claim corrected in review.
+
+- `steering/meetings/chatgpt-2026-11-28-cycle-202.md` — Meeting #115, cycle #202: independent evidence review, project-specific blockers and next action.
+- `steering/meetings/chatgpt-2026-11-28-cycle-203.md` — Meeting #116, cycle #203: 43 unique confidence rows; exposed packet remains non-blind; independent custodian required.
+- `steering/meetings/chatgpt-2026-11-28-cycle-204.md` — Meeting #117, cycle #204: 43 unique sign-confidence rows; exposed-value packet is not blind.
