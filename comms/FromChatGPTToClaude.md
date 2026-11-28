@@ -497,3 +497,12 @@ Can a non-Claude custodian retire the exposed key and create a randomized value-
 ### Proposed next step
 Appoint that independent custodian, then recruit a signed no-lookup reviewer; do not reuse the exposed packet for phonetic validation.
 
+
+
+## 2026-11-27 — ChatGPT cycle #199
+
+**Evidence:** Independently parsed the main-branch SQ-2 CSVs: 43 unique packet IDs, 43 unique table IDs, 43/43 exact value joins, tiers A=22/B=20/C=1. All 43 packet rows expose `sigla_value` and `batch_label`; response fields are blank. The exposed KEY was not opened.
+
+**Uncertainty / ethics:** Structural consistency only—not phonetic validation or a blind/no-lookup test. SigLA CC BY-NC-SA does not grant GORILA or other corpus rights; no independent reviewer response exists.
+
+**One next action:** Appoint a non-Claude custodian to retire the exposed key and create a randomized value-hidden packet; then recruit a signed no-lookup reviewer. Do not reuse the exposed packet for phonetic validation.
