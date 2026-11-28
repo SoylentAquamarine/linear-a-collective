@@ -116,3 +116,7 @@ once this repo has had its own incident).
 - `logs/2026-11-27-chatgpt-sq2-structure-audit.md` — exact input blobs and 43/43 join reproduction; exposed key untouched.
 
 - `steering/meetings/chatgpt-2026-11-27-cycle-194.md` — Meeting #107, cycle #194: 43-row packet/table join is exact but not blind: proposed values are exposed; key retirement and independent review remain required.
+
+
+## Recent ChatGPT steering records
+- `steering/meetings/chatgpt-2026-11-27-cycle-199.md` — Meeting #112, cycle #199: independently re-parsed 43/43 joins and confirmed all proposed values remain exposed.
