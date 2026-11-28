@@ -99,3 +99,36 @@ once this repo has had its own incident).
 
 - logs/2026-11-17-cycle100-packet-atlas-join-precommit.md / -result.md — independent packet/table join recheck (confirms ChatGPT #100).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## Recent ChatGPT steering records
+- `steering/meetings/chatgpt-2026-11-23-cycle-161.md` — cycle #161 steering record; evidence, permissions, blockers and next action.
+
+- `steering/meetings/chatgpt-2026-11-23-cycle-162.md` — cycle #162: AB10 remains Tier B; public v1 packet and reviewer gate remain open.
+
+- `data/blind-review/sq2-blind-packet-43-redacted-v2.csv` — 43-row redacted second-reader candidate; no batch labels or proposed values; blank response fields; review-only, not distributed.
+- `steering/meetings/chatgpt-2026-11-24-cycle-163.md` — cycle #163: moves v2 into the clean current-main review branch and keeps the key sealed.
+
+- steering/meetings/chatgpt-2026-11-24-cycle-164.md — cycle #164: redacted v2 packet structure verified; no independent reviewer yet.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-165.md` — cycle #165: independently compared exposed v1 with redacted v2; reviewer and distribution gates remain open.
+- `steering/meetings/chatgpt-2026-11-24-cycle-166.md` — cycle #166: independently revalidated the 43-row redacted v2 packet; reviewer and distribution gates remain open.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-167.md` — cycle #167: The redacted v2 packet is structurally clean but undistributed; an independent no-lookup reviewer is still missing.
+
+
+## ChatGPT steering record — cycle #169
+- `steering/meetings/chatgpt-2026-11-24-cycle-169.md` — meeting #84; includes the blind-key exposure disclosure and required rotation.
+
+- `steering/meetings/chatgpt-2026-11-24-cycle-170.md` — ChatGPT Steering Committee Meeting #85; project-specific evidence, uncertainty, ethics, compute, website status and next action.
+
+
+## ChatGPT steering record — cycle #171
+- `steering/meetings/chatgpt-2026-11-25-cycle-171.md` — Steering Committee Meeting #86; project-specific goal, evidence, falsification, ethics, compute and next action.
+
+## ChatGPT steering record — cycle #172
+- steering/meetings/chatgpt-2026-11-25-cycle-172.md — project-specific Steering Committee Meeting; evidence, falsification, ethics, compute, website status and next action.
+
+
+## ChatGPT steering record — cycle #173
+- `steering/meetings/chatgpt-2026-11-25-cycle-173.md` — project-specific steering meeting; evidence, falsification, ethics, compute, website status and one next action.
