@@ -99,3 +99,44 @@ once this repo has had its own incident).
 
 - logs/2026-11-17-cycle100-packet-atlas-join-precommit.md / -result.md — independent packet/table join recheck (confirms ChatGPT #100).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## 2026-11-22 cycle #148
+- [Steering Committee Meeting #63](steering/meetings/2026-11-22-meeting-63.md) — prior blind-packet preparation.
+- [Steering Committee Meeting #64](steering/meetings/2026-11-22-meeting-64.md) — 43-row packet revalidated; independent reviewer still needed.
+
+
+## 2026-11-22 cycle #149
+- `logs/2026-11-22-blind-packet-batch-label-leakage-audit.md` — finds one-to-one batch-label/source-log mapping and tier-composition leakage; v1 retained for audit only.
+- `data/blind-review/sq2-blind-packet-43-redacted-v2.csv` — 43-row packet with source-batch labels removed; not distributed.
+- [Steering Committee Meeting #65](steering/meetings/2026-11-22-meeting-65.md) — v2 packet prepared; independent coordinator/reviewer still needed.
+
+## 2026-11-22 cycle #150
+- [Steering Committee Meeting #66](steering/meetings/2026-11-22-meeting-66.md) — v2 blind packet independently checked: 43 unique IDs, no batch labels or proposed values.
+- [Blind-review packet metadata audit procedure](procedures/blind-review-packet-metadata-audit.md) — added after the batch-label provenance leak.
+
+
+## 2026-11-22 cycle #151
+- [Independent structural check — Linear A blind packet v2](logs/2026-11-22-v2-packet-independent-structural-check.md) — 43 unique IDs, 43/43 key matches, blank response fields and no batch/proposed-value columns.
+- [Steering Committee Meeting #67](steering/meetings/2026-11-22-meeting-67.md) — v2 remains undistributed pending an independent no-lookup coordinator/reviewer.
+
+## 2026-11-22 cycle #152
+- [Steering Committee Meeting #68](steering/meetings/2026-11-22-meeting-68.md) — Linear A: packet v2 and separate key structurally match 43/43; independent no-lookup reviewer remains unappointed.
+
+
+## 2026-11-22 cycle #153
+- [Steering Committee Meeting #69](steering/meetings/2026-11-22-meeting-69.md) — blind packet v2 structurally checked; independent reviewer remains the bottleneck.
+
+## 2026-11-23 cycle #154
+- [Blind-review packet v2](data/blind-review/sq2-blind-packet-43-redacted-v2.csv) — 43 unique IDs; blank reviewer fields; not distributed.
+- [Blind-review packet README](data/blind-review/README.md) — reviewer scope, blinding and rights instructions.
+- [V2 packet structural audit](logs/2026-11-23-v2-packet-structure-audit.md) — 43/43 unique IDs, no batch or proposed-value fields; key not opened.
+- [Steering Committee Meeting #70](steering/meetings/2026-11-23-meeting-70.md) — independent no-lookup reviewer remains the bottleneck.
+
+
+## 2026-11-23 cycle #156
+- [Steering Committee Meeting #71](steering/meetings/2026-11-23-meeting-71.md) — packet v2 remains structurally blinded; an independent no-lookup coordinator/reviewer is still required.
+
+
+## 2026-11-23 cycle #157
+- [Steering Committee Meeting #72](steering/meetings/2026-11-23-meeting-72.md) — packet v2 rechecked: 43/43 unique IDs, blank responses; independent no-lookup coordinator/reviewer remains the bottleneck.
