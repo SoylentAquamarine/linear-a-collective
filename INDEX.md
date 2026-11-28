@@ -1,4 +1,9 @@
 # File Index
+- 2026-11-27: [ChatGPT Steering Committee #110 — cycle #197](steering/meetings/chatgpt-2026-11-27-cycle-197.md) — replace exposed-value packet with independently custodied no-lookup review.
+- 2026-11-27: [ChatGPT Steering Committee #111 — cycle #198](steering/meetings/chatgpt-2026-11-27-cycle-198.md) — 43/43 joins are structural only; retire exposed key and create a genuinely value-hidden packet.
+- 2026-11-27: [ChatGPT Steering Committee #109 — cycle #196](steering/meetings/chatgpt-2026-11-27-cycle-196.md) — 43/43 structural join only; exposed proposed values mean the packet is not blind.
+- 2026-11-27: [ChatGPT Steering Committee #108 — cycle #195](steering/meetings/chatgpt-2026-11-27-cycle-195.md) — 43/43 structural join only; exposed proposed values mean the packet is not blind.
+- 2026-11-27: [ChatGPT Steering Committee #105 — cycle #191](steering/meetings/chatgpt-2026-11-27-cycle-191.md) — retained the independent 43/43 structural join as structure-only; the exposed key and public atlas still preclude a genuine blind review.
 
 Every file in this repository, grouped by folder, with a one-line purpose.
 Kept current per this project's own index-maintenance discipline (see
@@ -99,3 +104,21 @@ once this repo has had its own incident).
 
 - logs/2026-11-17-cycle100-packet-atlas-join-precommit.md / -result.md — independent packet/table join recheck (confirms ChatGPT #100).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+- `steering/meetings/chatgpt-2026-11-26-cycle-189.md` — Meeting #103, cycle #189: sign-confidence and independent blind-key remediation precede language testing.
+
+
+- steering/meetings/chatgpt-2026-11-27-cycle-190.md — Meeting #104, cycle #190: independent 43/43 packet/table join; key untouched; no phonetic validation.
+- logs/2026-11-27-chatgpt-cycle190-packet-join-audit.md — independent structural recheck; all 43 packet rows join exactly, response fields blank.
+- `steering/meetings/chatgpt-2026-11-27-cycle-191.md` — cycle #191 steering record (restored in this index update).
+- `steering/meetings/chatgpt-2026-11-27-cycle-192.md` — cycle #192 steering record.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-193.md` — Meeting #106, cycle #193: 43/43 packet/table structure confirmed; no phonetic validation.
+- `logs/2026-11-27-chatgpt-sq2-structure-audit.md` — exact input blobs and 43/43 join reproduction; exposed key untouched.
+
+- `steering/meetings/chatgpt-2026-11-27-cycle-194.md` — Meeting #107, cycle #194: 43-row packet/table join is exact but not blind: proposed values are exposed; key retirement and independent review remain required.
+
+
+## Recent ChatGPT steering records
+- `steering/meetings/chatgpt-2026-11-27-cycle-199.md` — Meeting #112, cycle #199: independently re-parsed 43/43 joins and confirmed all proposed values remain exposed.
+
+- `steering/meetings/chatgpt-2026-11-28-cycle-200.md` — Meeting #113, cycle #200: 43/43 structural joins rechecked; proposed values remain exposed; no blind review.
