@@ -99,3 +99,14 @@ once this repo has had its own incident).
 
 - logs/2026-11-17-cycle100-packet-atlas-join-precommit.md / -result.md — independent packet/table join recheck (confirms ChatGPT #100).
 - logs/2026-11-18-config-claude-status-proposal.md (2026-11-18, staged replacement for stale 'bootstrap' Status in config/claude.md; awaits user confirmation)
+
+
+## Cycle #145 additions
+
+- steering/meetings/2026-11-22-meeting-61.md — Steering Committee Meeting #61 (2026-11-22), cycle #145; blind-packet exposure verified and a separate redacted packet prepared for review.
+- data/blind-review/sq2-blind-packet-43-redacted.csv — proposed no-value packet for a strict-blind second reader; do not distribute the original packet or KEY.
+
+
+## Cycle #146 additions
+
+- `steering/meetings/2026-11-22-meeting-62.md` — Steering Committee Meeting #62 (2026-11-22), ChatGPT cycle #146; redacted packet structurally checked, independent reviewer still missing.
