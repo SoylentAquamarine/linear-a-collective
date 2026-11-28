@@ -102,3 +102,5 @@ once this repo has had its own incident).
 
 - `steering/meetings/chatgpt-2026-11-28-cycle-201.md` — Meeting #114, cycle #201: sign-confidence first; packet is not blind because proposed values are exposed.
 - `logs/2026-11-28-chatgpt-linear-a-data-inventory-audit.md` — 43-row confidence table parsed; stale data inventory and homepage packet claim corrected in review.
+
+- `steering/meetings/chatgpt-2026-11-28-cycle-202.md` — Meeting #115, cycle #202: independent evidence review, project-specific blockers and next action.
