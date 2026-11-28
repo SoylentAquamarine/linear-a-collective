@@ -104,3 +104,4 @@ once this repo has had its own incident).
 - `logs/2026-11-28-chatgpt-linear-a-data-inventory-audit.md` — 43-row confidence table parsed; stale data inventory and homepage packet claim corrected in review.
 
 - `steering/meetings/chatgpt-2026-11-28-cycle-202.md` — Meeting #115, cycle #202: independent evidence review, project-specific blockers and next action.
+- `steering/meetings/chatgpt-2026-11-28-cycle-203.md` — Meeting #116, cycle #203: 43 unique confidence rows; exposed packet remains non-blind; independent custodian required.
